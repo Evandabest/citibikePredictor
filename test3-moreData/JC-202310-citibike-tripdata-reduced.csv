@@ -1,0 +1,2888 @@
+rideable_type,started_at,start_station_name,end_station_name
+0,2023-10-08 19:05:43,Brunswick St,City Hall
+0,2023-10-04 17:58:58,Clinton St & Newark St,City Hall
+0,2023-10-28 22:00:44,Clinton St & Newark St,City Hall
+0,2023-10-28 16:36:47,Clinton St & Newark St,City Hall
+0,2023-10-08 10:39:35,Astor Place,City Hall
+0,2023-10-03 11:20:28,Jersey & 6th St,City Hall
+0,2023-10-01 16:05:50,Brunswick St,City Hall
+0,2023-10-31 18:18:04,Brunswick St,City Hall
+0,2023-10-01 11:54:59,Brunswick St,City Hall
+0,2023-10-02 10:22:02,Brunswick St,City Hall
+0,2023-10-03 16:25:52,Brunswick St,City Hall
+0,2023-10-01 10:56:42,Brunswick St,City Hall
+0,2023-10-29 12:36:44,Brunswick St,City Hall
+0,2023-10-01 09:43:15,Brunswick St,City Hall
+1,2023-10-09 17:20:14,Grand St,City Hall
+0,2023-10-26 17:26:24,Grand St,City Hall
+0,2023-10-27 13:37:41,Grand St,City Hall
+0,2023-10-28 09:51:49,Grand St,City Hall
+0,2023-10-08 19:53:49,Grand St,City Hall
+0,2023-10-05 18:44:39,Grand St,City Hall
+0,2023-10-02 11:28:07,Grand St,City Hall
+0,2023-10-29 10:48:44,Grand St,City Hall
+0,2023-10-26 15:09:13,Grand St,City Hall
+0,2023-10-25 10:43:32,Brunswick St,City Hall
+0,2023-10-28 16:54:06,Oakland Ave,City Hall
+0,2023-10-09 07:36:47,Montgomery St,City Hall
+0,2023-10-11 08:15:58,Dixon Mills,City Hall
+0,2023-10-26 07:56:24,Dixon Mills,City Hall
+0,2023-10-11 12:43:06,Dixon Mills,City Hall
+0,2023-10-11 17:22:16,Dixon Mills,City Hall
+0,2023-10-16 18:30:32,Montgomery St,City Hall
+0,2023-10-02 19:31:15,Dixon Mills,City Hall
+0,2023-10-12 13:21:38,Dixon Mills,City Hall
+0,2023-10-01 13:44:36,Montgomery St,City Hall
+0,2023-10-30 18:21:04,Montgomery St,City Hall
+0,2023-10-02 20:32:41,Montgomery St,City Hall
+0,2023-10-09 18:34:50,Montgomery St,City Hall
+0,2023-10-11 11:24:26,Montgomery St,City Hall
+0,2023-10-03 12:31:36,Montgomery St,City Hall
+0,2023-10-11 13:22:48,Montgomery St,City Hall
+0,2023-10-08 18:00:30,Montgomery St,City Hall
+0,2023-10-28 15:19:16,4 St & River St,City Hall
+0,2023-10-16 17:17:28,Washington St,City Hall
+0,2023-10-28 13:36:49,Washington St,City Hall
+0,2023-10-13 13:27:40,Washington St,City Hall
+1,2023-10-11 19:09:15,Washington St,City Hall
+0,2023-10-02 20:06:54,Washington St,City Hall
+0,2023-10-30 14:14:53,Washington St,City Hall
+0,2023-10-10 13:02:15,Washington St,City Hall
+0,2023-10-19 14:43:38,Washington St,City Hall
+0,2023-10-24 16:47:19,Washington St,City Hall
+0,2023-10-24 13:02:17,Washington St,City Hall
+0,2023-10-03 13:06:00,Washington St,City Hall
+0,2023-10-22 20:10:04,Washington St,City Hall
+0,2023-10-23 12:47:03,Clinton St & Newark St,City Hall
+0,2023-10-01 10:02:32,Oakland Ave,City Hall
+0,2023-10-11 19:57:08,Grand St,City Hall
+0,2023-10-03 19:26:07,Grand St,City Hall
+1,2023-10-28 10:00:38,Grand St,City Hall
+0,2023-10-05 17:47:59,Grand St,City Hall
+0,2023-10-17 22:15:29,Jersey & 6th St,City Hall
+0,2023-10-30 20:00:12,Jersey & 6th St,City Hall
+0,2023-10-13 18:12:03,Bloomfield St & 15 St,City Hall
+0,2023-10-13 18:11:52,Bloomfield St & 15 St,City Hall
+0,2023-10-02 15:15:54,Jersey & 6th St,City Hall
+0,2023-10-28 22:17:31,Jersey & 6th St,City Hall
+0,2023-10-26 20:25:47,Jersey & 6th St,City Hall
+0,2023-10-12 12:48:32,Jersey & 6th St,City Hall
+0,2023-10-06 11:34:51,Lafayette Park,City Hall
+0,2023-10-06 13:04:45,Lafayette Park,City Hall
+0,2023-10-08 13:14:15,Lafayette Park,City Hall
+0,2023-10-31 14:23:29,Lafayette Park,City Hall
+0,2023-10-08 14:42:42,Lafayette Park,City Hall
+0,2023-10-24 08:38:58,Lafayette Park,City Hall
+0,2023-10-24 13:30:22,Lafayette Park,City Hall
+0,2023-10-27 13:34:50,Lafayette Park,City Hall
+0,2023-10-09 12:27:25,Lafayette Park,City Hall
+0,2023-10-16 13:30:48,Lafayette Park,City Hall
+0,2023-10-15 18:52:18,Lafayette Park,City Hall
+0,2023-10-05 13:12:44,Lafayette Park,City Hall
+0,2023-10-15 12:54:31,Lafayette Park,City Hall
+0,2023-10-17 12:58:30,Lafayette Park,City Hall
+0,2023-10-26 08:30:00,Lafayette Park,City Hall
+0,2023-10-17 18:52:00,Monmouth and 6th,City Hall
+0,2023-10-09 11:09:38,Lafayette Park,City Hall
+0,2023-10-05 21:19:31,Lafayette Park,City Hall
+0,2023-10-03 08:06:14,Lafayette Park,City Hall
+0,2023-10-01 13:10:58,Lafayette Park,City Hall
+0,2023-10-28 18:44:35,Lafayette Park,City Hall
+1,2023-10-17 08:28:40,Lafayette Park,City Hall
+0,2023-10-28 16:27:14,Astor Place,City Hall
+0,2023-10-07 16:17:26,Adams St & 2 St,City Hall
+0,2023-10-06 10:15:26,Astor Place,City Hall
+0,2023-10-24 14:09:58,McGinley Square,City Hall
+0,2023-10-05 14:54:25,McGinley Square,City Hall
+0,2023-10-28 13:58:29,McGinley Square,City Hall
+0,2023-10-27 07:39:28,Leonard Gordon Park,City Hall
+0,2023-10-16 07:51:07,Leonard Gordon Park,City Hall
+1,2023-10-01 15:06:19,Leonard Gordon Park,City Hall
+0,2023-10-29 04:08:47,Newport PATH,City Hall
+0,2023-10-30 17:03:08,Adams St & 2 St,City Hall
+0,2023-10-27 19:57:22,McGinley Square,City Hall
+0,2023-10-07 12:45:52,Newark Ave,City Hall
+0,2023-10-10 06:57:41,Newark Ave,City Hall
+1,2023-10-06 16:32:34,Newark Ave,City Hall
+0,2023-10-23 13:23:04,Newark Ave,City Hall
+0,2023-10-16 13:56:45,Newark Ave,City Hall
+0,2023-10-23 12:16:05,Newark Ave,City Hall
+0,2023-10-28 12:11:01,Newark Ave,City Hall
+1,2023-10-04 17:44:22,Oakland Ave,City Hall
+0,2023-10-04 16:49:20,Oakland Ave,City Hall
+0,2023-10-06 18:51:56,Washington St,City Hall
+0,2023-10-23 18:56:49,Washington St,City Hall
+0,2023-10-17 17:14:58,Washington St,City Hall
+0,2023-10-15 18:52:10,Lafayette Park,City Hall
+0,2023-10-01 09:07:46,Lafayette Park,City Hall
+0,2023-10-28 14:54:50,Dey St,City Hall
+0,2023-10-24 13:52:45,Grand St,City Hall
+0,2023-10-03 18:43:30,Newport PATH,City Hall
+0,2023-10-01 12:47:08,Newport PATH,City Hall
+0,2023-10-01 15:04:09,Newport PATH,City Hall
+0,2023-10-24 14:44:20,Bergen Ave,City Hall
+0,2023-10-18 12:15:49,Newport PATH,City Hall
+0,2023-10-27 13:13:27,Newport PATH,City Hall
+0,2023-10-26 11:11:43,Newport PATH,City Hall
+0,2023-10-09 17:32:14,Newport PATH,City Hall
+0,2023-10-28 13:58:07,McGinley Square,City Hall
+0,2023-10-01 17:43:39,River St & 1 St,City Hall
+0,2023-10-03 17:52:50,Oakland Ave,City Hall
+0,2023-10-10 10:37:47,Newark Ave,City Hall
+0,2023-10-26 12:23:07,Newark Ave,City Hall
+0,2023-10-01 14:10:31,Newark Ave,City Hall
+0,2023-10-27 17:03:23,Newark Ave,City Hall
+0,2023-10-27 15:35:39,Newark Ave,City Hall
+0,2023-10-01 16:38:46,Newark Ave,City Hall
+0,2023-10-03 19:32:54,Newark Ave,City Hall
+0,2023-10-28 12:10:28,Newark Ave,City Hall
+0,2023-10-02 18:19:51,Astor Place,City Hall
+0,2023-10-04 21:24:09,Willow Ave & 12 St,City Hall
+0,2023-10-24 17:08:20,Jersey & 3rd,City Hall
+0,2023-10-15 12:04:19,Jersey & 3rd,City Hall
+0,2023-10-05 18:54:24,Jersey & 3rd,City Hall
+0,2023-10-24 19:29:09,Jersey & 3rd,City Hall
+0,2023-10-28 09:56:46,Jersey & 3rd,City Hall
+0,2023-10-25 20:08:48,Grand St & 14 St,City Hall
+0,2023-10-02 15:09:15,Hoboken Terminal - River St & Hudson Pl,City Hall
+0,2023-10-04 17:48:52,Dey St,City Hall
+0,2023-10-04 17:40:29,Hoboken Terminal - River St & Hudson Pl,City Hall
+0,2023-10-05 10:03:36,Jersey & 6th St,City Hall
+0,2023-10-27 18:14:22,Southwest Park - Jackson St & Observer Hwy,City Hall
+0,2023-10-27 12:12:41,Grand St,City Hall
+1,2023-10-26 08:55:24,Montgomery St,City Hall
+0,2023-10-24 16:42:41,Montgomery St,City Hall
+0,2023-10-02 15:32:16,Montgomery St,City Hall
+0,2023-10-05 19:11:58,Montgomery St,City Hall
+0,2023-10-09 15:51:55,4 St & River St,City Hall
+0,2023-10-01 15:22:28,Bergen Ave,City Hall
+0,2023-10-09 16:29:51,Newport PATH,City Hall
+0,2023-10-30 17:18:11,Newport PATH,City Hall
+0,2023-10-02 16:17:39,Newport PATH,City Hall
+0,2023-10-04 16:27:43,Newport PATH,City Hall
+0,2023-10-27 13:35:04,Newport PATH,City Hall
+0,2023-10-01 18:05:51,Newport PATH,City Hall
+0,2023-10-24 15:36:20,Newport PATH,City Hall
+0,2023-10-03 13:18:41,Newport PATH,City Hall
+0,2023-10-09 17:31:30,Newport PATH,City Hall
+1,2023-10-10 17:46:34,Newport PATH,City Hall
+0,2023-10-11 17:22:38,Newport PATH,City Hall
+0,2023-10-27 18:49:26,Newport PATH,City Hall
+0,2023-10-11 18:52:31,Newport PATH,City Hall
+0,2023-10-28 14:54:36,Dey St,City Hall
+0,2023-10-24 14:42:33,Hoboken Terminal - River St & Hudson Pl,City Hall
+0,2023-10-26 13:27:07,Oakland Ave,City Hall
+0,2023-10-30 12:52:42,Clinton St & Newark St,City Hall
+0,2023-10-02 11:51:21,Jersey & 6th St,City Hall
+0,2023-10-01 15:40:40,Grand St,City Hall
+0,2023-10-18 19:23:05,Newark Ave,City Hall
+0,2023-10-01 06:26:00,Grant Ave & MLK Dr,City Hall
+0,2023-10-26 16:44:02,Bloomfield St & 15 St,City Hall
+1,2023-10-06 22:40:53,Glenwood Ave,City Hall
+0,2023-10-27 18:15:03,Southwest Park - Jackson St & Observer Hwy,City Hall
+0,2023-10-27 14:20:51,Newark Ave,City Hall
+0,2023-10-07 20:14:13,Glenwood Ave,City Hall
+0,2023-10-03 17:03:32,Glenwood Ave,City Hall
+0,2023-10-24 12:57:00,Newark Ave,City Hall
+0,2023-10-06 19:20:42,Paulus Hook,City Hall
+0,2023-10-01 18:21:13,Paulus Hook,City Hall
+0,2023-10-25 13:15:44,Paulus Hook,City Hall
+0,2023-10-26 12:01:34,Paulus Hook,City Hall
+0,2023-10-23 13:45:27,Paulus Hook,City Hall
+0,2023-10-01 13:10:36,Paulus Hook,City Hall
+0,2023-10-09 12:31:30,Paulus Hook,City Hall
+0,2023-10-10 17:41:17,Paulus Hook,City Hall
+0,2023-10-07 09:55:24,Paulus Hook,City Hall
+0,2023-10-01 19:10:41,Jersey & 3rd,City Hall
+0,2023-10-01 16:35:16,Hoboken Ave at Monmouth St,City Hall
+1,2023-10-06 18:39:58,Hoboken Ave at Monmouth St,City Hall
+1,2023-10-06 18:40:13,Hoboken Ave at Monmouth St,City Hall
+0,2023-10-01 17:11:51,Hoboken Ave at Monmouth St,City Hall
+0,2023-10-11 19:49:40,Stevens - River Ter & 6 St,City Hall
+0,2023-10-07 23:47:23,Adams St & 2 St,City Hall
+0,2023-10-13 13:27:42,Astor Place,City Hall
+1,2023-10-17 09:29:09,Lafayette Park,City Hall
+0,2023-10-27 18:41:48,Lafayette Park,City Hall
+0,2023-10-28 12:21:52,Lafayette Park,City Hall
+0,2023-10-23 13:21:30,Lafayette Park,City Hall
+0,2023-10-27 15:40:06,Lafayette Park,City Hall
+0,2023-10-03 07:58:18,Lafayette Park,City Hall
+0,2023-10-01 10:43:51,Lafayette Park,City Hall
+0,2023-10-01 08:34:12,Lafayette Park,City Hall
+0,2023-10-01 12:44:19,Lafayette Park,City Hall
+0,2023-10-31 19:56:32,4 St & Grand St,City Hall
+0,2023-10-12 04:50:02,Lafayette Park,City Hall
+0,2023-10-12 18:09:16,Lafayette Park,City Hall
+1,2023-10-11 08:22:14,Lafayette Park,City Hall
+0,2023-10-02 17:21:04,Glenwood Ave,City Hall
+0,2023-10-27 13:30:25,Jersey & 3rd,City Hall
+0,2023-10-13 13:21:41,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-01 14:35:22,JC Medical Center,City Hall
+0,2023-10-31 08:01:27,JC Medical Center,City Hall
+0,2023-10-15 18:48:05,JC Medical Center,City Hall
+0,2023-10-23 17:21:13,Morris Canal,City Hall
+0,2023-10-28 19:57:48,JC Medical Center,City Hall
+0,2023-10-03 19:58:45,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-28 10:53:42,JC Medical Center,City Hall
+0,2023-10-15 08:51:02,JC Medical Center,City Hall
+0,2023-10-09 18:28:22,JC Medical Center,City Hall
+0,2023-10-31 13:44:01,JC Medical Center,City Hall
+0,2023-10-01 15:03:20,Morris Canal,City Hall
+0,2023-10-17 15:39:45,JC Medical Center,City Hall
+0,2023-10-08 08:57:33,JC Medical Center,City Hall
+0,2023-10-07 12:13:36,JC Medical Center,City Hall
+0,2023-10-01 18:09:37,JC Medical Center,City Hall
+0,2023-10-01 10:58:02,JC Medical Center,City Hall
+0,2023-10-09 08:00:09,JC Medical Center,City Hall
+0,2023-10-01 12:56:37,JC Medical Center,City Hall
+0,2023-10-04 15:25:42,Morris Canal,City Hall
+0,2023-10-15 15:05:23,JC Medical Center,City Hall
+0,2023-10-11 08:25:19,JC Medical Center,City Hall
+0,2023-10-22 17:16:56,JC Medical Center,City Hall
+0,2023-10-12 13:18:44,JC Medical Center,City Hall
+0,2023-10-02 13:50:53,JC Medical Center,City Hall
+0,2023-10-27 13:11:37,JC Medical Center,City Hall
+0,2023-10-16 12:57:50,JC Medical Center,City Hall
+0,2023-10-04 13:03:57,JC Medical Center,City Hall
+0,2023-10-09 11:18:06,JC Medical Center,City Hall
+0,2023-10-18 07:43:18,JC Medical Center,City Hall
+0,2023-10-01 10:53:02,Morris Canal,City Hall
+0,2023-10-08 10:49:13,Morris Canal,City Hall
+0,2023-10-29 10:49:19,JC Medical Center,City Hall
+0,2023-10-05 20:24:40,JC Medical Center,City Hall
+0,2023-10-10 14:14:19,JC Medical Center,City Hall
+0,2023-10-24 11:39:34,Lafayette Park,City Hall
+0,2023-10-31 13:26:56,Bergen Ave & Sip Ave,City Hall
+0,2023-10-30 13:24:51,Bergen Ave & Sip Ave,City Hall
+0,2023-10-11 14:54:30,Bergen Ave & Sip Ave,City Hall
+0,2023-10-27 12:23:48,Harborside,City Hall
+1,2023-10-06 14:28:45,Harborside,City Hall
+0,2023-10-04 21:48:45,Harborside,City Hall
+0,2023-10-18 11:30:56,Harborside,City Hall
+0,2023-10-24 21:21:17,Harborside,City Hall
+0,2023-10-01 17:11:30,Harborside,City Hall
+0,2023-10-05 12:23:38,Harborside,City Hall
+0,2023-10-13 14:20:00,Harborside,City Hall
+0,2023-10-12 00:49:08,Harborside,City Hall
+0,2023-10-01 16:00:38,Harborside,City Hall
+0,2023-10-03 12:05:49,Harborside,City Hall
+0,2023-10-04 07:07:11,Harborside,City Hall
+1,2023-10-04 12:52:50,Harborside,City Hall
+0,2023-10-03 22:33:39,Harborside,City Hall
+0,2023-10-04 18:44:13,Harborside,City Hall
+0,2023-10-17 13:23:16,Harborside,City Hall
+0,2023-10-04 18:37:33,Harborside,City Hall
+0,2023-10-16 18:38:36,Harborside,City Hall
+0,2023-10-04 18:46:17,Harborside,City Hall
+0,2023-10-28 10:46:16,Harborside,City Hall
+0,2023-10-10 14:21:12,Harborside,City Hall
+0,2023-10-13 19:34:45,Lafayette Park,City Hall
+0,2023-10-26 17:57:46,McGinley Square,City Hall
+0,2023-10-25 16:34:02,Hoboken Terminal - River St & Hudson Pl,City Hall
+0,2023-10-09 12:14:42,Jersey & 3rd,City Hall
+0,2023-10-01 17:07:47,Jersey & 3rd,City Hall
+0,2023-10-11 08:13:48,Jersey & 3rd,City Hall
+0,2023-10-16 18:04:52,Bergen Ave & Sip Ave,City Hall
+0,2023-10-25 11:49:59,Bergen Ave & Sip Ave,City Hall
+0,2023-10-18 14:56:04,Bergen Ave & Sip Ave,City Hall
+0,2023-10-16 12:57:08,Bergen Ave & Sip Ave,City Hall
+0,2023-10-25 15:10:43,Bergen Ave & Sip Ave,City Hall
+0,2023-10-18 19:05:38,Morris Canal,City Hall
+0,2023-10-31 09:00:49,Morris Canal,City Hall
+0,2023-10-10 14:03:09,JC Medical Center,City Hall
+0,2023-10-05 14:18:48,JC Medical Center,City Hall
+0,2023-10-18 11:39:20,JC Medical Center,City Hall
+1,2023-10-26 14:08:11,JC Medical Center,City Hall
+1,2023-10-17 13:06:43,JC Medical Center,City Hall
+1,2023-10-25 21:52:59,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-06 18:05:36,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-25 18:21:35,JC Medical Center,City Hall
+1,2023-10-01 06:33:20,Morris Canal,City Hall
+0,2023-10-24 17:18:15,Morris Canal,City Hall
+0,2023-10-19 09:13:16,JC Medical Center,City Hall
+0,2023-10-19 07:57:32,JC Medical Center,City Hall
+0,2023-10-24 08:04:32,JC Medical Center,City Hall
+0,2023-10-16 08:17:34,JC Medical Center,City Hall
+0,2023-10-23 07:59:22,JC Medical Center,City Hall
+0,2023-10-11 08:12:18,JC Medical Center,City Hall
+0,2023-10-18 08:04:29,JC Medical Center,City Hall
+0,2023-10-26 08:07:39,JC Medical Center,City Hall
+0,2023-10-25 08:10:41,JC Medical Center,City Hall
+0,2023-10-27 12:33:27,JC Medical Center,City Hall
+0,2023-10-07 16:48:36,JC Medical Center,City Hall
+0,2023-10-26 22:10:11,JC Medical Center,City Hall
+0,2023-10-04 17:42:01,Southwest Park - Jackson St & Observer Hwy,City Hall
+0,2023-10-01 07:06:43,Harborside,City Hall
+0,2023-10-25 08:41:59,Liberty Light Rail,City Hall
+0,2023-10-04 17:12:44,Liberty Light Rail,City Hall
+0,2023-10-12 14:21:05,Liberty Light Rail,City Hall
+0,2023-10-17 13:33:20,Liberty Light Rail,City Hall
+0,2023-10-28 14:26:29,Liberty Light Rail,City Hall
+0,2023-10-08 09:58:05,Liberty Light Rail,City Hall
+0,2023-10-29 06:23:09,Liberty Light Rail,City Hall
+0,2023-10-12 05:57:48,Liberty Light Rail,City Hall
+0,2023-10-13 05:54:43,Liberty Light Rail,City Hall
+0,2023-10-01 06:56:29,Liberty Light Rail,City Hall
+1,2023-10-07 06:56:27,Liberty Light Rail,City Hall
+0,2023-10-03 07:18:28,Liberty Light Rail,City Hall
+0,2023-10-28 06:23:39,Liberty Light Rail,City Hall
+0,2023-10-19 05:58:21,Liberty Light Rail,City Hall
+0,2023-10-14 06:46:23,Liberty Light Rail,City Hall
+0,2023-10-15 10:38:06,Liberty Light Rail,City Hall
+0,2023-10-10 08:19:12,Liberty Light Rail,City Hall
+0,2023-10-14 19:45:48,Liberty Light Rail,City Hall
+0,2023-10-13 13:17:48,Liberty Light Rail,City Hall
+0,2023-10-15 10:40:47,Liberty Light Rail,City Hall
+1,2023-10-03 09:21:53,Liberty Light Rail,City Hall
+0,2023-10-02 13:38:23,Liberty Light Rail,City Hall
+1,2023-10-01 09:58:18,Liberty Light Rail,City Hall
+0,2023-10-27 10:41:15,Liberty Light Rail,City Hall
+0,2023-10-13 09:58:38,Liberty Light Rail,City Hall
+0,2023-10-16 16:31:28,Liberty Light Rail,City Hall
+0,2023-10-03 13:56:38,Liberty Light Rail,City Hall
+0,2023-10-05 09:51:10,Liberty Light Rail,City Hall
+0,2023-10-30 13:18:01,Liberty Light Rail,City Hall
+0,2023-10-15 12:08:34,Liberty Light Rail,City Hall
+0,2023-10-28 17:50:56,Liberty Light Rail,City Hall
+0,2023-10-01 13:16:44,Liberty Light Rail,City Hall
+0,2023-10-30 09:00:30,Liberty Light Rail,City Hall
+0,2023-10-03 14:00:07,Liberty Light Rail,City Hall
+0,2023-10-31 20:33:43,Liberty Light Rail,City Hall
+1,2023-10-01 09:27:08,Liberty Light Rail,City Hall
+0,2023-10-01 13:49:09,Liberty Light Rail,City Hall
+0,2023-10-19 09:48:26,Liberty Light Rail,City Hall
+0,2023-10-02 17:47:50,Liberty Light Rail,City Hall
+0,2023-10-02 11:55:32,Liberty Light Rail,City Hall
+0,2023-10-15 09:25:25,Liberty Light Rail,City Hall
+0,2023-10-29 09:50:27,Liberty Light Rail,City Hall
+0,2023-10-27 12:04:26,Liberty Light Rail,City Hall
+0,2023-10-13 12:30:42,Liberty Light Rail,City Hall
+0,2023-10-01 13:51:18,Liberty Light Rail,City Hall
+0,2023-10-13 16:18:13,Liberty Light Rail,City Hall
+0,2023-10-13 13:22:00,Liberty Light Rail,City Hall
+0,2023-10-30 10:18:28,Liberty Light Rail,City Hall
+1,2023-10-06 13:49:49,Liberty Light Rail,City Hall
+1,2023-10-13 14:00:02,Liberty Light Rail,City Hall
+0,2023-10-09 17:28:43,Liberty Light Rail,City Hall
+1,2023-10-18 08:39:54,Liberty Light Rail,City Hall
+0,2023-10-27 19:31:13,Liberty Light Rail,City Hall
+0,2023-10-24 18:59:38,Liberty Light Rail,City Hall
+0,2023-10-27 19:08:37,Liberty Light Rail,City Hall
+0,2023-10-05 09:13:29,Jersey & 3rd,City Hall
+0,2023-10-27 19:07:36,Grand St & 14 St,City Hall
+1,2023-10-15 01:24:56,Bergen Ave & Sip Ave,City Hall
+0,2023-10-24 13:58:17,Bergen Ave & Sip Ave,City Hall
+0,2023-10-15 12:24:58,Bergen Ave & Sip Ave,City Hall
+0,2023-10-26 13:17:22,Paulus Hook,City Hall
+0,2023-10-16 17:51:59,Paulus Hook,City Hall
+1,2023-10-02 12:48:33,Paulus Hook,City Hall
+0,2023-10-09 12:25:05,Paulus Hook,City Hall
+0,2023-10-01 08:11:49,JC Medical Center,City Hall
+0,2023-10-12 22:13:24,Lafayette Park,City Hall
+1,2023-10-06 13:36:45,Glenwood Ave,City Hall
+0,2023-10-01 10:11:38,Liberty Light Rail,City Hall
+0,2023-10-09 08:36:53,Liberty Light Rail,City Hall
+0,2023-10-06 06:03:14,Liberty Light Rail,City Hall
+0,2023-10-23 18:39:40,Liberty Light Rail,City Hall
+0,2023-10-26 21:17:45,Liberty Light Rail,City Hall
+0,2023-10-06 09:07:17,Liberty Light Rail,City Hall
+0,2023-10-28 12:43:54,Liberty Light Rail,City Hall
+0,2023-10-28 10:20:37,Liberty Light Rail,City Hall
+0,2023-10-29 10:02:24,Liberty Light Rail,City Hall
+0,2023-10-28 20:54:31,Liberty Light Rail,City Hall
+0,2023-10-27 12:31:24,Liberty Light Rail,City Hall
+1,2023-10-13 17:17:43,Liberty Light Rail,City Hall
+0,2023-10-26 17:09:10,Newport PATH,City Hall
+1,2023-10-26 15:24:35,McGinley Square,City Hall
+0,2023-10-18 19:44:12,Harborside,City Hall
+0,2023-10-05 08:58:31,JC Medical Center,City Hall
+0,2023-10-28 13:55:34,JC Medical Center,City Hall
+0,2023-10-19 14:44:22,JC Medical Center,City Hall
+0,2023-10-01 10:14:57,Morris Canal,City Hall
+0,2023-10-28 22:13:35,Washington St,City Hall
+0,2023-10-25 10:55:57,Lafayette Park,City Hall
+0,2023-10-25 15:33:02,Lafayette Park,City Hall
+0,2023-10-19 09:46:57,Liberty Light Rail,City Hall
+0,2023-10-18 18:07:26,Liberty Light Rail,City Hall
+1,2023-10-16 19:11:49,Liberty Light Rail,City Hall
+0,2023-10-15 10:38:04,Liberty Light Rail,City Hall
+1,2023-10-02 17:30:50,McGinley Square,City Hall
+0,2023-10-27 19:56:43,McGinley Square,City Hall
+0,2023-10-25 15:29:38,McGinley Square,City Hall
+0,2023-10-30 19:01:15,Brunswick & 6th,City Hall
+0,2023-10-12 16:16:37,Harborside,City Hall
+0,2023-10-28 07:49:28,Hilltop,City Hall
+0,2023-10-27 16:25:07,Hilltop,City Hall
+0,2023-10-25 18:49:26,Washington St,City Hall
+0,2023-10-07 12:16:34,Liberty Light Rail,City Hall
+0,2023-10-27 13:19:27,Glenwood Ave,City Hall
+0,2023-10-25 15:00:47,JC Medical Center,City Hall
+0,2023-10-18 13:15:50,Communipaw & Berry Lane,City Hall
+0,2023-10-26 13:15:08,Communipaw & Berry Lane,City Hall
+0,2023-10-19 12:50:49,Communipaw & Berry Lane,City Hall
+0,2023-10-25 13:21:16,Communipaw & Berry Lane,City Hall
+1,2023-10-11 13:19:26,Communipaw & Berry Lane,City Hall
+0,2023-10-19 13:39:06,Communipaw & Berry Lane,City Hall
+0,2023-10-10 08:17:25,Communipaw & Berry Lane,City Hall
+0,2023-10-11 12:38:47,Communipaw & Berry Lane,City Hall
+0,2023-10-13 13:25:42,Communipaw & Berry Lane,City Hall
+0,2023-10-31 12:45:45,Communipaw & Berry Lane,City Hall
+0,2023-10-28 08:53:31,Communipaw & Berry Lane,City Hall
+0,2023-10-19 14:13:43,Communipaw & Berry Lane,City Hall
+1,2023-10-10 08:14:09,Communipaw & Berry Lane,City Hall
+0,2023-10-09 07:55:15,Communipaw & Berry Lane,City Hall
+0,2023-10-25 08:42:59,Liberty Light Rail,City Hall
+0,2023-10-25 18:35:35,Washington St,City Hall
+0,2023-10-01 09:09:42,Hilltop,City Hall
+0,2023-10-02 12:14:40,Hilltop,City Hall
+0,2023-10-28 07:48:17,Hilltop,City Hall
+0,2023-10-01 09:08:53,Hilltop,City Hall
+0,2023-10-02 16:23:21,Lafayette Park,City Hall
+0,2023-10-04 16:21:19,Lafayette Park,City Hall
+0,2023-10-05 17:26:14,Lafayette Park,City Hall
+0,2023-10-31 17:57:50,Lafayette Park,City Hall
+0,2023-10-12 08:08:44,Lafayette Park,City Hall
+0,2023-10-01 06:27:40,McGinley Square,City Hall
+0,2023-10-23 18:34:37,Harborside,City Hall
+0,2023-10-27 13:00:47,Harborside,City Hall
+0,2023-10-03 08:46:04,Liberty Light Rail,City Hall
+0,2023-10-31 08:28:28,Liberty Light Rail,City Hall
+1,2023-10-05 09:42:35,Liberty Light Rail,City Hall
+0,2023-10-13 07:59:57,Leonard Gordon Park,City Hall
+0,2023-10-01 11:59:41,JC Medical Center,City Hall
+0,2023-10-10 10:02:07,JC Medical Center,City Hall
+1,2023-10-27 21:01:36,JC Medical Center,City Hall
+0,2023-10-12 08:45:51,JC Medical Center,City Hall
+0,2023-10-24 11:42:52,Communipaw & Berry Lane,City Hall
+0,2023-10-06 08:55:08,Communipaw & Berry Lane,City Hall
+0,2023-10-27 09:17:16,Communipaw & Berry Lane,City Hall
+0,2023-10-08 11:12:29,Communipaw & Berry Lane,City Hall
+0,2023-10-31 15:05:38,Communipaw & Berry Lane,City Hall
+0,2023-10-13 13:25:26,Communipaw & Berry Lane,City Hall
+0,2023-10-17 15:55:42,Communipaw & Berry Lane,City Hall
+1,2023-10-07 07:03:50,Communipaw & Berry Lane,City Hall
+1,2023-10-05 05:41:48,Liberty Light Rail,City Hall
+0,2023-10-25 12:41:50,Communipaw & Berry Lane,City Hall
+0,2023-10-18 13:21:32,Communipaw & Berry Lane,City Hall
+0,2023-10-26 07:46:19,Communipaw & Berry Lane,City Hall
+0,2023-10-24 16:26:43,Communipaw & Berry Lane,City Hall
+0,2023-10-13 06:05:43,Communipaw & Berry Lane,City Hall
+0,2023-10-14 08:23:43,Communipaw & Berry Lane,City Hall
+0,2023-10-10 05:47:38,Communipaw & Berry Lane,City Hall
+0,2023-10-28 09:16:35,Communipaw & Berry Lane,City Hall
+0,2023-10-11 06:00:57,Communipaw & Berry Lane,City Hall
+0,2023-10-26 16:04:18,Communipaw & Berry Lane,City Hall
+0,2023-10-24 17:04:37,Communipaw & Berry Lane,City Hall
+0,2023-10-01 16:13:31,Monmouth and 6th,City Hall
+0,2023-10-01 13:27:31,McGinley Square,City Hall
+0,2023-10-25 09:58:04,Hoboken Terminal - River St & Hudson Pl,City Hall
+0,2023-10-06 17:32:09,Paulus Hook,City Hall
+0,2023-10-08 09:58:50,Morris Canal,City Hall
+0,2023-10-06 08:45:58,Morris Canal,City Hall
+0,2023-10-02 17:27:07,Morris Canal,City Hall
+0,2023-10-31 16:42:50,Morris Canal,City Hall
+0,2023-10-27 10:24:29,JC Medical Center,City Hall
+0,2023-10-04 16:48:58,Communipaw & Berry Lane,City Hall
+0,2023-10-19 15:22:38,Lafayette Park,City Hall
+0,2023-10-17 08:15:23,Lafayette Park,City Hall
+0,2023-10-11 07:59:37,Lafayette Park,City Hall
+0,2023-10-01 06:55:15,Lafayette Park,City Hall
+0,2023-10-09 19:54:15,4 St & Grand St,City Hall
+0,2023-10-28 09:39:26,Lafayette Park,City Hall
+0,2023-10-27 08:12:04,Lafayette Park,City Hall
+0,2023-10-27 17:44:29,Union St,City Hall
+0,2023-10-15 10:52:09,Liberty Light Rail,City Hall
+0,2023-10-27 08:51:19,Liberty Light Rail,City Hall
+1,2023-10-05 08:43:34,Liberty Light Rail,City Hall
+0,2023-10-16 20:34:04,Liberty Light Rail,City Hall
+0,2023-10-28 18:22:22,Liberty Light Rail,City Hall
+0,2023-10-23 16:50:13,Liberty Light Rail,City Hall
+0,2023-10-13 08:37:01,Liberty Light Rail,City Hall
+0,2023-10-18 19:21:39,Morris Canal,City Hall
+0,2023-10-24 08:02:42,JC Medical Center,City Hall
+0,2023-10-03 22:43:59,Newark Ave,City Hall
+0,2023-10-10 11:28:39,Lafayette Park,City Hall
+0,2023-10-13 08:10:43,Lafayette Park,City Hall
+0,2023-10-04 17:26:57,Monmouth and 6th,City Hall
+0,2023-10-16 08:08:23,Lafayette Park,City Hall
+0,2023-10-08 09:40:01,Lafayette Park,City Hall
+1,2023-10-26 17:34:07,4 St & Grand St,City Hall
+1,2023-10-06 18:39:36,Hoboken Ave at Monmouth St,City Hall
+0,2023-10-04 17:15:34,Hoboken Ave at Monmouth St,City Hall
+0,2023-10-23 17:12:34,Newport PATH,City Hall
+0,2023-10-30 10:05:35,Liberty Light Rail,City Hall
+0,2023-10-19 10:21:33,Liberty Light Rail,City Hall
+0,2023-10-26 10:35:21,Liberty Light Rail,City Hall
+0,2023-10-10 07:21:13,Liberty Light Rail,City Hall
+0,2023-10-02 10:28:13,Liberty Light Rail,City Hall
+0,2023-10-05 20:26:33,Grand St,City Hall
+0,2023-10-28 13:28:17,Glenwood Ave,City Hall
+0,2023-10-26 11:37:55,Hoboken Terminal - River St & Hudson Pl,City Hall
+0,2023-10-27 07:54:03,Lafayette Park,City Hall
+0,2023-10-10 08:08:45,Lafayette Park,City Hall
+0,2023-10-26 17:11:48,Lafayette Park,City Hall
+0,2023-10-09 19:09:15,Lafayette Park,City Hall
+0,2023-10-31 08:52:23,Lafayette Park,City Hall
+0,2023-10-24 07:49:40,Lafayette Park,City Hall
+0,2023-10-28 07:56:27,Lafayette Park,City Hall
+0,2023-10-14 19:20:23,Lafayette Park,City Hall
+1,2023-10-16 14:15:33,JC Medical Center,City Hall
+0,2023-10-17 17:58:38,JC Medical Center,City Hall
+0,2023-10-25 17:03:15,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-06 16:35:16,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-27 17:05:27,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-31 17:11:13,Church Sq Park - 5 St & Park Ave,City Hall
+0,2023-10-02 12:48:24,Washington St,City Hall
+0,2023-10-09 12:56:24,York St & Marin Blvd,City Hall
+0,2023-10-09 12:52:05,York St & Marin Blvd,City Hall
+0,2023-10-05 18:11:44,York St & Marin Blvd,City Hall
+0,2023-10-24 18:50:16,City Hall,Astor Place
+1,2023-10-11 21:54:28,City Hall,Astor Place
+0,2023-10-31 19:29:26,City Hall,Grove St PATH
+0,2023-10-31 19:19:59,City Hall,Grove St PATH
+0,2023-10-31 19:17:35,City Hall,Grove St PATH
+0,2023-10-31 19:26:59,City Hall,Grove St PATH
+0,2023-10-31 19:24:37,City Hall,Grove St PATH
+0,2023-10-31 19:22:08,City Hall,Grove St PATH
+0,2023-10-01 16:26:23,City Hall,Paulus Hook
+0,2023-10-01 16:25:49,City Hall,Paulus Hook
+0,2023-10-28 16:10:27,City Hall,Brunswick St
+0,2023-10-10 17:52:53,City Hall,Jersey & 3rd
+0,2023-10-29 03:05:50,City Hall,
+0,2023-10-17 17:49:42,City Hall,Oakland Ave
+0,2023-10-03 21:32:34,City Hall,
+0,2023-10-09 17:16:56,City Hall,Oakland Ave
+0,2023-10-02 15:11:16,City Hall,
+0,2023-10-02 17:33:42,City Hall,
+0,2023-10-16 16:23:01,City Hall,
+0,2023-10-16 15:33:30,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-09 11:54:20,City Hall,Stevens - River Ter & 6 St
+0,2023-10-04 22:30:40,City Hall,Marin Light Rail
+0,2023-10-27 17:48:51,City Hall,Grove St PATH
+0,2023-10-23 21:23:23,City Hall,Marin Light Rail
+0,2023-10-18 20:50:50,City Hall,Marin Light Rail
+0,2023-10-18 20:44:53,City Hall,Marin Light Rail
+0,2023-10-02 19:23:41,City Hall,Marin Light Rail
+1,2023-10-06 18:52:22,City Hall,Marin Light Rail
+0,2023-10-31 06:46:05,City Hall,Grove St PATH
+0,2023-10-15 18:42:18,City Hall,Grove St PATH
+0,2023-10-11 07:13:39,City Hall,Grove St PATH
+0,2023-10-25 20:11:57,City Hall,Marin Light Rail
+0,2023-10-03 21:43:13,City Hall,Marin Light Rail
+0,2023-10-26 19:24:01,City Hall,Grove St PATH
+0,2023-10-24 15:44:30,City Hall,Grove St PATH
+0,2023-10-24 15:37:41,City Hall,Grove St PATH
+0,2023-10-24 15:41:16,City Hall,Grove St PATH
+0,2023-10-24 15:34:34,City Hall,Grove St PATH
+0,2023-10-05 10:51:45,City Hall,Grove St PATH
+0,2023-10-05 10:55:40,City Hall,Grove St PATH
+0,2023-10-05 10:59:46,City Hall,Grove St PATH
+0,2023-10-05 21:43:24,City Hall,Marin Light Rail
+0,2023-10-17 19:51:20,City Hall,Marin Light Rail
+1,2023-10-18 18:59:27,City Hall,Marin Light Rail
+0,2023-10-12 12:26:03,City Hall,Grove St PATH
+0,2023-10-18 21:43:44,City Hall,Marin Light Rail
+1,2023-10-05 18:48:13,City Hall,Marin Light Rail
+0,2023-10-15 16:13:03,City Hall,Grove St PATH
+0,2023-10-03 11:10:22,City Hall,Grove St PATH
+0,2023-10-03 11:13:54,City Hall,Grove St PATH
+0,2023-10-03 11:21:25,City Hall,Grove St PATH
+0,2023-10-03 11:17:34,City Hall,Grove St PATH
+0,2023-10-23 14:02:17,City Hall,Grove St PATH
+0,2023-10-23 13:45:57,City Hall,Grove St PATH
+0,2023-10-23 13:58:34,City Hall,Grove St PATH
+0,2023-10-23 13:33:06,City Hall,Grove St PATH
+0,2023-10-23 14:08:48,City Hall,Grove St PATH
+0,2023-10-23 13:42:54,City Hall,Grove St PATH
+0,2023-10-23 13:39:50,City Hall,Grove St PATH
+0,2023-10-23 14:05:44,City Hall,Grove St PATH
+0,2023-10-23 13:48:47,City Hall,Grove St PATH
+0,2023-10-23 14:11:52,City Hall,Grove St PATH
+0,2023-10-23 13:36:33,City Hall,Grove St PATH
+0,2023-10-23 13:51:46,City Hall,Grove St PATH
+0,2023-10-23 13:55:03,City Hall,Grove St PATH
+0,2023-10-18 11:55:11,City Hall,Marin Light Rail
+0,2023-10-06 11:33:18,City Hall,Grove St PATH
+0,2023-10-01 11:41:38,City Hall,Marin Light Rail
+0,2023-10-07 12:08:24,City Hall,Marin Light Rail
+0,2023-10-29 03:10:52,City Hall,Marin Light Rail
+0,2023-10-13 07:08:07,City Hall,Grove St PATH
+0,2023-10-13 06:42:37,City Hall,Grove St PATH
+0,2023-10-13 06:56:11,City Hall,Grove St PATH
+0,2023-10-13 07:02:26,City Hall,Grove St PATH
+0,2023-10-13 06:45:20,City Hall,Grove St PATH
+0,2023-10-13 06:51:08,City Hall,Grove St PATH
+0,2023-10-13 06:39:36,City Hall,Grove St PATH
+0,2023-10-13 07:10:17,City Hall,Grove St PATH
+0,2023-10-13 06:48:09,City Hall,Grove St PATH
+0,2023-10-23 12:02:30,City Hall,Grove St PATH
+0,2023-10-23 11:59:24,City Hall,Grove St PATH
+0,2023-10-23 11:56:14,City Hall,Grove St PATH
+0,2023-10-12 16:42:57,City Hall,Grove St PATH
+0,2023-10-27 19:10:43,City Hall,Marin Light Rail
+0,2023-10-07 13:58:55,City Hall,Marin Light Rail
+0,2023-10-31 19:25:07,City Hall,Marin Light Rail
+0,2023-10-27 14:50:31,City Hall,Grove St PATH
+0,2023-10-13 21:53:43,City Hall,Marin Light Rail
+0,2023-10-29 07:55:38,City Hall,Grove St PATH
+0,2023-10-29 07:59:36,City Hall,Grove St PATH
+0,2023-10-29 07:57:47,City Hall,Grove St PATH
+0,2023-10-25 19:53:37,City Hall,Marin Light Rail
+0,2023-10-27 14:25:30,City Hall,Grove St PATH
+0,2023-10-27 15:22:10,City Hall,Grove St PATH
+0,2023-10-27 14:39:21,City Hall,Grove St PATH
+0,2023-10-27 15:26:47,City Hall,Grove St PATH
+0,2023-10-27 15:17:45,City Hall,Grove St PATH
+0,2023-10-27 14:28:00,City Hall,Grove St PATH
+0,2023-10-27 14:32:07,City Hall,Grove St PATH
+0,2023-10-27 14:35:17,City Hall,Grove St PATH
+0,2023-10-27 15:13:12,City Hall,Grove St PATH
+0,2023-10-18 06:41:46,City Hall,Grove St PATH
+0,2023-10-12 07:13:21,City Hall,Grove St PATH
+0,2023-10-12 07:08:35,City Hall,Grove St PATH
+0,2023-10-12 07:11:00,City Hall,Grove St PATH
+0,2023-10-06 12:39:20,City Hall,Grove St PATH
+0,2023-10-27 11:25:54,City Hall,Grove St PATH
+0,2023-10-26 15:51:26,City Hall,Marin Light Rail
+0,2023-10-23 08:27:08,City Hall,Marin Light Rail
+0,2023-10-24 20:13:37,City Hall,Marin Light Rail
+0,2023-10-01 11:45:40,City Hall,Marin Light Rail
+0,2023-10-19 11:12:32,City Hall,Grove St PATH
+0,2023-10-23 12:59:38,City Hall,Marin Light Rail
+0,2023-10-03 20:00:25,City Hall,Grove St PATH
+0,2023-10-03 20:06:42,City Hall,Grove St PATH
+0,2023-10-27 12:19:00,City Hall,Marin Light Rail
+0,2023-10-31 15:15:29,City Hall,Grove St PATH
+0,2023-10-01 17:52:35,City Hall,Marin Light Rail
+0,2023-10-26 10:56:20,City Hall,Marin Light Rail
+1,2023-10-07 11:10:01,City Hall,Marin Light Rail
+0,2023-10-05 23:12:10,City Hall,Marin Light Rail
+0,2023-10-28 22:06:05,City Hall,Grove St PATH
+0,2023-10-02 13:09:16,City Hall,Grove St PATH
+0,2023-10-11 12:36:24,City Hall,Grove St PATH
+0,2023-10-11 12:44:18,City Hall,Grove St PATH
+0,2023-10-11 12:41:42,City Hall,Grove St PATH
+0,2023-10-11 12:39:00,City Hall,Grove St PATH
+0,2023-10-26 21:04:03,City Hall,Marin Light Rail
+0,2023-10-25 21:06:20,City Hall,Marin Light Rail
+0,2023-10-05 19:35:30,City Hall,Marin Light Rail
+0,2023-10-27 21:51:44,City Hall,Marin Light Rail
+0,2023-10-03 19:57:09,City Hall,Grove St PATH
+0,2023-10-03 19:54:09,City Hall,Grove St PATH
+0,2023-10-07 19:12:55,City Hall,Grove St PATH
+0,2023-10-16 11:34:31,City Hall,Marin Light Rail
+0,2023-10-18 21:16:29,City Hall,Marin Light Rail
+0,2023-10-02 12:07:57,City Hall,Marin Light Rail
+0,2023-10-25 16:24:35,City Hall,Grove St PATH
+0,2023-10-03 21:33:07,City Hall,Marin Light Rail
+0,2023-10-30 13:25:54,City Hall,Grove St PATH
+0,2023-10-30 15:33:44,City Hall,Grove St PATH
+0,2023-10-30 13:18:13,City Hall,Grove St PATH
+0,2023-10-30 13:23:26,City Hall,Grove St PATH
+0,2023-10-30 15:09:00,City Hall,Grove St PATH
+0,2023-10-30 15:36:37,City Hall,Grove St PATH
+0,2023-10-30 14:52:07,City Hall,Grove St PATH
+0,2023-10-30 12:20:43,City Hall,Grove St PATH
+0,2023-10-30 13:08:08,City Hall,Grove St PATH
+0,2023-10-30 15:26:16,City Hall,Grove St PATH
+0,2023-10-30 13:13:00,City Hall,Grove St PATH
+0,2023-10-30 15:00:33,City Hall,Grove St PATH
+0,2023-10-30 15:11:50,City Hall,Grove St PATH
+0,2023-10-30 12:54:24,City Hall,Grove St PATH
+0,2023-10-30 13:15:36,City Hall,Grove St PATH
+0,2023-10-30 12:25:53,City Hall,Grove St PATH
+0,2023-10-30 12:48:35,City Hall,Grove St PATH
+0,2023-10-30 15:14:28,City Hall,Grove St PATH
+0,2023-10-30 15:39:16,City Hall,Grove St PATH
+0,2023-10-30 14:57:50,City Hall,Grove St PATH
+0,2023-10-30 13:00:29,City Hall,Grove St PATH
+0,2023-10-30 12:57:31,City Hall,Grove St PATH
+0,2023-10-30 13:03:09,City Hall,Grove St PATH
+0,2023-10-30 13:36:30,City Hall,Grove St PATH
+0,2023-10-30 15:30:33,City Hall,Grove St PATH
+0,2023-10-30 13:39:06,City Hall,Grove St PATH
+0,2023-10-30 13:10:21,City Hall,Grove St PATH
+0,2023-10-30 13:33:55,City Hall,Grove St PATH
+0,2023-10-30 13:28:20,City Hall,Grove St PATH
+0,2023-10-30 13:20:58,City Hall,Grove St PATH
+0,2023-10-30 13:44:33,City Hall,Grove St PATH
+0,2023-10-30 15:44:36,City Hall,Grove St PATH
+0,2023-10-30 12:23:21,City Hall,Grove St PATH
+0,2023-10-30 12:51:32,City Hall,Grove St PATH
+0,2023-10-30 15:06:12,City Hall,Grove St PATH
+0,2023-10-30 15:03:21,City Hall,Grove St PATH
+0,2023-10-30 15:17:40,City Hall,Grove St PATH
+0,2023-10-30 15:23:30,City Hall,Grove St PATH
+0,2023-10-30 15:20:52,City Hall,Grove St PATH
+0,2023-10-30 13:41:48,City Hall,Grove St PATH
+0,2023-10-30 12:45:40,City Hall,Grove St PATH
+0,2023-10-30 13:31:30,City Hall,Grove St PATH
+0,2023-10-30 15:42:12,City Hall,Grove St PATH
+0,2023-10-30 12:17:41,City Hall,Grove St PATH
+0,2023-10-30 14:54:59,City Hall,Grove St PATH
+0,2023-10-30 13:05:33,City Hall,Grove St PATH
+0,2023-10-30 12:28:55,City Hall,Grove St PATH
+0,2023-10-27 12:28:22,City Hall,Grove St PATH
+0,2023-10-27 19:16:38,City Hall,Grove St PATH
+0,2023-10-27 11:56:01,City Hall,Grove St PATH
+0,2023-10-27 12:21:34,City Hall,Grove St PATH
+0,2023-10-27 19:28:13,City Hall,Grove St PATH
+0,2023-10-27 19:10:54,City Hall,Grove St PATH
+0,2023-10-27 19:03:02,City Hall,Grove St PATH
+0,2023-10-27 11:58:53,City Hall,Grove St PATH
+0,2023-10-27 12:14:52,City Hall,Grove St PATH
+0,2023-10-27 19:19:31,City Hall,Grove St PATH
+0,2023-10-27 18:57:34,City Hall,Grove St PATH
+0,2023-10-27 12:42:53,City Hall,Grove St PATH
+0,2023-10-27 19:05:34,City Hall,Grove St PATH
+0,2023-10-27 12:18:24,City Hall,Grove St PATH
+0,2023-10-27 12:39:06,City Hall,Grove St PATH
+0,2023-10-27 19:25:15,City Hall,Grove St PATH
+0,2023-10-27 11:49:57,City Hall,Grove St PATH
+0,2023-10-27 19:08:12,City Hall,Grove St PATH
+0,2023-10-27 12:25:00,City Hall,Grove St PATH
+0,2023-10-27 19:00:42,City Hall,Grove St PATH
+0,2023-10-27 12:46:13,City Hall,Grove St PATH
+0,2023-10-27 12:02:14,City Hall,Grove St PATH
+0,2023-10-27 12:11:58,City Hall,Grove St PATH
+0,2023-10-27 12:32:18,City Hall,Grove St PATH
+0,2023-10-27 19:22:26,City Hall,Grove St PATH
+0,2023-10-27 12:05:25,City Hall,Grove St PATH
+0,2023-10-27 12:08:25,City Hall,Grove St PATH
+0,2023-10-27 11:52:58,City Hall,Grove St PATH
+0,2023-10-27 12:35:33,City Hall,Grove St PATH
+0,2023-10-27 19:13:38,City Hall,Grove St PATH
+0,2023-10-10 12:55:20,City Hall,Grove St PATH
+0,2023-10-10 13:35:31,City Hall,Grove St PATH
+0,2023-10-10 13:54:26,City Hall,Grove St PATH
+0,2023-10-10 13:41:19,City Hall,Grove St PATH
+0,2023-10-10 12:58:18,City Hall,Grove St PATH
+0,2023-10-10 13:30:24,City Hall,Grove St PATH
+0,2023-10-10 13:32:54,City Hall,Grove St PATH
+0,2023-10-10 12:51:40,City Hall,Grove St PATH
+0,2023-10-10 13:38:30,City Hall,Grove St PATH
+0,2023-10-10 13:44:33,City Hall,Grove St PATH
+0,2023-10-10 13:57:19,City Hall,Grove St PATH
+0,2023-10-10 12:48:06,City Hall,Grove St PATH
+0,2023-10-10 13:51:14,City Hall,Grove St PATH
+0,2023-10-10 13:59:40,City Hall,Grove St PATH
+0,2023-10-10 13:47:20,City Hall,Grove St PATH
+0,2023-10-06 12:51:47,City Hall,Grove St PATH
+0,2023-10-06 13:04:42,City Hall,Grove St PATH
+0,2023-10-06 13:09:09,City Hall,Grove St PATH
+0,2023-10-06 13:13:19,City Hall,Grove St PATH
+0,2023-10-06 13:00:53,City Hall,Grove St PATH
+0,2023-10-06 12:56:40,City Hall,Grove St PATH
+0,2023-10-08 20:30:24,City Hall,Marin Light Rail
+0,2023-10-15 19:19:35,City Hall,Grove St PATH
+0,2023-10-24 22:05:18,City Hall,Marin Light Rail
+0,2023-10-26 09:31:37,City Hall,Marin Light Rail
+0,2023-10-17 22:30:51,City Hall,Marin Light Rail
+0,2023-10-01 13:08:37,City Hall,Marin Light Rail
+0,2023-10-26 18:43:30,City Hall,Grove St PATH
+1,2023-10-17 18:43:04,City Hall,Marin Light Rail
+0,2023-10-10 17:37:44,City Hall,Marin Light Rail
+0,2023-10-27 19:10:10,City Hall,Marin Light Rail
+0,2023-10-27 16:07:43,City Hall,Grove St PATH
+0,2023-10-30 13:40:35,City Hall,Grove St PATH
+0,2023-10-13 08:24:39,City Hall,Marin Light Rail
+0,2023-10-12 08:26:41,City Hall,Marin Light Rail
+0,2023-10-15 10:26:57,City Hall,Marin Light Rail
+0,2023-10-15 21:39:07,City Hall,Grove St PATH
+0,2023-10-23 21:11:18,City Hall,Marin Light Rail
+0,2023-10-01 12:00:19,City Hall,Marin Light Rail
+0,2023-10-29 10:49:02,City Hall,Grove St PATH
+0,2023-10-23 18:51:49,City Hall,Grove St PATH
+0,2023-10-12 13:37:40,City Hall,Marin Light Rail
+0,2023-10-30 14:26:39,City Hall,Grove St PATH
+0,2023-10-28 11:57:00,City Hall,Grove St PATH
+0,2023-10-27 12:33:58,City Hall,Grove St PATH
+0,2023-10-11 13:27:54,City Hall,Marin Light Rail
+0,2023-10-11 13:24:14,City Hall,Grove St PATH
+0,2023-10-25 16:42:30,City Hall,Grove St PATH
+0,2023-10-12 16:14:09,City Hall,Grove St PATH
+0,2023-10-12 16:17:34,City Hall,Grove St PATH
+0,2023-10-04 19:08:05,City Hall,Grove St PATH
+0,2023-10-04 19:05:02,City Hall,Grove St PATH
+0,2023-10-04 19:12:12,City Hall,Grove St PATH
+0,2023-10-04 19:10:11,City Hall,Grove St PATH
+0,2023-10-01 21:54:51,City Hall,Marin Light Rail
+0,2023-10-05 09:48:53,City Hall,Grove St PATH
+0,2023-10-23 20:00:12,City Hall,Marin Light Rail
+0,2023-10-06 22:07:24,City Hall,Marin Light Rail
+0,2023-10-08 20:42:28,City Hall,Marin Light Rail
+0,2023-10-06 22:04:19,City Hall,Marin Light Rail
+0,2023-10-17 15:45:00,City Hall,Grove St PATH
+0,2023-10-17 15:41:15,City Hall,Grove St PATH
+0,2023-10-17 15:33:48,City Hall,Grove St PATH
+0,2023-10-26 20:23:31,City Hall,Marin Light Rail
+0,2023-10-08 15:34:41,City Hall,Marin Light Rail
+0,2023-10-27 19:31:17,City Hall,Grove St PATH
+0,2023-10-13 17:45:42,City Hall,Grove St PATH
+0,2023-10-13 18:02:54,City Hall,Grove St PATH
+0,2023-10-13 17:53:20,City Hall,Grove St PATH
+0,2023-10-27 12:19:35,City Hall,Marin Light Rail
+0,2023-10-15 16:01:37,City Hall,Grove St PATH
+0,2023-10-19 15:11:04,City Hall,Grove St PATH
+0,2023-10-19 15:13:47,City Hall,Grove St PATH
+0,2023-10-11 11:19:32,City Hall,Grove St PATH
+0,2023-10-11 12:11:17,City Hall,Marin Light Rail
+0,2023-10-31 13:05:15,City Hall,Marin Light Rail
+0,2023-10-12 12:50:13,City Hall,Grove St PATH
+0,2023-10-12 13:08:24,City Hall,Grove St PATH
+0,2023-10-12 13:56:56,City Hall,Grove St PATH
+0,2023-10-12 14:48:23,City Hall,Grove St PATH
+0,2023-10-12 13:27:33,City Hall,Grove St PATH
+0,2023-10-12 13:05:21,City Hall,Grove St PATH
+0,2023-10-12 13:39:55,City Hall,Grove St PATH
+0,2023-10-12 13:43:46,City Hall,Grove St PATH
+0,2023-10-12 14:45:03,City Hall,Grove St PATH
+0,2023-10-12 13:11:39,City Hall,Grove St PATH
+0,2023-10-12 14:01:21,City Hall,Grove St PATH
+0,2023-10-12 12:54:22,City Hall,Grove St PATH
+0,2023-10-12 13:24:02,City Hall,Grove St PATH
+0,2023-10-12 13:46:37,City Hall,Grove St PATH
+0,2023-10-12 14:51:37,City Hall,Grove St PATH
+0,2023-10-12 13:20:01,City Hall,Grove St PATH
+0,2023-10-12 12:46:25,City Hall,Grove St PATH
+0,2023-10-12 14:40:29,City Hall,Grove St PATH
+0,2023-10-12 13:16:17,City Hall,Grove St PATH
+0,2023-10-12 12:42:48,City Hall,Grove St PATH
+0,2023-10-12 13:49:47,City Hall,Grove St PATH
+0,2023-10-12 14:05:36,City Hall,Grove St PATH
+0,2023-10-12 13:36:35,City Hall,Grove St PATH
+0,2023-10-12 13:52:48,City Hall,Grove St PATH
+0,2023-10-02 11:03:07,City Hall,Grove St PATH
+0,2023-10-02 11:11:52,City Hall,Grove St PATH
+0,2023-10-02 11:07:34,City Hall,Grove St PATH
+0,2023-10-22 17:35:46,City Hall,Grove St PATH
+0,2023-10-22 17:56:23,City Hall,Grove St PATH
+0,2023-10-22 17:45:53,City Hall,Grove St PATH
+0,2023-10-22 17:52:44,City Hall,Grove St PATH
+0,2023-10-22 17:19:05,City Hall,Grove St PATH
+0,2023-10-22 17:22:28,City Hall,Grove St PATH
+0,2023-10-22 17:38:50,City Hall,Grove St PATH
+0,2023-10-22 17:31:54,City Hall,Grove St PATH
+0,2023-10-22 17:09:35,City Hall,Grove St PATH
+0,2023-10-22 17:26:30,City Hall,Grove St PATH
+0,2023-10-22 18:04:14,City Hall,Grove St PATH
+0,2023-10-22 18:00:31,City Hall,Grove St PATH
+0,2023-10-22 18:14:59,City Hall,Grove St PATH
+0,2023-10-22 17:49:33,City Hall,Grove St PATH
+0,2023-10-22 18:11:56,City Hall,Grove St PATH
+0,2023-10-22 18:08:04,City Hall,Grove St PATH
+0,2023-10-22 17:12:46,City Hall,Grove St PATH
+0,2023-10-22 17:15:59,City Hall,Grove St PATH
+0,2023-10-05 11:37:57,City Hall,Grove St PATH
+0,2023-10-05 11:41:57,City Hall,Grove St PATH
+0,2023-10-05 11:46:28,City Hall,Grove St PATH
+0,2023-10-05 11:33:55,City Hall,Grove St PATH
+0,2023-10-05 11:55:29,City Hall,Grove St PATH
+0,2023-10-05 11:50:59,City Hall,Grove St PATH
+0,2023-10-06 22:51:19,City Hall,Grove St PATH
+0,2023-10-07 09:48:48,City Hall,Grove St PATH
+0,2023-10-06 22:43:08,City Hall,Grove St PATH
+0,2023-10-06 22:54:00,City Hall,Grove St PATH
+0,2023-10-06 22:20:40,City Hall,Grove St PATH
+0,2023-10-06 22:36:17,City Hall,Grove St PATH
+0,2023-10-06 22:39:26,City Hall,Grove St PATH
+0,2023-10-06 22:33:33,City Hall,Grove St PATH
+0,2023-10-06 22:45:58,City Hall,Grove St PATH
+0,2023-10-06 22:27:11,City Hall,Grove St PATH
+0,2023-10-06 22:30:03,City Hall,Grove St PATH
+0,2023-10-06 22:56:37,City Hall,Grove St PATH
+0,2023-10-06 22:16:50,City Hall,Grove St PATH
+0,2023-10-06 22:48:20,City Hall,Grove St PATH
+0,2023-10-06 22:23:53,City Hall,Grove St PATH
+0,2023-10-06 22:59:32,City Hall,Grove St PATH
+0,2023-10-01 09:56:28,City Hall,Marin Light Rail
+0,2023-10-08 16:57:32,City Hall,Marin Light Rail
+0,2023-10-11 23:15:22,City Hall,Marin Light Rail
+0,2023-10-05 18:54:52,City Hall,Marin Light Rail
+1,2023-10-26 18:47:35,City Hall,Marin Light Rail
+0,2023-10-02 12:12:11,City Hall,Marin Light Rail
+0,2023-10-01 16:52:58,City Hall,Marin Light Rail
+0,2023-10-04 17:20:06,City Hall,Marin Light Rail
+0,2023-10-04 16:33:27,City Hall,Marin Light Rail
+0,2023-10-13 12:48:00,City Hall,Marin Light Rail
+0,2023-10-03 18:53:36,City Hall,Marin Light Rail
+1,2023-10-07 10:21:42,City Hall,Glenwood Ave
+0,2023-10-27 12:27:17,City Hall,Jersey & 3rd
+0,2023-10-17 19:09:35,City Hall,Jersey & 3rd
+0,2023-10-01 13:25:08,City Hall,Jersey & 3rd
+1,2023-10-07 09:53:13,City Hall,Jersey & 3rd
+0,2023-10-28 08:29:31,City Hall,Jersey & 3rd
+0,2023-10-16 11:47:08,City Hall,Jersey & 3rd
+0,2023-10-27 23:59:57,City Hall,Jersey & 3rd
+0,2023-10-12 23:49:00,City Hall,Jersey & 3rd
+0,2023-10-26 19:52:36,City Hall,Jersey & 3rd
+0,2023-10-28 17:00:04,City Hall,Jersey & 3rd
+0,2023-10-24 12:13:18,City Hall,Jersey & 3rd
+0,2023-10-15 10:17:41,City Hall,Pershing Field
+0,2023-10-11 21:44:01,City Hall,Pershing Field
+0,2023-10-31 16:10:51,City Hall,Pershing Field
+0,2023-10-23 15:29:53,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-11 19:30:14,City Hall,Christ Hospital
+0,2023-10-26 01:51:51,City Hall,Christ Hospital
+1,2023-10-02 15:17:22,City Hall,Christ Hospital
+0,2023-10-24 11:48:53,City Hall,Christ Hospital
+1,2023-10-04 08:20:59,City Hall,Christ Hospital
+1,2023-10-05 09:35:59,City Hall,Christ Hospital
+0,2023-10-25 15:37:28,City Hall,Christ Hospital
+0,2023-10-01 12:36:48,City Hall,Harborside
+0,2023-10-01 11:58:02,City Hall,Harborside
+0,2023-10-03 13:28:23,City Hall,Harborside
+0,2023-10-03 20:19:23,City Hall,Harborside
+0,2023-10-04 13:30:17,City Hall,Harborside
+0,2023-10-04 08:18:55,City Hall,Harborside
+0,2023-10-06 14:38:50,City Hall,Harborside
+0,2023-10-15 12:05:50,City Hall,Harborside
+0,2023-10-04 12:04:18,City Hall,Harborside
+0,2023-10-13 14:00:22,City Hall,Harborside
+0,2023-10-01 11:58:21,City Hall,Harborside
+0,2023-10-26 13:44:52,City Hall,Harborside
+0,2023-10-05 20:57:30,City Hall,Harborside
+0,2023-10-06 17:50:56,City Hall,Harborside
+0,2023-10-08 13:48:41,City Hall,Harborside
+0,2023-10-13 16:52:22,City Hall,Harborside
+0,2023-10-11 13:45:28,City Hall,Harborside
+0,2023-10-24 20:55:56,City Hall,Harborside
+0,2023-10-03 19:14:12,City Hall,Harborside
+0,2023-10-23 12:48:04,City Hall,Harborside
+0,2023-10-17 18:27:12,City Hall,Harborside
+0,2023-10-01 15:57:19,City Hall,Harborside
+0,2023-10-23 17:34:28,City Hall,Harborside
+0,2023-10-27 12:03:48,City Hall,Harborside
+0,2023-10-14 08:36:03,City Hall,Harborside
+0,2023-10-01 08:15:21,City Hall,Harborside
+0,2023-10-13 22:16:56,City Hall,Harborside
+0,2023-10-07 13:07:38,City Hall,Harborside
+0,2023-10-26 22:17:04,City Hall,Harborside
+0,2023-10-28 15:23:50,City Hall,Hilltop
+0,2023-10-03 13:30:05,City Hall,Hilltop
+0,2023-10-03 13:30:34,City Hall,Hilltop
+0,2023-10-31 16:23:26,City Hall,Hilltop
+0,2023-10-24 14:35:45,City Hall,Hilltop
+0,2023-10-13 12:20:09,City Hall,Hoboken Terminal - Hudson St & Hudson Pl
+0,2023-10-02 17:47:25,City Hall,Hoboken Terminal - Hudson St & Hudson Pl
+0,2023-10-13 12:01:00,City Hall,Clinton St & Newark St
+0,2023-10-26 08:36:38,City Hall,Clinton St & Newark St
+0,2023-10-02 19:40:47,City Hall,Clinton St & Newark St
+1,2023-10-18 18:59:07,City Hall,Jersey & 6th St
+0,2023-10-05 21:49:05,City Hall,Jersey & 6th St
+0,2023-10-25 19:04:45,City Hall,Jersey & 6th St
+0,2023-10-26 18:19:31,City Hall,Brunswick St
+0,2023-10-05 18:28:19,City Hall,Brunswick St
+0,2023-10-01 16:44:32,City Hall,Brunswick St
+0,2023-10-28 20:22:04,City Hall,Brunswick St
+0,2023-10-19 12:00:02,City Hall,Brunswick St
+1,2023-10-11 20:12:19,City Hall,Brunswick St
+0,2023-10-03 10:59:20,City Hall,Brunswick St
+0,2023-10-15 19:31:52,City Hall,Brunswick St
+0,2023-10-29 15:08:04,City Hall,Brunswick St
+0,2023-10-29 15:48:17,City Hall,Brunswick St
+0,2023-10-24 18:21:26,City Hall,Brunswick St
+0,2023-10-27 20:02:08,City Hall,Brunswick St
+0,2023-10-24 16:16:02,City Hall,Brunswick St
+0,2023-10-24 16:50:12,City Hall,Glenwood Ave
+0,2023-10-03 23:09:08,City Hall,Glenwood Ave
+0,2023-10-17 19:05:10,City Hall,Astor Place
+0,2023-10-04 18:21:33,City Hall,Astor Place
+0,2023-10-28 12:29:58,City Hall,McGinley Square
+0,2023-10-28 19:05:58,City Hall,McGinley Square
+0,2023-10-12 21:11:39,City Hall,Astor Place
+1,2023-10-26 12:14:54,City Hall,Astor Place
+0,2023-10-02 18:47:22,City Hall,McGinley Square
+0,2023-10-19 11:28:59,City Hall,McGinley Square
+0,2023-10-09 14:13:34,City Hall,McGinley Square
+0,2023-10-01 01:44:59,City Hall,Astor Place
+0,2023-10-23 22:59:31,City Hall,Astor Place
+0,2023-10-05 22:11:02,City Hall,Astor Place
+0,2023-10-02 20:58:56,City Hall,Astor Place
+0,2023-10-04 19:22:51,City Hall,McGinley Square
+0,2023-10-12 19:11:40,City Hall,Adams St & 2 St
+0,2023-10-08 17:15:06,City Hall,McGinley Square
+0,2023-10-28 18:29:23,City Hall,McGinley Square
+1,2023-10-03 19:00:14,City Hall,McGinley Square
+0,2023-10-03 18:30:33,City Hall,Astor Place
+1,2023-10-06 18:17:12,City Hall,Astor Place
+0,2023-10-04 18:51:10,City Hall,Astor Place
+0,2023-10-01 16:56:37,City Hall,Astor Place
+1,2023-10-06 17:35:18,City Hall,Astor Place
+0,2023-10-15 12:22:08,City Hall,Willow Ave & 12 St
+1,2023-10-30 15:41:44,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-24 15:24:56,City Hall,Southwest Park - Jackson St & Observer Hwy
+1,2023-10-26 15:59:57,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-17 16:05:57,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-31 15:45:33,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-25 15:52:12,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-18 16:14:33,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-07 17:00:07,City Hall,Harborside
+0,2023-10-27 20:00:09,City Hall,Brunswick St
+0,2023-10-30 17:29:00,City Hall,Brunswick St
+0,2023-10-04 09:21:06,City Hall,Brunswick St
+0,2023-10-01 16:28:40,City Hall,Paulus Hook
+0,2023-10-01 16:28:09,City Hall,Paulus Hook
+0,2023-10-26 13:12:35,City Hall,Paulus Hook
+0,2023-10-26 13:12:52,City Hall,Paulus Hook
+0,2023-10-23 14:04:21,City Hall,Paulus Hook
+0,2023-10-18 08:14:55,City Hall,Paulus Hook
+0,2023-10-08 16:17:22,City Hall,Paulus Hook
+0,2023-10-25 16:11:51,City Hall,Paulus Hook
+0,2023-10-27 13:35:02,City Hall,Paulus Hook
+0,2023-10-07 23:02:16,City Hall,Paulus Hook
+1,2023-10-19 09:50:07,City Hall,Paulus Hook
+0,2023-10-03 17:18:01,City Hall,Paulus Hook
+0,2023-10-03 18:35:52,City Hall,Astor Place
+0,2023-10-02 16:22:44,City Hall,Astor Place
+0,2023-10-28 16:08:21,City Hall,McGinley Square
+1,2023-10-17 19:07:16,City Hall,Astor Place
+0,2023-10-28 10:23:12,City Hall,Harborside
+0,2023-10-26 14:03:58,City Hall,Van Vorst Park
+1,2023-10-03 10:22:10,City Hall,Van Vorst Park
+1,2023-10-31 19:10:15,City Hall,Van Vorst Park
+1,2023-10-06 23:36:43,City Hall,Van Vorst Park
+0,2023-10-02 10:31:59,City Hall,Van Vorst Park
+0,2023-10-03 10:16:28,City Hall,Van Vorst Park
+0,2023-10-01 14:32:55,City Hall,Van Vorst Park
+0,2023-10-10 14:08:45,City Hall,Van Vorst Park
+0,2023-10-15 12:11:57,City Hall,Van Vorst Park
+0,2023-10-05 12:26:41,City Hall,Van Vorst Park
+0,2023-10-07 17:15:12,City Hall,Van Vorst Park
+1,2023-10-13 19:31:38,City Hall,Van Vorst Park
+0,2023-10-05 09:00:59,City Hall,Van Vorst Park
+0,2023-10-15 14:01:52,City Hall,Van Vorst Park
+0,2023-10-12 16:34:08,City Hall,Van Vorst Park
+0,2023-10-12 16:33:24,City Hall,Van Vorst Park
+0,2023-10-12 16:35:52,City Hall,Van Vorst Park
+0,2023-10-18 19:01:44,City Hall,Van Vorst Park
+1,2023-10-12 20:02:28,City Hall,Van Vorst Park
+0,2023-10-25 22:42:17,City Hall,Van Vorst Park
+0,2023-10-18 21:56:11,City Hall,Van Vorst Park
+0,2023-10-08 11:18:03,City Hall,Van Vorst Park
+0,2023-10-04 18:35:52,City Hall,Van Vorst Park
+0,2023-10-12 22:45:01,City Hall,Van Vorst Park
+0,2023-10-27 22:52:37,City Hall,Van Vorst Park
+0,2023-10-24 00:41:20,City Hall,Van Vorst Park
+0,2023-10-29 00:42:22,City Hall,Van Vorst Park
+0,2023-10-30 13:52:53,City Hall,Van Vorst Park
+0,2023-10-29 22:00:45,City Hall,Van Vorst Park
+0,2023-10-24 22:46:01,City Hall,Van Vorst Park
+0,2023-10-31 05:17:40,City Hall,Van Vorst Park
+0,2023-10-06 23:33:59,City Hall,Van Vorst Park
+0,2023-10-25 11:55:57,City Hall,Van Vorst Park
+0,2023-10-04 19:08:25,City Hall,Van Vorst Park
+1,2023-10-26 15:52:08,City Hall,Van Vorst Park
+0,2023-10-26 23:56:59,City Hall,Van Vorst Park
+0,2023-10-14 04:41:47,City Hall,Van Vorst Park
+0,2023-10-03 21:19:18,City Hall,Van Vorst Park
+0,2023-10-03 19:05:08,City Hall,Van Vorst Park
+0,2023-10-11 23:12:05,City Hall,Van Vorst Park
+0,2023-10-27 00:42:15,City Hall,Van Vorst Park
+1,2023-10-22 18:10:13,City Hall,Van Vorst Park
+0,2023-10-01 12:55:08,City Hall,Van Vorst Park
+0,2023-10-29 10:52:03,City Hall,Van Vorst Park
+0,2023-10-28 12:25:09,City Hall,Van Vorst Park
+0,2023-10-31 09:11:19,City Hall,Van Vorst Park
+0,2023-10-10 23:54:32,City Hall,Van Vorst Park
+0,2023-10-16 20:50:41,City Hall,Van Vorst Park
+0,2023-10-14 03:24:58,City Hall,Van Vorst Park
+1,2023-10-23 11:48:56,City Hall,Van Vorst Park
+0,2023-10-08 11:27:23,City Hall,Van Vorst Park
+0,2023-10-02 08:09:07,City Hall,Van Vorst Park
+0,2023-10-02 08:03:40,City Hall,Van Vorst Park
+0,2023-10-01 11:58:25,City Hall,Van Vorst Park
+0,2023-10-01 11:47:34,City Hall,Van Vorst Park
+0,2023-10-28 04:02:10,City Hall,Van Vorst Park
+0,2023-10-24 20:38:40,City Hall,Van Vorst Park
+0,2023-10-04 17:47:54,City Hall,Van Vorst Park
+0,2023-10-09 13:25:06,City Hall,Van Vorst Park
+0,2023-10-02 22:13:32,City Hall,Van Vorst Park
+0,2023-10-13 22:29:31,City Hall,Van Vorst Park
+0,2023-10-14 04:41:53,City Hall,Van Vorst Park
+0,2023-10-24 21:35:45,City Hall,Van Vorst Park
+1,2023-10-24 18:53:33,City Hall,Van Vorst Park
+0,2023-10-11 22:42:21,City Hall,Van Vorst Park
+0,2023-10-09 11:53:01,City Hall,Van Vorst Park
+0,2023-10-12 12:42:17,City Hall,Van Vorst Park
+0,2023-10-04 08:56:58,City Hall,Van Vorst Park
+0,2023-10-14 03:24:29,City Hall,Van Vorst Park
+0,2023-10-02 09:08:56,City Hall,Van Vorst Park
+0,2023-10-11 12:10:42,City Hall,Van Vorst Park
+0,2023-10-09 20:25:06,City Hall,Marin Light Rail
+0,2023-10-10 21:43:34,City Hall,Marin Light Rail
+1,2023-10-30 15:39:09,City Hall,Grove St PATH
+0,2023-10-18 14:10:38,City Hall,Marin Light Rail
+0,2023-10-24 14:37:28,City Hall,Grove St PATH
+0,2023-10-01 14:04:01,City Hall,Paulus Hook
+0,2023-10-03 16:46:30,City Hall,Marshall St & 2 St
+0,2023-10-26 17:58:55,City Hall,Brunswick St
+0,2023-10-05 11:03:50,City Hall,Jersey & 6th St
+0,2023-10-28 19:17:49,City Hall,Jersey & 6th St
+0,2023-10-28 18:02:11,City Hall,Jersey & 6th St
+0,2023-10-28 19:02:14,City Hall,Jersey & 6th St
+0,2023-10-08 17:44:45,City Hall,Willow Ave & 12 St
+0,2023-10-28 18:11:08,City Hall,City Hall - Washington St & 1 St
+0,2023-10-01 10:07:17,City Hall,Manila & 1st
+0,2023-10-17 17:13:21,City Hall,Exchange Pl
+1,2023-10-13 15:50:48,City Hall,Manila & 1st
+0,2023-10-01 10:44:41,City Hall,Riverview Park
+0,2023-10-12 18:16:49,City Hall,Riverview Park
+0,2023-10-04 15:34:48,City Hall,City Hall - Washington St & 1 St
+0,2023-10-12 07:54:17,City Hall,Exchange Pl
+0,2023-10-11 08:00:32,City Hall,Exchange Pl
+0,2023-10-13 12:18:04,City Hall,City Hall - Washington St & 1 St
+0,2023-10-04 19:15:27,City Hall,Manila & 1st
+0,2023-10-13 12:20:03,City Hall,City Hall - Washington St & 1 St
+0,2023-10-13 12:21:55,City Hall,City Hall - Washington St & 1 St
+1,2023-10-04 13:27:34,City Hall,Exchange Pl
+0,2023-10-13 12:18:21,City Hall,City Hall - Washington St & 1 St
+0,2023-10-13 18:02:16,City Hall,Riverview Park
+0,2023-10-03 15:03:05,City Hall,City Hall - Washington St & 1 St
+0,2023-10-03 16:22:58,City Hall,Exchange Pl
+0,2023-10-16 07:55:06,City Hall,Exchange Pl
+0,2023-10-24 07:58:04,City Hall,Exchange Pl
+0,2023-10-31 07:55:10,City Hall,Exchange Pl
+0,2023-10-30 07:54:50,City Hall,Exchange Pl
+0,2023-10-05 07:54:48,City Hall,Exchange Pl
+0,2023-10-13 07:56:36,City Hall,Exchange Pl
+0,2023-10-09 07:56:08,City Hall,Exchange Pl
+0,2023-10-27 14:47:03,City Hall,Exchange Pl
+0,2023-10-27 15:34:50,City Hall,Exchange Pl
+0,2023-10-15 13:40:43,City Hall,Exchange Pl
+0,2023-10-10 07:59:28,City Hall,Exchange Pl
+0,2023-10-05 15:17:06,City Hall,Exchange Pl
+0,2023-10-27 16:25:06,City Hall,Exchange Pl
+0,2023-10-13 12:18:21,City Hall,City Hall - Washington St & 1 St
+0,2023-10-03 19:02:53,City Hall,Manila & 1st
+0,2023-10-10 07:39:30,City Hall,Manila & 1st
+0,2023-10-23 07:35:05,City Hall,Exchange Pl
+0,2023-10-06 14:04:18,City Hall,Exchange Pl
+0,2023-10-02 07:48:57,City Hall,City Hall - Washington St & 1 St
+0,2023-10-04 13:28:59,City Hall,Exchange Pl
+0,2023-10-13 12:21:44,City Hall,City Hall - Washington St & 1 St
+0,2023-10-28 11:28:26,City Hall,Manila & 1st
+0,2023-10-25 20:17:57,City Hall,Exchange Pl
+1,2023-10-06 17:39:25,City Hall,Exchange Pl
+0,2023-10-15 17:44:09,City Hall,Exchange Pl
+0,2023-10-27 14:10:56,City Hall,Exchange Pl
+0,2023-10-17 16:40:25,City Hall,Manila & 1st
+0,2023-10-06 07:58:14,City Hall,Exchange Pl
+0,2023-10-25 07:55:16,City Hall,Exchange Pl
+0,2023-10-19 07:58:35,City Hall,Exchange Pl
+0,2023-10-06 14:07:54,City Hall,Exchange Pl
+0,2023-10-13 14:11:26,City Hall,Exchange Pl
+0,2023-10-01 10:44:44,City Hall,Riverview Park
+0,2023-10-12 18:16:38,City Hall,Riverview Park
+0,2023-10-06 15:50:58,City Hall,Exchange Pl
+0,2023-10-13 14:05:37,City Hall,Exchange Pl
+0,2023-10-16 19:37:13,City Hall,Paulus Hook
+0,2023-10-02 13:12:34,City Hall,Paulus Hook
+0,2023-10-19 15:01:34,City Hall,McGinley Square
+0,2023-10-03 12:57:36,City Hall,Van Vorst Park
+0,2023-10-19 14:21:24,City Hall,Brunswick & 6th
+0,2023-10-12 10:52:58,City Hall,Brunswick & 6th
+1,2023-10-06 18:57:37,City Hall,Brunswick & 6th
+0,2023-10-29 22:13:25,City Hall,Brunswick & 6th
+0,2023-10-18 14:53:27,City Hall,Brunswick & 6th
+0,2023-10-13 00:06:55,City Hall,Brunswick & 6th
+0,2023-10-30 19:27:29,City Hall,Brunswick & 6th
+0,2023-10-10 13:21:19,City Hall,Brunswick & 6th
+0,2023-10-05 11:31:11,City Hall,Brunswick & 6th
+0,2023-10-25 12:25:13,City Hall,Brunswick & 6th
+0,2023-10-30 12:10:35,City Hall,Brunswick & 6th
+0,2023-10-15 17:54:17,City Hall,Brunswick & 6th
+0,2023-10-09 19:15:17,City Hall,Brunswick & 6th
+0,2023-10-26 15:30:33,City Hall,Brunswick St
+0,2023-10-27 20:01:05,City Hall,Brunswick St
+1,2023-10-28 14:24:42,City Hall,Southwest Park - Jackson St & Observer Hwy
+0,2023-10-16 12:28:54,City Hall,Hamilton Park
+1,2023-10-02 06:07:12,City Hall,Hamilton Park
+0,2023-10-09 06:10:19,City Hall,Hamilton Park
+0,2023-10-08 09:15:59,City Hall,Hamilton Park
+0,2023-10-31 14:45:02,City Hall,Hamilton Park
+0,2023-10-10 06:10:00,City Hall,Hamilton Park
+0,2023-10-16 15:38:31,City Hall,Christ Hospital
+0,2023-10-31 13:36:29,City Hall,Grove St PATH
+0,2023-10-31 13:33:39,City Hall,Grove St PATH
+0,2023-10-11 22:17:45,City Hall,Marin Light Rail
+0,2023-10-28 22:06:14,City Hall,Grove St PATH
+0,2023-10-17 18:47:16,City Hall,Marin Light Rail
+0,2023-10-19 15:21:50,City Hall,Grove St PATH
+0,2023-10-07 11:15:42,City Hall,Grove St PATH
+0,2023-10-04 07:47:53,City Hall,Paulus Hook
+0,2023-10-17 15:53:19,City Hall,Lincoln Park
+0,2023-10-03 16:27:13,City Hall,Lincoln Park
+0,2023-10-04 13:10:38,City Hall,Lincoln Park
+0,2023-10-16 13:53:55,City Hall,5 Corners Library
+0,2023-10-01 13:05:00,City Hall,5 Corners Library
+1,2023-10-11 19:37:22,City Hall,Lincoln Park
+0,2023-10-16 20:15:14,City Hall,Lincoln Park
+0,2023-10-01 18:13:59,City Hall,Lincoln Park
+1,2023-10-19 15:51:48,City Hall,Lincoln Park
+0,2023-10-18 19:51:35,City Hall,Lincoln Park
+0,2023-10-01 22:10:44,City Hall,Lincoln Park
+0,2023-10-07 17:01:08,City Hall,Harborside
+0,2023-10-01 16:57:39,City Hall,Astor Place
+0,2023-10-25 21:58:17,City Hall,Van Vorst Park
+1,2023-10-31 18:55:48,City Hall,Van Vorst Park
+0,2023-10-28 17:21:54,City Hall,Brunswick & 6th
+0,2023-10-12 23:29:27,City Hall,Brunswick & 6th
+0,2023-10-25 17:32:12,City Hall,Brunswick & 6th
+0,2023-10-01 21:00:56,City Hall,Brunswick & 6th
+0,2023-10-03 11:45:13,City Hall,Brunswick & 6th
+1,2023-10-27 23:38:19,City Hall,Glenwood Ave
+0,2023-10-03 13:00:56,City Hall,Washington St
+0,2023-10-01 11:00:34,City Hall,Washington St
+0,2023-10-04 15:33:59,City Hall,City Hall - Washington St & 1 St
+0,2023-10-19 12:13:56,City Hall,City Hall - Washington St & 1 St
+0,2023-10-12 17:42:23,City Hall,Baldwin at Montgomery
+0,2023-10-07 15:59:28,City Hall,Baldwin at Montgomery
+0,2023-10-28 15:02:55,City Hall,Baldwin at Montgomery
+0,2023-10-01 12:32:11,City Hall,Baldwin at Montgomery
+0,2023-10-09 20:33:10,City Hall,Baldwin at Montgomery
+0,2023-10-28 16:49:06,City Hall,Baldwin at Montgomery
+0,2023-10-17 18:32:45,City Hall,Baldwin at Montgomery
+0,2023-10-05 22:58:00,City Hall,Baldwin at Montgomery
+1,2023-10-10 17:36:24,City Hall,Baldwin at Montgomery
+0,2023-10-28 21:11:51,City Hall,Baldwin at Montgomery
+0,2023-10-28 22:28:18,City Hall,Baldwin at Montgomery
+0,2023-10-05 23:05:37,City Hall,Baldwin at Montgomery
+0,2023-10-08 14:38:32,City Hall,Baldwin at Montgomery
+0,2023-10-18 15:54:45,City Hall,Baldwin at Montgomery
+0,2023-10-28 23:08:36,City Hall,Baldwin at Montgomery
+0,2023-10-13 00:46:40,City Hall,Baldwin at Montgomery
+0,2023-10-18 13:04:55,City Hall,Baldwin at Montgomery
+0,2023-10-11 13:41:54,City Hall,Baldwin at Montgomery
+0,2023-10-29 23:25:48,City Hall,Baldwin at Montgomery
+0,2023-10-28 21:11:49,City Hall,Baldwin at Montgomery
+0,2023-10-25 10:23:58,City Hall,Brunswick St
+0,2023-10-27 20:01:02,City Hall,Brunswick St
+0,2023-10-23 19:33:40,City Hall,Paulus Hook
+0,2023-10-10 16:23:14,City Hall,Paulus Hook
+0,2023-10-31 12:02:46,City Hall,Paulus Hook
+0,2023-10-13 08:18:33,City Hall,Paulus Hook
+0,2023-10-26 08:02:23,City Hall,Paulus Hook
+0,2023-10-26 18:00:32,City Hall,Jersey & 6th St
+0,2023-10-01 16:31:07,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-02 16:29:43,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-18 18:48:06,City Hall,Dey St
+0,2023-10-01 10:06:25,City Hall,Dey St
+0,2023-10-31 20:28:36,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-11 18:02:12,City Hall,Grand St & 14 St
+0,2023-10-11 11:24:06,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-28 10:10:18,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-26 20:39:42,City Hall,Marin Light Rail
+0,2023-10-05 21:57:46,City Hall,Marin Light Rail
+0,2023-10-30 15:26:24,City Hall,Grove St PATH
+0,2023-10-10 15:05:30,City Hall,Grove St PATH
+0,2023-10-28 16:15:58,City Hall,Grove St PATH
+0,2023-10-02 21:19:31,City Hall,Grove St PATH
+0,2023-10-02 21:16:18,City Hall,Grove St PATH
+0,2023-10-28 17:45:14,City Hall,Marin Light Rail
+0,2023-10-22 19:42:33,City Hall,Marin Light Rail
+0,2023-10-12 06:12:44,City Hall,Hamilton Park
+0,2023-10-13 06:10:23,City Hall,Hamilton Park
+0,2023-10-10 12:57:31,City Hall,Hamilton Park
+0,2023-10-19 12:56:15,City Hall,Hamilton Park
+0,2023-10-30 17:26:02,City Hall,Hamilton Park
+0,2023-10-31 16:39:29,City Hall,Hamilton Park
+0,2023-10-13 14:51:24,City Hall,Hamilton Park
+0,2023-10-31 16:42:55,City Hall,Hamilton Park
+0,2023-10-15 14:06:59,City Hall,Hamilton Park
+0,2023-10-13 14:58:12,City Hall,Hamilton Park
+0,2023-10-30 15:21:55,City Hall,Hamilton Park
+0,2023-10-18 12:22:44,City Hall,Hamilton Park
+0,2023-10-31 15:18:25,City Hall,Hamilton Park
+0,2023-10-03 15:36:12,City Hall,Hamilton Park
+0,2023-10-13 09:42:15,City Hall,Hamilton Park
+1,2023-10-06 09:47:53,City Hall,Hamilton Park
+0,2023-10-09 16:58:47,City Hall,Hamilton Park
+0,2023-10-16 13:00:28,City Hall,Hamilton Park
+0,2023-10-29 12:19:20,City Hall,Hamilton Park
+0,2023-10-16 13:02:32,City Hall,Hamilton Park
+0,2023-10-31 14:50:29,City Hall,Hamilton Park
+0,2023-10-01 13:39:28,City Hall,Hamilton Park
+0,2023-10-31 16:25:07,City Hall,Hamilton Park
+0,2023-10-31 09:47:59,City Hall,Hamilton Park
+0,2023-10-27 06:08:45,City Hall,Hamilton Park
+1,2023-10-05 06:10:24,City Hall,Hamilton Park
+0,2023-10-27 18:47:32,City Hall,Hamilton Park
+0,2023-10-28 10:36:51,City Hall,Hamilton Park
+0,2023-10-26 16:53:38,City Hall,Hamilton Park
+0,2023-10-09 20:32:38,City Hall,Hamilton Park
+1,2023-10-06 17:49:43,City Hall,Madison St & 1 St
+0,2023-10-18 08:57:35,City Hall,Madison St & 1 St
+0,2023-10-15 15:49:53,City Hall,Madison St & 1 St
+0,2023-10-13 08:25:37,City Hall,Madison St & 1 St
+0,2023-10-01 13:05:14,City Hall,5 Corners Library
+0,2023-10-02 14:34:18,City Hall,Lincoln Park
+0,2023-10-10 15:26:58,City Hall,Lincoln Park
+0,2023-10-27 23:48:32,City Hall,Baldwin at Montgomery
+0,2023-10-13 14:11:24,City Hall,Baldwin at Montgomery
+0,2023-10-19 15:21:00,City Hall,Washington St
+0,2023-10-24 13:47:31,City Hall,Washington St
+0,2023-10-02 12:57:55,City Hall,Washington St
+0,2023-10-13 11:53:48,City Hall,Washington St
+1,2023-10-02 18:29:58,City Hall,Washington St
+0,2023-10-01 10:40:01,City Hall,Washington St
+0,2023-10-04 14:51:47,City Hall,Washington St
+0,2023-10-26 09:22:24,City Hall,Washington St
+0,2023-10-10 13:51:18,City Hall,Washington St
+0,2023-10-11 09:05:44,City Hall,Washington St
+0,2023-10-27 14:17:13,City Hall,Washington St
+0,2023-10-16 16:36:25,City Hall,Washington St
+0,2023-10-27 12:10:01,City Hall,Washington St
+0,2023-10-27 14:16:44,City Hall,Washington St
+0,2023-10-27 14:16:35,City Hall,Washington St
+0,2023-10-03 13:49:52,City Hall,Washington St
+0,2023-10-02 13:11:46,Newark Ave,City Hall
+0,2023-10-25 20:12:07,City Hall,Marin Light Rail
+0,2023-10-08 13:16:46,City Hall,Marin Light Rail
+0,2023-10-12 11:20:21,City Hall,Grove St PATH
+0,2023-10-12 14:42:42,City Hall,Grove St PATH
+0,2023-10-12 16:21:10,City Hall,Marin Light Rail
+0,2023-10-06 19:21:23,City Hall,Grove St PATH
+1,2023-10-13 15:22:37,City Hall,Marin Light Rail
+0,2023-10-05 17:23:14,City Hall,Marin Light Rail
+0,2023-10-02 17:46:49,City Hall,Grand St & 14 St
+0,2023-10-31 20:29:30,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-31 20:27:53,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-28 10:13:24,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-23 20:16:57,City Hall,Hoboken Terminal - River St & Hudson Pl
+0,2023-10-06 17:03:31,City Hall,Harborside
+0,2023-10-01 10:54:43,City Hall,Harborside
+0,2023-10-16 15:47:06,City Hall,Van Vorst Park
+0,2023-10-13 19:04:42,City Hall,Hoboken Terminal - Hudson St & Hudson Pl
+1,2023-10-11 23:30:17,City Hall,Manila & 1st
+0,2023-10-11 15:04:21,City Hall,Exchange Pl
+0,2023-10-13 22:21:49,City Hall,Exchange Pl
+0,2023-10-04 08:38:10,City Hall,Exchange Pl
+0,2023-10-13 12:22:42,City Hall,City Hall - Washington St & 1 St
+0,2023-10-16 14:45:01,City Hall,Exchange Pl
+0,2023-10-01 14:39:56,City Hall,Newark Ave
+0,2023-10-19 15:34:30,City Hall,Newark Ave
+0,2023-10-23 14:09:51,City Hall,Newark Ave
+0,2023-10-27 08:44:27,City Hall,Newark Ave
+0,2023-10-27 16:10:32,City Hall,Newark Ave
+0,2023-10-13 23:33:49,City Hall,Newark Ave
+0,2023-10-17 17:33:41,City Hall,Newark Ave
+0,2023-10-01 18:16:56,City Hall,Newark Ave
+0,2023-10-15 13:40:45,City Hall,Newark Ave
+0,2023-10-18 15:52:54,City Hall,Newark Ave
+0,2023-10-17 21:14:43,City Hall,Newark Ave
+1,2023-10-19 16:21:35,City Hall,Newark Ave
+0,2023-10-07 12:16:37,City Hall,Newark Ave
+0,2023-10-02 09:41:39,City Hall,Newark Ave
+0,2023-10-01 10:31:56,City Hall,Newark Ave
+0,2023-10-09 18:45:32,City Hall,Newark Ave
+0,2023-10-03 18:36:57,City Hall,
+0,2023-10-27 15:32:25,City Hall,
+1,2023-10-01 16:30:52,City Hall,Leonard Gordon Park
+0,2023-10-11 18:28:50,City Hall,Stevens - River Ter & 6 St
+0,2023-10-11 08:04:47,City Hall,Paulus Hook
+0,2023-10-03 21:25:40,City Hall,Brunswick St
+0,2023-10-05 18:16:32,City Hall,Van Vorst Park
+0,2023-10-04 15:11:26,Glenwood Ave,City Hall
+0,2023-10-24 12:03:20,Paulus Hook,City Hall
+0,2023-10-28 14:33:26,Paulus Hook,City Hall
+0,2023-10-28 14:33:16,Paulus Hook,City Hall
+1,2023-10-01 05:08:54,Liberty Light Rail,City Hall
+1,2023-10-11 08:30:42,Liberty Light Rail,City Hall
+0,2023-10-13 15:56:14,Liberty Light Rail,City Hall
+1,2023-10-17 08:41:27,Liberty Light Rail,City Hall
+0,2023-10-16 08:28:42,Liberty Light Rail,City Hall
+0,2023-10-13 19:27:48,Liberty Light Rail,City Hall
+0,2023-10-03 15:10:49,Madison St & 1 St,City Hall
+1,2023-10-27 15:42:21,Lafayette Park,City Hall
+0,2023-10-11 15:35:15,Lafayette Park,City Hall
+0,2023-10-12 11:02:41,Monmouth and 6th,City Hall
+0,2023-10-10 07:33:42,Lafayette Park,City Hall
+0,2023-10-01 15:33:01,Monmouth and 6th,City Hall
+0,2023-10-12 09:58:39,Monmouth and 6th,City Hall
+0,2023-10-12 22:13:20,Lafayette Park,City Hall
+0,2023-10-11 13:28:48,Lafayette Park,City Hall
+0,2023-10-07 12:54:24,Lafayette Park,City Hall
+0,2023-10-03 11:15:37,Lafayette Park,City Hall
+0,2023-10-04 13:02:14,Lafayette Park,City Hall
+0,2023-10-24 14:06:55,Monmouth and 6th,City Hall
+0,2023-10-15 08:30:36,Lafayette Park,City Hall
+0,2023-10-19 16:39:41,Lafayette Park,City Hall
+0,2023-10-04 15:30:41,Bergen Ave & Sip Ave,City Hall
+0,2023-10-13 17:02:55,York St & Marin Blvd,City Hall
+0,2023-10-02 15:38:01,York St & Marin Blvd,City Hall
+0,2023-10-14 08:54:20,York St & Marin Blvd,City Hall
+0,2023-10-23 14:48:39,York St & Marin Blvd,City Hall
+0,2023-10-16 12:21:57,Paulus Hook,City Hall
+0,2023-10-01 16:24:55,City Hall,City Hall
+0,2023-10-18 21:18:53,Liberty Light Rail,City Hall
+0,2023-10-09 12:34:31,Newark Ave,City Hall
+1,2023-10-12 11:32:35,Grand St,City Hall
+0,2023-10-03 10:35:21,Lafayette Park,City Hall
+0,2023-10-28 09:33:50,Liberty Light Rail,City Hall
+0,2023-10-02 14:03:00,City Hall,City Hall
+1,2023-10-28 21:24:41,City Hall,City Hall
+0,2023-10-01 18:12:10,City Hall,City Hall
+0,2023-10-22 23:09:28,City Hall,City Hall
+0,2023-10-09 20:39:15,City Hall,Essex Light Rail
+0,2023-10-25 15:42:15,City Hall,City Hall
+0,2023-10-08 13:20:12,Essex Light Rail,City Hall
+0,2023-10-04 11:32:05,City Hall,Essex Light Rail
+1,2023-10-28 21:26:09,City Hall,City Hall
+0,2023-10-02 19:54:05,Essex Light Rail,City Hall
+0,2023-10-12 16:11:58,City Hall,City Hall
+0,2023-10-01 01:43:46,City Hall,City Hall
+1,2023-10-25 22:55:56,City Hall,Essex Light Rail
+1,2023-10-01 10:05:01,City Hall,City Hall
+1,2023-10-19 16:04:46,City Hall,City Hall
+0,2023-10-05 14:21:27,City Hall,12 St & Sinatra Dr N
+0,2023-10-10 14:10:06,Essex Light Rail,City Hall
+0,2023-10-02 19:27:56,City Hall,City Hall
+0,2023-10-01 12:49:16,City Hall,Essex Light Rail
+0,2023-10-09 12:35:55,City Hall,City Hall
+1,2023-10-13 15:01:28,City Hall,City Hall
+1,2023-10-13 15:02:29,City Hall,City Hall
+0,2023-10-12 12:53:25,City Hall,City Hall
+0,2023-10-01 12:03:41,City Hall,Essex Light Rail
+1,2023-10-11 20:31:57,City Hall,City Hall
+0,2023-10-13 13:39:41,Essex Light Rail,City Hall
+0,2023-10-04 22:04:48,City Hall,City Hall
+0,2023-10-05 21:02:09,City Hall,City Hall
+0,2023-10-25 18:49:20,City Hall,City Hall
+0,2023-10-28 08:22:10,City Hall,City Hall
+0,2023-10-05 21:23:46,12 St & Sinatra Dr N,City Hall
+0,2023-10-12 13:09:06,City Hall,City Hall
+0,2023-10-12 13:07:34,City Hall,City Hall
+0,2023-10-18 12:37:14,City Hall,City Hall
+0,2023-10-18 12:38:10,City Hall,City Hall
+1,2023-10-17 18:39:00,City Hall,Essex Light Rail
+0,2023-10-16 13:13:56,City Hall,City Hall
+1,2023-10-11 21:56:42,City Hall,City Hall
+0,2023-10-02 14:04:14,City Hall,City Hall
+1,2023-10-05 09:34:00,City Hall,City Hall
+0,2023-10-05 19:11:38,City Hall,City Hall
+1,2023-10-01 14:47:14,City Hall,City Hall
+0,2023-10-01 08:32:40,City Hall,City Hall
+0,2023-10-06 12:37:11,City Hall,City Hall
+0,2023-10-27 15:56:49,City Hall,City Hall
+0,2023-10-27 15:49:48,City Hall,City Hall
+0,2023-10-27 09:40:11,City Hall,City Hall
+0,2023-10-05 07:57:30,City Hall,City Hall
+0,2023-10-01 12:58:19,City Hall,City Hall
+0,2023-10-18 07:53:54,Leonard Gordon Park,City Hall
+0,2023-10-03 07:38:04,Leonard Gordon Park,City Hall
+0,2023-10-25 08:00:52,Leonard Gordon Park,City Hall
+0,2023-10-04 07:46:39,Leonard Gordon Park,City Hall
+0,2023-10-12 07:56:11,Leonard Gordon Park,City Hall
+0,2023-10-30 07:45:01,Leonard Gordon Park,City Hall
+0,2023-10-26 07:44:38,Leonard Gordon Park,City Hall
+0,2023-10-31 07:46:52,Leonard Gordon Park,City Hall
+1,2023-10-19 07:46:26,Leonard Gordon Park,City Hall
+0,2023-10-19 14:45:40,Leonard Gordon Park,City Hall
+0,2023-10-29 00:37:04,York St & Marin Blvd,City Hall
+0,2023-10-28 12:19:56,Communipaw & Berry Lane,City Hall
+0,2023-10-03 13:00:33,Grand St,City Hall
+0,2023-10-29 03:16:23,City Hall,Grand St
+0,2023-10-28 12:31:42,City Hall,Grand St
+0,2023-10-16 23:13:04,City Hall,Grand St
+1,2023-10-11 21:50:26,City Hall,Grand St
+0,2023-10-03 09:03:05,City Hall,Grand St
+0,2023-10-27 11:32:47,City Hall,Grand St
+0,2023-10-27 01:21:01,City Hall,Grand St
+0,2023-10-24 11:58:23,City Hall,Grand St
+0,2023-10-02 11:46:41,City Hall,Grand St
+0,2023-10-31 20:19:44,City Hall,Grand St
+0,2023-10-12 13:25:29,City Hall,Grand St
+0,2023-10-04 16:08:41,City Hall,Grand St
+0,2023-10-12 08:38:27,City Hall,Grand St
+0,2023-10-03 08:48:25,City Hall,Grand St
+0,2023-10-08 13:46:34,City Hall,Grand St
+0,2023-10-04 19:52:28,City Hall,Grand St
+0,2023-10-15 14:08:47,City Hall,Newark Ave
+0,2023-10-09 14:12:40,City Hall,Leonard Gordon Park
+0,2023-10-01 17:25:53,City Hall,Hoboken Ave at Monmouth St
+1,2023-10-01 15:59:51,City Hall,Hoboken Ave at Monmouth St
+0,2023-10-13 12:21:07,City Hall,City Hall - Washington St & 1 St
+1,2023-10-17 20:14:31,City Hall,Exchange Pl
+0,2023-10-13 12:18:31,City Hall,City Hall - Washington St & 1 St
+0,2023-10-13 12:21:50,City Hall,City Hall - Washington St & 1 St
+0,2023-10-13 12:21:36,City Hall,City Hall - Washington St & 1 St
+0,2023-10-01 15:55:32,City Hall,Manila & 1st
+0,2023-10-12 23:19:17,City Hall,Glenwood Ave
+1,2023-10-05 08:25:35,City Hall,Grand St
+0,2023-10-05 18:33:47,JC Medical Center,City Hall
+0,2023-10-26 16:55:38,JC Medical Center,City Hall
+0,2023-10-06 16:26:27,Lafayette Park,City Hall
+0,2023-10-05 12:07:21,Lafayette Park,City Hall
+1,2023-10-01 12:43:25,Lafayette Park,City Hall
+0,2023-10-11 17:21:45,Lafayette Park,City Hall
+0,2023-10-19 16:39:39,Lafayette Park,City Hall
+0,2023-10-28 20:24:21,City Hall,City Hall
+0,2023-10-15 20:33:44,City Hall,City Hall
+0,2023-10-11 13:24:04,City Hall,Essex Light Rail
+0,2023-10-12 21:09:25,City Hall,City Hall
+0,2023-10-01 13:43:35,City Hall,City Hall
+0,2023-10-16 17:12:10,City Hall,City Hall
+0,2023-10-05 19:34:50,City Hall,City Hall
+0,2023-10-01 13:14:57,City Hall,City Hall
+0,2023-10-15 18:13:22,City Hall,City Hall
+0,2023-10-25 11:23:29,City Hall,City Hall
+1,2023-10-26 16:16:58,City Hall,City Hall
+0,2023-10-31 21:57:19,City Hall,Essex Light Rail
+0,2023-10-06 13:00:08,City Hall,City Hall
+0,2023-10-05 21:24:03,12 St & Sinatra Dr N,City Hall
+0,2023-10-18 08:10:05,City Hall,Essex Light Rail
+0,2023-10-03 11:21:28,Essex Light Rail,City Hall
+0,2023-10-29 18:47:12,Essex Light Rail,City Hall
+0,2023-10-29 17:56:54,City Hall,Essex Light Rail
+0,2023-10-16 18:32:26,Essex Light Rail,City Hall
+0,2023-10-03 18:37:24,City Hall,Essex Light Rail
+0,2023-10-01 12:58:35,City Hall,City Hall
+0,2023-10-11 09:11:42,City Hall,Essex Light Rail
+1,2023-10-11 16:59:54,City Hall,City Hall
+0,2023-10-04 10:28:00,City Hall,City Hall
+0,2023-10-04 22:23:53,City Hall,City Hall
+0,2023-10-04 19:31:20,City Hall,City Hall
+0,2023-10-05 18:13:51,City Hall,City Hall
+0,2023-10-27 18:56:45,City Hall,City Hall
+0,2023-10-27 15:51:28,City Hall,City Hall
+0,2023-10-05 12:57:48,City Hall,City Hall
+1,2023-10-27 23:58:18,City Hall,Essex Light Rail
+0,2023-10-04 12:37:12,City Hall,Essex Light Rail
+0,2023-10-01 12:42:11,Essex Light Rail,City Hall
+0,2023-10-15 12:12:32,City Hall,Essex Light Rail
+0,2023-10-25 11:18:14,City Hall,City Hall
+0,2023-10-31 20:58:31,City Hall,Essex Light Rail
+0,2023-10-17 18:43:25,City Hall,Essex Light Rail
+0,2023-10-13 15:02:03,City Hall,City Hall
+0,2023-10-30 22:17:53,City Hall,Essex Light Rail
+0,2023-10-10 22:08:37,12 St & Sinatra Dr N,City Hall
+0,2023-10-07 17:06:52,City Hall,Essex Light Rail
+0,2023-10-07 17:51:28,Essex Light Rail,City Hall
+0,2023-10-13 12:30:29,Liberty Light Rail,City Hall
+0,2023-10-31 19:23:49,Montgomery St,City Hall
+0,2023-10-18 19:43:13,Montgomery St,City Hall
+0,2023-10-23 18:54:07,Montgomery St,City Hall
+0,2023-10-05 16:16:54,11 St & Washington St,City Hall
+0,2023-10-11 10:08:43,Newark Ave,City Hall
+0,2023-10-08 01:42:13,City Hall,Essex Light Rail
+0,2023-10-24 12:56:37,Newark Ave,City Hall
+0,2023-10-26 08:19:54,Liberty Light Rail,City Hall
+1,2023-10-01 22:44:54,City Hall,City Hall
+1,2023-10-05 18:43:43,Grand St,City Hall
+1,2023-10-03 08:42:53,Grand St,City Hall
+0,2023-10-08 19:27:43,City Hall,City Hall
+0,2023-10-15 15:54:31,Liberty Light Rail,City Hall
+0,2023-10-07 14:40:40,Hoboken Ave at Monmouth St,City Hall
+0,2023-10-25 16:02:30,Lafayette Park,City Hall
+0,2023-10-03 10:19:48,Columbus Drive,City Hall
+0,2023-10-01 17:51:37,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-31 09:53:58,Columbus Drive,City Hall
+0,2023-10-28 09:34:09,Columbus Drive,City Hall
+0,2023-10-28 16:24:25,Columbus Drive,City Hall
+1,2023-10-11 16:34:00,Lafayette Park,City Hall
+1,2023-10-11 13:20:43,Bergen Ave,City Hall
+0,2023-10-17 16:38:03,Newport PATH,City Hall
+0,2023-10-02 16:07:55,City Hall,City Hall
+0,2023-10-10 09:41:09,City Hall,City Hall
+0,2023-10-01 17:50:41,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-14 21:09:57,City Hall,Essex Light Rail
+0,2023-10-17 21:01:39,Paulus Hook,City Hall
+0,2023-10-15 12:16:06,Lafayette Park,City Hall
+0,2023-10-07 18:40:17,Lafayette Park,City Hall
+0,2023-10-28 11:47:01,Lafayette Park,City Hall
+0,2023-10-13 17:00:49,Lafayette Park,City Hall
+0,2023-10-15 14:48:02,Lafayette Park,City Hall
+0,2023-10-24 08:06:09,Lafayette Park,City Hall
+0,2023-10-08 11:27:26,Lafayette Park,City Hall
+0,2023-10-27 19:25:28,Lafayette Park,City Hall
+0,2023-10-26 08:05:14,Lafayette Park,City Hall
+0,2023-10-06 15:39:52,Lafayette Park,City Hall
+0,2023-10-16 08:19:10,Lafayette Park,City Hall
+0,2023-10-28 14:17:26,Lafayette Park,City Hall
+0,2023-10-23 08:19:17,Lafayette Park,City Hall
+0,2023-10-05 17:57:29,Lafayette Park,City Hall
+0,2023-10-26 08:20:05,Lafayette Park,City Hall
+0,2023-10-09 12:34:44,City Hall,City Hall
+0,2023-10-31 08:16:43,Lafayette Park,City Hall
+0,2023-10-15 13:49:05,Montgomery St,City Hall
+0,2023-10-17 12:03:28,Dixon Mills,City Hall
+0,2023-10-25 18:31:14,Montgomery St,City Hall
+1,2023-10-12 14:59:51,Montgomery St,City Hall
+0,2023-10-09 09:42:17,Montgomery St,City Hall
+0,2023-10-26 16:51:57,Dixon Mills,City Hall
+0,2023-10-13 08:19:52,Montgomery St,City Hall
+0,2023-10-12 20:40:11,Montgomery St,City Hall
+0,2023-10-01 08:47:03,Morris Canal,City Hall
+1,2023-10-19 13:23:57,JC Medical Center,City Hall
+0,2023-10-11 08:31:44,JC Medical Center,City Hall
+0,2023-10-28 17:18:52,Lafayette Park,City Hall
+0,2023-10-23 17:29:35,Lafayette Park,City Hall
+0,2023-10-13 06:49:58,Lafayette Park,City Hall
+0,2023-10-03 13:42:55,Liberty Light Rail,City Hall
+0,2023-10-02 20:25:09,Liberty Light Rail,City Hall
+0,2023-10-28 00:02:11,Newport PATH,City Hall
+0,2023-10-11 18:33:14,Newport PATH,City Hall
+0,2023-10-01 12:08:28,City Hall,Essex Light Rail
+0,2023-10-25 11:26:54,City Hall,City Hall
+0,2023-10-27 18:19:13,City Hall,City Hall
+0,2023-10-08 10:00:47,City Hall,Essex Light Rail
+0,2023-10-23 18:42:24,City Hall,Essex Light Rail
+0,2023-10-08 19:48:46,Liberty Light Rail,City Hall
+0,2023-10-01 07:04:14,Liberty Light Rail,City Hall
+0,2023-10-09 14:31:20,Paulus Hook,City Hall
+0,2023-10-18 20:13:35,City Hall,Essex Light Rail
+0,2023-10-15 10:18:01,Lafayette Park,City Hall
+0,2023-10-14 13:19:22,Lafayette Park,City Hall
+0,2023-10-02 16:03:18,Lafayette Park,City Hall
+0,2023-10-16 16:05:52,Lafayette Park,City Hall
+0,2023-10-03 17:03:31,Lafayette Park,City Hall
+0,2023-10-03 12:06:14,Lafayette Park,City Hall
+0,2023-10-01 08:49:32,Lafayette Park,City Hall
+0,2023-10-01 17:05:04,Lafayette Park,City Hall
+0,2023-10-23 18:05:06,Lafayette Park,City Hall
+0,2023-10-28 13:49:16,Monmouth and 6th,City Hall
+0,2023-10-06 18:41:45,Lafayette Park,City Hall
+0,2023-10-10 17:04:45,Lafayette Park,City Hall
+0,2023-10-02 08:53:50,Hamilton Park,City Hall
+0,2023-10-13 15:40:08,Hamilton Park,City Hall
+0,2023-10-31 07:13:19,Hamilton Park,City Hall
+0,2023-10-13 07:11:04,Hamilton Park,City Hall
+1,2023-10-27 07:11:23,Hamilton Park,City Hall
+0,2023-10-28 18:06:13,Hamilton Park,City Hall
+0,2023-10-12 19:00:04,Hamilton Park,City Hall
+0,2023-10-10 15:39:47,Hamilton Park,City Hall
+0,2023-10-01 09:09:49,Hamilton Park,City Hall
+1,2023-10-17 07:13:18,Hamilton Park,City Hall
+0,2023-10-02 07:10:32,Hamilton Park,City Hall
+0,2023-10-09 07:06:53,Hamilton Park,City Hall
+0,2023-10-04 07:11:12,Hamilton Park,City Hall
+0,2023-10-08 10:21:40,Hamilton Park,City Hall
+0,2023-10-19 14:13:44,Hamilton Park,City Hall
+0,2023-10-10 07:11:44,Hamilton Park,City Hall
+0,2023-10-02 11:38:52,Hamilton Park,City Hall
+0,2023-10-04 10:59:31,Hamilton Park,City Hall
+0,2023-10-30 08:38:29,Hamilton Park,City Hall
+0,2023-10-15 14:10:31,Hamilton Park,City Hall
+0,2023-10-28 14:53:21,Hamilton Park,City Hall
+1,2023-10-13 17:20:33,Liberty Light Rail,City Hall
+0,2023-10-06 18:11:29,Hamilton Park,City Hall
+0,2023-10-26 14:45:20,Hamilton Park,City Hall
+0,2023-10-06 18:11:02,Hamilton Park,City Hall
+0,2023-10-15 19:01:02,Columbus Drive,City Hall
+0,2023-10-05 18:51:44,City Hall,Brunswick & 6th
+0,2023-10-05 09:45:35,City Hall,Hoboken Ave at Monmouth St
+0,2023-10-23 22:59:56,City Hall,Hoboken Ave at Monmouth St
+0,2023-10-23 23:02:26,City Hall,Hoboken Ave at Monmouth St
+1,2023-10-11 13:35:39,Lafayette Park,City Hall
+0,2023-10-10 08:29:06,Liberty Light Rail,City Hall
+0,2023-10-25 18:23:52,Liberty Light Rail,City Hall
+0,2023-10-17 11:34:39,Montgomery St,City Hall
+0,2023-10-06 08:22:24,Hamilton Park,City Hall
+0,2023-10-27 08:21:54,Hamilton Park,City Hall
+0,2023-10-28 12:45:41,Hamilton Park,City Hall
+0,2023-10-29 10:51:12,Hamilton Park,City Hall
+0,2023-10-28 12:44:30,Hamilton Park,City Hall
+0,2023-10-01 10:17:09,Hamilton Park,City Hall
+0,2023-10-07 18:21:26,Hamilton Park,City Hall
+0,2023-10-17 21:40:17,Hamilton Park,City Hall
+0,2023-10-25 21:34:55,Hamilton Park,City Hall
+0,2023-10-27 15:28:10,Hamilton Park,City Hall
+0,2023-10-27 13:24:46,Newport PATH,City Hall
+0,2023-10-06 13:28:10,Newport PATH,City Hall
+0,2023-10-13 13:20:52,Newport PATH,City Hall
+0,2023-10-27 13:23:38,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-08 11:27:12,Lafayette Park,City Hall
+0,2023-10-04 13:33:29,Liberty Light Rail,City Hall
+0,2023-10-18 08:43:11,Liberty Light Rail,City Hall
+0,2023-10-22 19:49:40,Liberty Light Rail,City Hall
+0,2023-10-12 11:50:11,Lincoln Park,City Hall
+0,2023-10-10 22:56:11,City Hall,JC Medical Center
+1,2023-10-18 19:03:43,City Hall,Morris Canal
+0,2023-10-24 21:36:24,City Hall,JC Medical Center
+0,2023-10-28 01:24:33,City Hall,JC Medical Center
+0,2023-10-27 18:04:28,City Hall,JC Medical Center
+0,2023-10-01 19:26:42,City Hall,Morris Canal
+0,2023-10-05 19:44:39,City Hall,Morris Canal
+0,2023-10-10 15:28:38,City Hall,JC Medical Center
+0,2023-10-02 19:26:17,City Hall,Morris Canal
+0,2023-10-12 00:45:08,City Hall,JC Medical Center
+0,2023-10-27 18:33:25,City Hall,JC Medical Center
+0,2023-10-29 21:21:47,City Hall,JC Medical Center
+0,2023-10-13 00:29:39,City Hall,JC Medical Center
+0,2023-10-25 19:51:49,City Hall,JC Medical Center
+0,2023-10-30 18:24:21,City Hall,Morris Canal
+0,2023-10-05 20:41:33,City Hall,JC Medical Center
+0,2023-10-10 14:04:59,City Hall,JC Medical Center
+0,2023-10-25 18:07:38,City Hall,Morris Canal
+0,2023-10-12 20:26:04,City Hall,JC Medical Center
+0,2023-10-24 21:56:19,City Hall,JC Medical Center
+0,2023-10-05 20:18:31,City Hall,JC Medical Center
+0,2023-10-06 18:32:01,City Hall,JC Medical Center
+0,2023-10-18 21:09:50,City Hall,JC Medical Center
+0,2023-10-15 18:54:01,City Hall,JC Medical Center
+0,2023-10-28 18:11:19,City Hall,JC Medical Center
+0,2023-10-25 21:54:47,City Hall,JC Medical Center
+0,2023-10-09 16:16:56,City Hall,JC Medical Center
+0,2023-10-24 16:24:00,City Hall,JC Medical Center
+0,2023-10-27 16:08:27,City Hall,Morris Canal
+0,2023-10-25 20:12:12,City Hall,Morris Canal
+0,2023-10-16 17:22:31,City Hall,JC Medical Center
+0,2023-10-01 12:49:13,City Hall,JC Medical Center
+0,2023-10-04 19:40:10,City Hall,Morris Canal
+0,2023-10-10 21:24:38,City Hall,JC Medical Center
+0,2023-10-28 16:03:35,City Hall,JC Medical Center
+0,2023-10-10 22:54:31,City Hall,JC Medical Center
+0,2023-10-26 15:00:26,City Hall,Morris Canal
+0,2023-10-05 19:44:39,City Hall,Morris Canal
+0,2023-10-05 18:26:02,City Hall,JC Medical Center
+0,2023-10-28 23:17:00,City Hall,Morris Canal
+0,2023-10-17 19:03:48,City Hall,JC Medical Center
+0,2023-10-13 02:06:31,City Hall,JC Medical Center
+0,2023-10-28 18:57:57,City Hall,JC Medical Center
+0,2023-10-07 21:30:22,City Hall,Morris Canal
+1,2023-10-01 12:28:13,City Hall,Morris Canal
+0,2023-10-02 20:32:14,City Hall,JC Medical Center
+0,2023-10-16 19:55:29,City Hall,JC Medical Center
+0,2023-10-09 17:05:26,City Hall,JC Medical Center
+1,2023-10-11 20:33:09,City Hall,JC Medical Center
+1,2023-10-05 18:51:12,City Hall,JC Medical Center
+0,2023-10-10 21:57:25,City Hall,JC Medical Center
+1,2023-10-12 20:15:14,City Hall,JC Medical Center
+1,2023-10-03 18:38:38,City Hall,JC Medical Center
+0,2023-10-10 22:56:12,City Hall,JC Medical Center
+0,2023-10-17 19:03:38,City Hall,Morris Canal
+0,2023-10-01 01:23:55,City Hall,Morris Canal
+0,2023-10-24 18:27:18,City Hall,JC Medical Center
+0,2023-10-17 20:40:43,City Hall,JC Medical Center
+0,2023-10-29 03:19:44,City Hall,JC Medical Center
+0,2023-10-01 18:17:46,City Hall,JC Medical Center
+1,2023-10-09 19:37:15,City Hall,JC Medical Center
+0,2023-10-30 13:19:34,City Hall,JC Medical Center
+0,2023-10-26 23:44:12,City Hall,JC Medical Center
+1,2023-10-06 01:21:18,City Hall,JC Medical Center
+0,2023-10-23 18:12:49,City Hall,JC Medical Center
+0,2023-10-25 11:35:41,City Hall,Morris Canal
+0,2023-10-06 08:40:44,City Hall,Church Sq Park - 5 St & Park Ave
+0,2023-10-14 03:06:16,City Hall,JC Medical Center
+0,2023-10-18 20:24:01,City Hall,JC Medical Center
+0,2023-10-29 02:08:51,City Hall,JC Medical Center
+0,2023-10-19 13:30:52,City Hall,JC Medical Center
+0,2023-10-29 02:52:09,City Hall,Morris Canal
+0,2023-10-27 10:48:30,Hamilton Park,City Hall
+0,2023-10-04 10:59:30,Hamilton Park,City Hall
+1,2023-10-30 08:30:52,Lafayette Park,City Hall
+0,2023-10-01 11:55:48,Bergen Ave & Sip Ave,City Hall
+0,2023-10-01 13:20:28,Liberty Light Rail,City Hall
+1,2023-10-30 08:36:45,Liberty Light Rail,City Hall
+0,2023-10-08 08:12:11,Lincoln Park,City Hall
+0,2023-10-01 16:05:30,Lincoln Park,City Hall
+0,2023-10-04 20:32:59,Lincoln Park,City Hall
+0,2023-10-18 18:36:26,Lincoln Park,City Hall
+0,2023-10-15 08:32:50,Lincoln Park,City Hall
+1,2023-10-03 16:36:53,Lincoln Park,City Hall
+0,2023-10-11 18:36:08,Lincoln Park,City Hall
+0,2023-10-16 08:29:03,Lincoln Park,City Hall
+0,2023-10-19 06:59:07,Liberty Light Rail,City Hall
+0,2023-10-24 19:52:18,City Hall,JC Medical Center
+0,2023-10-23 18:37:00,City Hall,JC Medical Center
+0,2023-10-06 17:03:38,City Hall,Morris Canal
+0,2023-10-23 22:16:55,City Hall,JC Medical Center
+1,2023-10-06 00:53:12,City Hall,JC Medical Center
+0,2023-10-18 10:38:33,City Hall,Church Sq Park - 5 St & Park Ave
+0,2023-10-13 00:29:42,City Hall,JC Medical Center
+1,2023-10-25 18:32:08,City Hall,JC Medical Center
+0,2023-10-28 04:11:47,City Hall,JC Medical Center
+0,2023-10-02 18:41:38,City Hall,JC Medical Center
+0,2023-10-06 15:56:54,City Hall,Morris Canal
+0,2023-10-17 15:39:46,City Hall,Morris Canal
+0,2023-10-18 20:55:27,City Hall,2 St & Park Ave
+0,2023-10-17 16:27:02,City Hall,2 St & Park Ave
+0,2023-10-12 10:15:55,City Hall,2 St & Park Ave
+0,2023-10-30 17:55:14,City Hall,2 St & Park Ave
+0,2023-10-07 21:32:09,City Hall,Morris Canal
+0,2023-10-02 22:28:01,City Hall,JC Medical Center
+0,2023-10-03 22:40:36,City Hall,JC Medical Center
+0,2023-10-02 21:44:10,City Hall,JC Medical Center
+0,2023-10-01 17:50:11,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-01 15:33:52,Columbus Drive,City Hall
+0,2023-10-26 16:24:47,Hamilton Park,City Hall
+1,2023-10-19 08:34:08,Liberty Light Rail,City Hall
+0,2023-10-09 15:26:03,Lincoln Park,City Hall
+0,2023-10-28 15:45:15,Liberty Light Rail,City Hall
+1,2023-10-23 08:39:56,Liberty Light Rail,City Hall
+0,2023-10-16 11:53:56,5 Corners Library,City Hall
+0,2023-10-19 08:44:04,Montgomery St,City Hall
+0,2023-10-17 18:28:03,City Hall,Hamilton Park
+0,2023-10-23 13:10:21,Bergen Ave & Sip Ave,City Hall
+0,2023-10-04 08:50:12,Liberty Light Rail,City Hall
+0,2023-10-25 10:53:35,Liberty Light Rail,City Hall
+0,2023-10-03 13:16:09,Liberty Light Rail,City Hall
+0,2023-10-25 21:31:40,Liberty Light Rail,City Hall
+0,2023-10-24 17:56:26,Newport PATH,City Hall
+0,2023-10-17 17:04:15,Newport PATH,City Hall
+0,2023-10-16 17:16:45,Newport PATH,City Hall
+0,2023-10-27 13:16:30,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-01 12:22:40,Columbus Drive,City Hall
+0,2023-10-13 15:47:14,Liberty Light Rail,City Hall
+0,2023-10-22 21:10:59,Columbus Drive,City Hall
+0,2023-10-16 23:12:06,City Hall,Communipaw & Berry Lane
+1,2023-10-11 17:04:46,City Hall,Communipaw & Berry Lane
+0,2023-10-23 23:08:34,City Hall,Communipaw & Berry Lane
+0,2023-10-16 22:06:15,City Hall,Communipaw & Berry Lane
+0,2023-10-28 17:39:07,City Hall,Communipaw & Berry Lane
+0,2023-10-11 19:18:20,City Hall,Communipaw & Berry Lane
+0,2023-10-07 12:30:29,City Hall,Communipaw & Berry Lane
+0,2023-10-28 03:30:25,City Hall,Communipaw & Berry Lane
+0,2023-10-12 14:12:12,City Hall,Communipaw & Berry Lane
+0,2023-10-24 21:32:06,City Hall,Communipaw & Berry Lane
+0,2023-10-24 18:15:27,City Hall,Communipaw & Berry Lane
+0,2023-10-13 20:16:51,City Hall,Communipaw & Berry Lane
+0,2023-10-12 18:00:07,City Hall,Communipaw & Berry Lane
+0,2023-10-04 17:57:38,City Hall,Communipaw & Berry Lane
+0,2023-10-11 13:32:21,City Hall,Communipaw & Berry Lane
+0,2023-10-24 10:19:09,City Hall,Communipaw & Berry Lane
+0,2023-10-23 21:31:57,City Hall,Communipaw & Berry Lane
+1,2023-10-06 17:46:50,City Hall,Communipaw & Berry Lane
+0,2023-10-05 20:02:08,City Hall,Communipaw & Berry Lane
+0,2023-10-08 20:19:20,City Hall,Communipaw & Berry Lane
+0,2023-10-11 13:22:24,City Hall,Communipaw & Berry Lane
+0,2023-10-26 18:35:05,City Hall,Communipaw & Berry Lane
+1,2023-10-17 18:36:31,City Hall,Communipaw & Berry Lane
+0,2023-10-04 20:59:52,City Hall,Communipaw & Berry Lane
+1,2023-10-10 17:49:11,City Hall,Communipaw & Berry Lane
+0,2023-10-28 11:19:30,City Hall,Communipaw & Berry Lane
+0,2023-10-13 17:52:44,City Hall,Communipaw & Berry Lane
+0,2023-10-12 14:12:43,City Hall,Communipaw & Berry Lane
+0,2023-10-26 23:50:49,City Hall,Communipaw & Berry Lane
+0,2023-10-07 00:50:01,City Hall,Communipaw & Berry Lane
+0,2023-10-25 21:46:27,City Hall,Communipaw & Berry Lane
+0,2023-10-31 10:28:51,City Hall,Communipaw & Berry Lane
+0,2023-10-19 11:12:07,City Hall,Communipaw & Berry Lane
+0,2023-10-18 19:17:17,City Hall,Communipaw & Berry Lane
+0,2023-10-05 17:58:42,City Hall,Monmouth and 6th
+0,2023-10-27 17:25:14,City Hall,Lafayette Park
+0,2023-10-06 18:31:26,City Hall,Lafayette Park
+0,2023-10-06 19:03:38,City Hall,Lafayette Park
+0,2023-10-17 19:27:56,City Hall,Lafayette Park
+1,2023-10-10 19:49:04,City Hall,Lafayette Park
+0,2023-10-17 22:26:33,City Hall,Lafayette Park
+0,2023-10-04 18:38:17,City Hall,Lafayette Park
+0,2023-10-12 17:58:42,City Hall,Lafayette Park
+0,2023-10-27 22:41:24,City Hall,Lafayette Park
+1,2023-10-29 02:42:52,City Hall,Monmouth and 6th
+0,2023-10-12 19:56:07,City Hall,Lafayette Park
+1,2023-10-11 20:27:16,City Hall,Lafayette Park
+0,2023-10-29 19:22:11,City Hall,Lafayette Park
+0,2023-10-12 20:36:05,City Hall,Lafayette Park
+1,2023-10-03 19:07:41,City Hall,Lafayette Park
+0,2023-10-31 17:54:10,City Hall,Lafayette Park
+0,2023-10-26 14:11:51,City Hall,Lafayette Park
+0,2023-10-01 15:39:05,City Hall,4 St & Grand St
+0,2023-10-26 22:53:36,City Hall,Lafayette Park
+0,2023-10-10 18:22:15,City Hall,Lafayette Park
+0,2023-10-31 21:25:33,City Hall,Lafayette Park
+0,2023-10-31 20:24:33,City Hall,Lafayette Park
+0,2023-10-03 18:12:41,City Hall,Lafayette Park
+0,2023-10-10 17:38:59,City Hall,Lafayette Park
+0,2023-10-16 21:31:34,City Hall,Lafayette Park
+0,2023-10-27 01:21:43,City Hall,Lafayette Park
+0,2023-10-25 19:06:05,City Hall,Lafayette Park
+0,2023-10-16 21:54:57,City Hall,Lafayette Park
+1,2023-10-16 18:08:28,City Hall,Lafayette Park
+0,2023-10-16 18:07:47,City Hall,Lafayette Park
+0,2023-10-02 15:59:34,City Hall,Monmouth and 6th
+0,2023-10-23 20:52:48,City Hall,Lafayette Park
+0,2023-10-25 18:01:13,City Hall,Lafayette Park
+0,2023-10-25 23:11:45,City Hall,Lafayette Park
+0,2023-10-09 00:05:46,City Hall,Lafayette Park
+1,2023-10-15 19:56:12,City Hall,Lafayette Park
+0,2023-10-23 22:16:55,City Hall,Lafayette Park
+0,2023-10-24 18:41:31,City Hall,Lafayette Park
+0,2023-10-10 20:26:38,City Hall,Lafayette Park
+0,2023-10-24 21:21:10,City Hall,Lafayette Park
+0,2023-10-03 21:46:36,City Hall,Lafayette Park
+0,2023-10-15 19:55:16,City Hall,Lafayette Park
+0,2023-10-01 15:54:53,City Hall,Lafayette Park
+0,2023-10-09 22:06:13,City Hall,Lafayette Park
+0,2023-10-28 16:04:37,City Hall,Lafayette Park
+0,2023-10-25 20:34:06,City Hall,Lafayette Park
+0,2023-10-23 21:16:28,City Hall,Lafayette Park
+0,2023-10-08 20:26:18,City Hall,Lafayette Park
+0,2023-10-23 15:28:00,City Hall,Lafayette Park
+0,2023-10-03 12:31:50,City Hall,Lafayette Park
+0,2023-10-11 13:42:35,City Hall,Lafayette Park
+0,2023-10-01 16:28:33,City Hall,Lafayette Park
+1,2023-10-28 00:30:03,City Hall,Lafayette Park
+1,2023-10-05 12:21:11,City Hall,Lafayette Park
+0,2023-10-26 21:44:49,City Hall,Lafayette Park
+1,2023-10-13 20:26:07,City Hall,Lafayette Park
+0,2023-10-17 21:55:43,City Hall,Lafayette Park
+0,2023-10-22 20:20:11,City Hall,Lafayette Park
+0,2023-10-05 20:14:04,City Hall,Lafayette Park
+1,2023-10-13 20:25:34,City Hall,Lafayette Park
+0,2023-10-04 15:35:09,City Hall,Lafayette Park
+0,2023-10-09 20:45:25,City Hall,Lafayette Park
+0,2023-10-17 18:06:16,City Hall,Lafayette Park
+0,2023-10-16 20:43:45,City Hall,Lafayette Park
+0,2023-10-03 11:29:58,City Hall,Lafayette Park
+1,2023-10-28 17:41:52,York St & Marin Blvd,City Hall
+0,2023-10-17 00:05:25,City Hall,Liberty Light Rail
+0,2023-10-18 19:16:02,City Hall,Liberty Light Rail
+0,2023-10-01 00:05:28,City Hall,Liberty Light Rail
+0,2023-10-01 19:04:44,City Hall,Liberty Light Rail
+0,2023-10-27 23:11:37,City Hall,Liberty Light Rail
+0,2023-10-10 21:27:42,City Hall,Liberty Light Rail
+0,2023-10-30 21:54:25,City Hall,Liberty Light Rail
+1,2023-10-01 14:48:09,City Hall,Liberty Light Rail
+0,2023-10-28 15:24:09,City Hall,Liberty Light Rail
+0,2023-10-05 17:37:19,City Hall,Liberty Light Rail
+0,2023-10-28 13:13:20,City Hall,Liberty Light Rail
+0,2023-10-24 19:12:24,City Hall,Liberty Light Rail
+0,2023-10-10 18:46:34,City Hall,Liberty Light Rail
+0,2023-10-10 21:38:58,City Hall,Liberty Light Rail
+0,2023-10-09 15:32:14,City Hall,Liberty Light Rail
+0,2023-10-28 21:28:45,City Hall,Liberty Light Rail
+0,2023-10-02 21:19:06,City Hall,Liberty Light Rail
+0,2023-10-02 12:16:29,City Hall,Liberty Light Rail
+0,2023-10-26 23:34:43,City Hall,Liberty Light Rail
+0,2023-10-01 14:47:26,City Hall,Liberty Light Rail
+0,2023-10-30 22:57:18,City Hall,Liberty Light Rail
+0,2023-10-06 14:10:03,City Hall,Liberty Light Rail
+0,2023-10-08 20:24:22,City Hall,Liberty Light Rail
+0,2023-10-10 21:28:37,City Hall,Liberty Light Rail
+0,2023-10-18 19:01:21,City Hall,Liberty Light Rail
+0,2023-10-19 15:56:43,City Hall,Liberty Light Rail
+0,2023-10-12 21:03:29,City Hall,Liberty Light Rail
+0,2023-10-18 18:58:49,City Hall,Liberty Light Rail
+0,2023-10-28 21:27:05,City Hall,Liberty Light Rail
+0,2023-10-17 18:35:15,City Hall,Liberty Light Rail
+0,2023-10-22 16:59:10,City Hall,Liberty Light Rail
+0,2023-10-11 15:33:28,City Hall,Liberty Light Rail
+0,2023-10-10 21:44:43,City Hall,Liberty Light Rail
+0,2023-10-12 21:04:38,City Hall,Liberty Light Rail
+0,2023-10-25 20:56:28,City Hall,Liberty Light Rail
+0,2023-10-04 11:37:48,City Hall,Liberty Light Rail
+0,2023-10-31 14:46:07,City Hall,Liberty Light Rail
+0,2023-10-05 18:42:53,City Hall,Liberty Light Rail
+0,2023-10-01 10:20:04,City Hall,Liberty Light Rail
+0,2023-10-04 18:14:08,City Hall,Liberty Light Rail
+0,2023-10-06 18:41:24,City Hall,Liberty Light Rail
+0,2023-10-25 18:50:24,City Hall,Liberty Light Rail
+0,2023-10-26 15:24:52,City Hall,Liberty Light Rail
+0,2023-10-04 18:43:37,City Hall,Liberty Light Rail
+0,2023-10-26 22:17:48,City Hall,Liberty Light Rail
+0,2023-10-28 17:45:50,City Hall,Liberty Light Rail
+1,2023-10-02 14:19:39,City Hall,Liberty Light Rail
+0,2023-10-01 14:48:41,City Hall,Liberty Light Rail
+0,2023-10-12 21:03:20,City Hall,Liberty Light Rail
+1,2023-10-25 18:43:49,City Hall,Liberty Light Rail
+0,2023-10-10 22:13:26,City Hall,Liberty Light Rail
+0,2023-10-23 14:26:10,City Hall,Liberty Light Rail
+0,2023-10-11 00:06:12,City Hall,Liberty Light Rail
+0,2023-10-07 19:35:48,City Hall,Liberty Light Rail
+0,2023-10-04 19:54:53,City Hall,Liberty Light Rail
+0,2023-10-05 18:49:04,City Hall,Liberty Light Rail
+0,2023-10-13 14:13:19,City Hall,Liberty Light Rail
+0,2023-10-16 20:12:29,City Hall,Liberty Light Rail
+0,2023-10-02 20:33:37,City Hall,Liberty Light Rail
+0,2023-10-18 19:23:27,City Hall,Liberty Light Rail
+0,2023-10-31 16:14:46,City Hall,Liberty Light Rail
+0,2023-10-27 18:36:36,City Hall,Liberty Light Rail
+0,2023-10-18 19:02:39,City Hall,Liberty Light Rail
+0,2023-10-01 23:26:13,City Hall,Liberty Light Rail
+0,2023-10-09 18:04:22,City Hall,Liberty Light Rail
+1,2023-10-01 16:47:29,City Hall,Liberty Light Rail
+0,2023-10-04 14:36:21,City Hall,Liberty Light Rail
+0,2023-10-27 12:32:19,City Hall,Journal Square
+0,2023-10-24 19:26:51,City Hall,Lafayette Park
+0,2023-10-15 15:20:53,City Hall,Lafayette Park
+0,2023-10-05 18:52:10,City Hall,Lafayette Park
+0,2023-10-02 16:37:02,City Hall,Lafayette Park
+1,2023-10-06 18:57:32,City Hall,Lafayette Park
+0,2023-10-06 18:26:53,City Hall,Lafayette Park
+0,2023-10-04 12:06:45,City Hall,Lafayette Park
+0,2023-10-28 14:47:55,City Hall,Lafayette Park
+1,2023-10-25 18:17:35,City Hall,Lafayette Park
+0,2023-10-23 16:59:43,City Hall,Monmouth and 6th
+0,2023-10-12 17:36:29,City Hall,Monmouth and 6th
+0,2023-10-11 18:31:17,City Hall,Monmouth and 6th
+0,2023-10-05 19:23:07,City Hall,Lafayette Park
+0,2023-10-24 21:32:57,City Hall,Lafayette Park
+0,2023-10-03 17:21:16,City Hall,Liberty Light Rail
+0,2023-10-13 22:17:55,City Hall,Liberty Light Rail
+0,2023-10-13 21:10:55,City Hall,Liberty Light Rail
+0,2023-10-01 10:51:38,City Hall,Liberty Light Rail
+1,2023-10-13 14:17:08,City Hall,Liberty Light Rail
+0,2023-10-06 18:40:26,City Hall,Liberty Light Rail
+0,2023-10-27 01:21:17,City Hall,Liberty Light Rail
+0,2023-10-17 00:25:18,City Hall,Liberty Light Rail
+0,2023-10-16 22:18:00,City Hall,Liberty Light Rail
+0,2023-10-31 08:59:15,City Hall,Liberty Light Rail
+0,2023-10-25 21:25:17,City Hall,Liberty Light Rail
+0,2023-10-18 15:29:14,City Hall,Liberty Light Rail
+0,2023-10-27 20:29:09,City Hall,Liberty Light Rail
+1,2023-10-16 20:25:10,City Hall,Liberty Light Rail
+0,2023-10-23 19:40:00,City Hall,Liberty Light Rail
+0,2023-10-04 21:56:25,City Hall,Liberty Light Rail
+0,2023-10-31 13:13:16,City Hall,Liberty Light Rail
+0,2023-10-03 21:26:01,City Hall,Liberty Light Rail
+0,2023-10-24 21:33:08,City Hall,Liberty Light Rail
+0,2023-10-06 18:46:54,City Hall,Liberty Light Rail
+0,2023-10-28 11:00:26,City Hall,Liberty Light Rail
+0,2023-10-01 19:05:13,City Hall,Liberty Light Rail
+0,2023-10-05 19:05:45,City Hall,Liberty Light Rail
+0,2023-10-29 10:44:28,City Hall,Liberty Light Rail
+0,2023-10-24 18:45:21,City Hall,Liberty Light Rail
+0,2023-10-04 18:48:09,City Hall,Liberty Light Rail
+0,2023-10-11 19:36:30,City Hall,Liberty Light Rail
+0,2023-10-10 21:08:28,City Hall,Liberty Light Rail
+0,2023-10-17 15:54:32,City Hall,Liberty Light Rail
+0,2023-10-03 11:09:10,City Hall,Liberty Light Rail
+0,2023-10-03 16:02:22,City Hall,Liberty Light Rail
+0,2023-10-25 20:44:20,City Hall,Liberty Light Rail
+0,2023-10-16 18:56:57,City Hall,Liberty Light Rail
+0,2023-10-03 18:37:20,City Hall,Liberty Light Rail
+0,2023-10-30 19:11:20,City Hall,Liberty Light Rail
+0,2023-10-29 22:55:25,City Hall,Liberty Light Rail
+0,2023-10-23 19:05:55,City Hall,Liberty Light Rail
+0,2023-10-05 18:02:42,City Hall,Liberty Light Rail
+0,2023-10-17 19:17:00,City Hall,Liberty Light Rail
+0,2023-10-12 20:02:02,City Hall,Liberty Light Rail
+0,2023-10-25 19:29:25,City Hall,Liberty Light Rail
+0,2023-10-01 09:38:10,City Hall,Warren St
+0,2023-10-30 11:08:19,City Hall,Newport Pkwy
+0,2023-10-27 20:10:07,City Hall,Warren St
+0,2023-10-12 12:29:17,City Hall,Warren St
+1,2023-10-04 18:24:53,City Hall,Warren St
+0,2023-10-25 12:47:25,City Hall,Newport Pkwy
+0,2023-10-05 14:21:33,City Hall,Warren St
+0,2023-10-30 19:26:54,City Hall,Warren St
+0,2023-10-29 11:37:17,City Hall,Warren St
+0,2023-10-25 12:47:48,City Hall,Newport Pkwy
+0,2023-10-01 14:05:59,City Hall,Newport Pkwy
+0,2023-10-09 11:39:00,City Hall,Warren St
+0,2023-10-08 13:01:20,City Hall,Warren St
+0,2023-10-12 16:38:54,City Hall,Warren St
+0,2023-10-22 18:09:36,City Hall,Newport Pkwy
+0,2023-10-05 22:24:33,City Hall,Warren St
+0,2023-10-04 17:28:09,City Hall,Warren St
+0,2023-10-04 16:00:29,City Hall,Newport Pkwy
+0,2023-10-27 19:07:08,City Hall,Warren St
+0,2023-10-02 22:07:23,City Hall,Newport Pkwy
+0,2023-10-01 13:17:32,City Hall,Newport Pkwy
+0,2023-10-30 20:49:10,City Hall,Warren St
+0,2023-10-31 19:36:58,City Hall,Warren St
+0,2023-10-06 14:27:44,City Hall,Warren St
+0,2023-10-12 16:44:45,City Hall,Warren St
+0,2023-10-27 21:59:52,City Hall,Newport Pkwy
+1,2023-10-27 21:30:22,City Hall,Warren St
+0,2023-10-28 12:57:19,City Hall,Newport Pkwy
+0,2023-10-16 22:41:30,City Hall,Warren St
+0,2023-10-28 18:24:41,City Hall,Newport Pkwy
+0,2023-10-26 10:33:52,City Hall,Newport Pkwy
+0,2023-10-05 18:49:20,City Hall,Warren St
+1,2023-10-26 17:34:27,City Hall,Newport Pkwy
+0,2023-10-01 17:28:17,City Hall,Warren St
+0,2023-10-10 15:08:50,City Hall,Newport Pkwy
+0,2023-10-27 21:59:37,City Hall,Newport Pkwy
+0,2023-10-16 22:25:14,City Hall,9 St HBLR - Jackson St & 8 St
+0,2023-10-19 11:13:12,City Hall,Heights Elevator
+0,2023-10-28 17:01:23,City Hall,6 St & Grand St
+0,2023-10-01 10:18:13,City Hall,7 St & Monroe St
+0,2023-10-15 12:46:08,City Hall,7 St & Monroe St
+0,2023-10-03 18:22:40,City Hall,7 St & Monroe St
+0,2023-10-03 15:19:03,City Hall,7 St & Monroe St
+0,2023-10-30 18:23:56,City Hall,7 St & Monroe St
+0,2023-10-18 06:58:36,City Hall,Newport PATH
+0,2023-10-09 12:51:34,City Hall,Newport PATH
+0,2023-10-02 12:50:45,City Hall,Newport PATH
+0,2023-10-04 13:22:02,City Hall,Newport PATH
+0,2023-10-13 12:10:44,City Hall,Newport PATH
+0,2023-10-12 07:26:01,City Hall,Newport PATH
+0,2023-10-05 15:02:02,City Hall,Newport PATH
+1,2023-10-06 09:00:25,City Hall,Bergen Ave
+0,2023-10-30 16:50:17,City Hall,Newport PATH
+0,2023-10-24 17:46:01,City Hall,Newport PATH
+0,2023-10-09 18:14:20,City Hall,Newport PATH
+0,2023-10-11 18:44:33,City Hall,Newport PATH
+0,2023-10-11 16:16:44,City Hall,Newport PATH
+1,2023-10-28 00:15:17,City Hall,Bergen Ave
+0,2023-10-27 11:05:22,City Hall,Newport PATH
+0,2023-10-03 15:04:57,City Hall,Newport PATH
+0,2023-10-24 14:18:17,City Hall,Newport PATH
+0,2023-10-26 12:46:30,City Hall,Newport PATH
+0,2023-10-26 08:58:06,City Hall,Newport PATH
+1,2023-10-18 19:05:05,City Hall,Bergen Ave
+0,2023-10-05 17:26:12,City Hall,Newport PATH
+0,2023-10-03 15:45:54,City Hall,Newport PATH
+0,2023-10-24 07:27:18,City Hall,Newport PATH
+0,2023-10-02 14:13:42,City Hall,Newport PATH
+0,2023-10-08 12:31:38,City Hall,Newport PATH
+0,2023-10-23 13:34:33,City Hall,Newport PATH
+0,2023-10-08 11:22:09,City Hall,Newport PATH
+0,2023-10-08 11:20:38,City Hall,Newport PATH
+0,2023-10-28 18:17:21,City Hall,Fairmount Ave
+0,2023-10-18 13:49:43,City Hall,Fairmount Ave
+1,2023-10-17 18:45:20,City Hall,Fairmount Ave
+1,2023-10-04 01:22:32,City Hall,Fairmount Ave
+0,2023-10-01 13:16:59,City Hall,Bergen Ave & Sip Ave
+1,2023-10-09 17:26:50,City Hall,Fairmount Ave
+0,2023-10-28 20:41:53,City Hall,Fairmount Ave
+0,2023-10-28 08:24:51,City Hall,Bergen Ave & Sip Ave
+0,2023-10-10 17:21:12,City Hall,Bergen Ave & Sip Ave
+1,2023-10-10 17:41:20,City Hall,Fairmount Ave
+0,2023-10-29 19:03:51,City Hall,Newport PATH
+0,2023-10-30 17:21:29,City Hall,Bergen Ave
+1,2023-10-23 13:59:08,City Hall,Newport PATH
+0,2023-10-11 14:40:42,City Hall,Newport PATH
+0,2023-10-14 20:08:45,City Hall,Newport PATH
+0,2023-10-09 18:14:10,City Hall,Newport PATH
+0,2023-10-16 08:40:01,City Hall,Newport PATH
+1,2023-10-02 14:07:16,City Hall,Fairmount Ave
+0,2023-10-23 17:30:20,City Hall,Columbus Drive
+0,2023-10-01 16:53:26,City Hall,Columbus Drive
+0,2023-10-10 10:55:14,City Hall,South Waterfront Walkway - Sinatra Dr & 1 St
+0,2023-10-01 16:53:46,City Hall,Columbus Drive
+1,2023-10-04 07:50:11,City Hall,South Waterfront Walkway - Sinatra Dr & 1 St
+0,2023-10-15 13:35:22,City Hall,Columbus Drive
+0,2023-10-27 15:49:36,City Hall,South Waterfront Walkway - Sinatra Dr & 1 St
+0,2023-10-02 18:39:40,City Hall,Columbus Drive
+0,2023-10-07 21:56:05,City Hall,Columbus Drive
+0,2023-10-27 15:49:35,City Hall,South Waterfront Walkway - Sinatra Dr & 1 St
+0,2023-10-16 19:15:15,City Hall,Columbus Drive
+0,2023-10-23 12:05:58,City Hall,Columbus Drive
+0,2023-10-08 20:01:17,City Hall,14 St Ferry - 14 St & Shipyard Ln
+0,2023-10-03 17:16:08,City Hall,York St & Marin Blvd
+0,2023-10-26 20:37:35,City Hall,York St & Marin Blvd
+0,2023-10-05 11:48:11,City Hall,York St & Marin Blvd
+0,2023-10-03 08:57:59,City Hall,York St & Marin Blvd
+0,2023-10-06 21:52:31,City Hall,York St & Marin Blvd
+0,2023-10-12 07:15:38,City Hall,York St & Marin Blvd
+0,2023-10-18 15:06:24,City Hall,York St & Marin Blvd
+0,2023-10-28 15:48:57,City Hall,York St & Marin Blvd
+0,2023-10-04 19:46:27,City Hall,York St & Marin Blvd
+0,2023-10-02 13:14:28,City Hall,York St & Marin Blvd
+0,2023-10-16 11:42:25,City Hall,York St & Marin Blvd
+0,2023-10-05 16:31:08,City Hall,York St & Marin Blvd
+0,2023-10-30 15:25:13,City Hall,York St & Marin Blvd
+0,2023-10-06 13:23:09,City Hall,York St & Marin Blvd
+0,2023-10-06 13:17:43,City Hall,York St & Marin Blvd
+0,2023-10-27 00:10:37,City Hall,York St & Marin Blvd
+0,2023-10-03 10:42:29,City Hall,York St & Marin Blvd
+0,2023-10-04 19:51:46,City Hall,York St & Marin Blvd
+0,2023-10-09 12:48:15,City Hall,York St & Marin Blvd
+0,2023-10-09 12:55:37,City Hall,York St & Marin Blvd
+0,2023-10-09 12:51:43,City Hall,York St & Marin Blvd
+0,2023-10-01 11:55:57,City Hall,York St & Marin Blvd
+0,2023-10-12 13:32:42,City Hall,York St & Marin Blvd
+0,2023-10-08 12:57:21,City Hall,York St & Marin Blvd
+0,2023-10-16 15:41:35,City Hall,York St & Marin Blvd
+0,2023-10-08 10:24:20,City Hall,York St & Marin Blvd
+0,2023-10-04 19:46:04,City Hall,York St & Marin Blvd
+0,2023-10-18 07:14:53,City Hall,York St & Marin Blvd
+0,2023-10-02 08:22:39,City Hall,York St & Marin Blvd
+0,2023-10-02 08:16:51,City Hall,York St & Marin Blvd
+0,2023-10-02 08:28:32,City Hall,York St & Marin Blvd
+0,2023-10-09 12:44:15,City Hall,York St & Marin Blvd
+0,2023-10-09 12:54:12,City Hall,York St & Marin Blvd
+0,2023-10-09 12:59:06,City Hall,York St & Marin Blvd
+0,2023-10-09 12:49:57,City Hall,York St & Marin Blvd
+0,2023-10-28 18:24:09,City Hall,York St & Marin Blvd
+0,2023-10-01 14:24:45,City Hall,York St & Marin Blvd
+0,2023-10-30 21:36:57,City Hall,York St & Marin Blvd
+0,2023-10-31 13:44:01,City Hall,York St & Marin Blvd
+0,2023-10-31 13:39:31,City Hall,York St & Marin Blvd
+0,2023-10-24 14:56:45,City Hall,York St & Marin Blvd
+0,2023-10-08 13:40:10,City Hall,York St & Marin Blvd
+0,2023-10-08 13:35:45,City Hall,York St & Marin Blvd
+0,2023-10-12 17:02:22,City Hall,Columbus Drive
+0,2023-10-27 15:50:42,City Hall,South Waterfront Walkway - Sinatra Dr & 1 St
+0,2023-10-10 10:56:09,City Hall,South Waterfront Walkway - Sinatra Dr & 1 St
+0,2023-10-27 18:12:58,City Hall,Columbus Drive
+0,2023-10-22 21:45:32,City Hall,Columbus Drive
+0,2023-10-12 14:46:53,City Hall,Columbus Drive
+0,2023-10-16 22:04:30,City Hall,Dixon Mills
+0,2023-10-05 18:19:38,City Hall,Montgomery St
+0,2023-10-13 09:44:57,City Hall,Montgomery St
+0,2023-10-11 21:45:18,City Hall,Montgomery St
+0,2023-10-05 22:50:35,City Hall,4 St & River St
+1,2023-10-28 22:06:58,City Hall,11 St & Washington St
+0,2023-10-06 17:40:18,City Hall,Dixon Mills
+0,2023-10-27 16:12:35,City Hall,Montgomery St
+0,2023-10-07 16:04:19,City Hall,4 St & River St
+0,2023-10-23 21:31:13,City Hall,Dixon Mills
+0,2023-10-03 20:11:43,City Hall,Montgomery St
+0,2023-10-01 00:11:15,City Hall,Montgomery St
+0,2023-10-16 17:53:52,City Hall,Montgomery St
+0,2023-10-18 14:55:30,City Hall,Montgomery St
+0,2023-10-05 22:35:02,City Hall,Montgomery St
+0,2023-10-09 13:00:36,City Hall,Montgomery St
+0,2023-10-25 20:44:59,City Hall,Montgomery St
+0,2023-10-03 21:45:28,City Hall,Montgomery St
+0,2023-10-10 09:57:54,City Hall,Dixon Mills
+1,2023-10-05 16:55:42,City Hall,Dixon Mills
+1,2023-10-11 19:36:57,City Hall,Montgomery St
+0,2023-10-13 14:03:03,City Hall,Dixon Mills
+0,2023-10-28 13:31:55,City Hall,Dixon Mills
+1,2023-10-04 00:05:30,City Hall,4 St & River St
+0,2023-10-25 20:58:09,City Hall,Dixon Mills
+0,2023-10-06 19:11:09,City Hall,Dixon Mills
+0,2023-10-23 21:46:51,City Hall,Dixon Mills
+0,2023-10-12 22:46:22,City Hall,Montgomery St
+0,2023-10-10 21:49:13,City Hall,Dixon Mills
+1,2023-10-18 20:38:14,City Hall,Montgomery St
+0,2023-10-26 18:59:33,City Hall,Montgomery St
+0,2023-10-16 16:37:13,City Hall,Montgomery St
+0,2023-10-05 22:46:17,City Hall,Montgomery St
+0,2023-10-23 21:54:53,City Hall,Montgomery St
+0,2023-10-01 12:52:29,City Hall,Montgomery St
+0,2023-10-02 19:25:23,City Hall,Montgomery St
+0,2023-10-18 21:09:44,City Hall,Montgomery St
+0,2023-10-06 21:57:40,City Hall,8 St & Washington St
+0,2023-10-12 00:10:09,City Hall,Montgomery St
+1,2023-10-28 22:06:28,City Hall,11 St & Washington St
+0,2023-10-24 22:42:42,City Hall,Montgomery St
+0,2023-10-27 12:58:11,City Hall,Dixon Mills
+0,2023-10-24 16:06:24,City Hall,Montgomery St
+0,2023-10-15 01:41:11,City Hall,Montgomery St
+1,2023-10-12 18:43:29,City Hall,Montgomery St
+0,2023-10-26 23:23:59,City Hall,Montgomery St
+1,2023-10-10 17:26:01,City Hall,Montgomery St
+0,2023-10-01 16:59:33,City Hall,11 St & Washington St
+0,2023-10-03 17:04:39,City Hall,Dixon Mills
+0,2023-10-28 08:49:51,City Hall,Montgomery St
+0,2023-10-15 16:43:39,City Hall,Montgomery St
+0,2023-10-24 20:44:00,City Hall,Montgomery St
+0,2023-10-16 00:05:52,City Hall,Dixon Mills
+0,2023-10-09 17:22:42,City Hall,Montgomery St
+0,2023-10-05 18:50:34,City Hall,Montgomery St
+0,2023-10-12 11:45:47,Lincoln Park,City Hall
+0,2023-10-30 16:47:24,Columbus Drive,City Hall
+0,2023-10-28 17:35:04,Paulus Hook,City Hall
+0,2023-10-01 17:54:11,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-26 12:15:15,Columbus Drive,City Hall
+1,2023-10-12 16:45:17,Paulus Hook,City Hall
+0,2023-10-25 17:14:08,Journal Square,City Hall
+0,2023-10-27 15:36:02,Paulus Hook,City Hall
+0,2023-10-24 17:45:40,Fairmount Ave,City Hall
+0,2023-10-28 13:00:06,Journal Square,City Hall
+0,2023-10-31 17:27:47,Journal Square,City Hall
+0,2023-10-28 12:59:33,Journal Square,City Hall
+0,2023-10-27 13:19:30,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-27 13:14:08,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-26 12:14:44,Columbus Drive,City Hall
+0,2023-10-28 16:24:23,Columbus Drive,City Hall
+1,2023-10-13 08:30:00,Lincoln Park,City Hall
+0,2023-10-08 14:03:19,York St & Marin Blvd,City Hall
+0,2023-10-27 13:26:27,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-27 13:19:01,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-27 13:19:36,South Waterfront Walkway - Sinatra Dr & 1 St,City Hall
+0,2023-10-17 21:59:35,Columbus Drive,City Hall
+0,2023-10-03 20:25:28,Columbus Drive,City Hall
+0,2023-10-23 12:59:38,Newport Pkwy,City Hall
+0,2023-10-01 08:06:01,Marin Light Rail,City Hall
+0,2023-10-24 07:20:12,Columbus Drive,City Hall
+0,2023-10-28 15:10:07,Newport Pkwy,City Hall
+0,2023-10-13 13:31:48,Newport Pkwy,City Hall
+0,2023-10-02 19:10:18,Warren St,City Hall
+1,2023-10-27 21:18:32,Warren St,City Hall
+0,2023-10-01 08:54:18,Newport Pkwy,City Hall
+0,2023-10-03 20:06:13,Warren St,City Hall
+0,2023-10-05 14:02:24,Warren St,City Hall
+0,2023-10-28 19:06:48,Newport Pkwy,City Hall
+0,2023-10-27 17:48:03,Warren St,City Hall
+0,2023-10-03 18:43:50,Warren St,City Hall
+0,2023-10-27 17:46:54,Warren St,City Hall
+0,2023-10-03 18:39:59,Warren St,City Hall
+0,2023-10-01 12:37:31,Newport Pkwy,City Hall
+0,2023-10-27 12:19:48,Warren St,City Hall
+0,2023-10-05 22:14:45,Newport Pkwy,City Hall
+0,2023-10-28 00:32:41,Warren St,City Hall
+0,2023-10-01 20:39:17,Newport Pkwy,City Hall
+0,2023-10-01 17:54:46,Warren St,City Hall
+0,2023-10-07 09:59:31,Newport Pkwy,City Hall
+0,2023-10-28 21:23:08,Newport Pkwy,City Hall
+0,2023-10-04 16:45:26,Newport Pkwy,City Hall
+0,2023-10-01 00:46:22,Warren St,City Hall
+0,2023-10-31 09:19:58,Warren St,City Hall
+0,2023-10-06 13:26:55,Newport Pkwy,City Hall
+0,2023-10-26 15:51:34,Newport Pkwy,City Hall
+0,2023-10-01 11:49:01,Marin Light Rail,City Hall
+0,2023-10-08 13:20:18,Marin Light Rail,City Hall
+0,2023-10-17 19:44:42,Marin Light Rail,City Hall
+0,2023-10-05 22:22:59,Marin Light Rail,City Hall
+0,2023-10-01 12:12:25,Marin Light Rail,City Hall
+0,2023-10-29 19:19:33,Grove St PATH,City Hall
+0,2023-10-15 17:34:50,Marin Light Rail,City Hall
+0,2023-10-25 09:30:48,Marin Light Rail,City Hall
+0,2023-10-11 09:38:32,Marin Light Rail,City Hall
+0,2023-10-19 09:20:14,Grove St PATH,City Hall
+0,2023-10-06 13:24:44,Marin Light Rail,City Hall
+0,2023-10-10 09:34:39,Grove St PATH,City Hall
+1,2023-10-18 17:29:17,Marin Light Rail,City Hall
+0,2023-10-05 08:47:36,Grove St PATH,City Hall
+0,2023-10-29 17:04:05,Marin Light Rail,City Hall
+0,2023-10-03 15:56:45,Grove St PATH,City Hall
+0,2023-10-06 22:47:13,Grove St PATH,City Hall
+0,2023-10-06 22:28:46,Grove St PATH,City Hall
+0,2023-10-06 22:52:51,Grove St PATH,City Hall
+0,2023-10-06 22:32:07,Grove St PATH,City Hall
+0,2023-10-06 22:55:15,Grove St PATH,City Hall
+0,2023-10-06 22:22:09,Grove St PATH,City Hall
+0,2023-10-06 22:34:53,Grove St PATH,City Hall
+0,2023-10-06 22:44:33,Grove St PATH,City Hall
+0,2023-10-06 22:41:26,Grove St PATH,City Hall
+0,2023-10-06 22:58:10,Grove St PATH,City Hall
+0,2023-10-06 22:25:48,Grove St PATH,City Hall
+0,2023-10-06 22:37:56,Grove St PATH,City Hall
+0,2023-10-06 22:49:55,Grove St PATH,City Hall
+0,2023-10-07 22:02:59,Grove St PATH,City Hall
+0,2023-10-05 07:20:09,Grove St PATH,City Hall
+0,2023-10-05 07:28:04,Grove St PATH,City Hall
+0,2023-10-05 07:12:55,Grove St PATH,City Hall
+0,2023-10-05 07:25:32,Grove St PATH,City Hall
+0,2023-10-05 07:17:32,Grove St PATH,City Hall
+0,2023-10-05 07:22:49,Grove St PATH,City Hall
+0,2023-10-05 07:14:53,Grove St PATH,City Hall
+0,2023-10-09 07:12:20,Grove St PATH,City Hall
+0,2023-10-09 07:20:35,Grove St PATH,City Hall
+0,2023-10-09 07:08:18,Marin Light Rail,City Hall
+0,2023-10-09 07:17:46,Grove St PATH,City Hall
+0,2023-10-09 07:14:46,Grove St PATH,City Hall
+0,2023-10-17 18:50:34,Grove St PATH,City Hall
+0,2023-10-19 16:54:13,Marin Light Rail,City Hall
+0,2023-10-08 13:40:36,Grove St PATH,City Hall
+0,2023-10-04 19:05:26,Grove St PATH,City Hall
+0,2023-10-13 09:37:32,Grove St PATH,City Hall
+1,2023-10-18 18:03:53,Marin Light Rail,City Hall
+0,2023-10-15 10:21:51,Marin Light Rail,City Hall
+1,2023-10-26 14:10:05,Grove St PATH,City Hall
+0,2023-10-05 19:32:45,Grove St PATH,City Hall
+0,2023-10-12 18:11:07,Marin Light Rail,City Hall
+0,2023-10-26 07:49:36,Marin Light Rail,City Hall
+0,2023-10-18 18:29:34,Marin Light Rail,City Hall
+0,2023-10-26 10:48:26,Marin Light Rail,City Hall
+0,2023-10-27 18:30:47,Grove St PATH,City Hall
+0,2023-10-03 06:34:32,Grove St PATH,City Hall
+0,2023-10-03 06:36:04,Grove St PATH,City Hall
+0,2023-10-03 06:32:54,Grove St PATH,City Hall
+0,2023-10-03 06:37:40,Grove St PATH,City Hall
+0,2023-10-03 06:31:27,Grove St PATH,City Hall
+0,2023-10-28 18:34:32,Grove St PATH,City Hall
+0,2023-10-03 22:41:22,Grove St PATH,City Hall
+0,2023-10-11 12:32:22,Grove St PATH,City Hall
+0,2023-10-05 14:32:20,Marin Light Rail,City Hall
+0,2023-10-08 09:29:03,Marin Light Rail,City Hall
+0,2023-10-07 12:42:55,Marin Light Rail,City Hall
+0,2023-10-26 17:57:32,Marin Light Rail,City Hall
+0,2023-10-25 18:07:59,Marin Light Rail,City Hall
+0,2023-10-02 14:19:19,Grove St PATH,City Hall
+0,2023-10-26 16:48:49,Marin Light Rail,City Hall
+0,2023-10-30 15:07:41,Grove St PATH,City Hall
+0,2023-10-30 12:43:33,Grove St PATH,City Hall
+0,2023-10-30 15:19:29,Grove St PATH,City Hall
+0,2023-10-30 15:02:07,Grove St PATH,City Hall
+0,2023-10-30 13:27:10,Grove St PATH,City Hall
+0,2023-10-30 14:56:28,Grove St PATH,City Hall
+0,2023-10-30 15:32:05,Grove St PATH,City Hall
+0,2023-10-30 15:40:51,Grove St PATH,City Hall
+0,2023-10-30 12:19:27,Grove St PATH,City Hall
+0,2023-10-30 12:30:36,Grove St PATH,City Hall
+0,2023-10-30 12:50:11,Grove St PATH,City Hall
+0,2023-10-30 12:37:02,Grove St PATH,City Hall
+0,2023-10-30 13:09:17,Grove St PATH,City Hall
+0,2023-10-30 13:37:48,Grove St PATH,City Hall
+0,2023-10-30 13:16:50,Grove St PATH,City Hall
+0,2023-10-30 14:53:43,Grove St PATH,City Hall
+0,2023-10-30 13:01:51,Grove St PATH,City Hall
+0,2023-10-30 13:04:25,Grove St PATH,City Hall
+0,2023-10-30 13:24:45,Grove St PATH,City Hall
+0,2023-10-30 12:24:38,Grove St PATH,City Hall
+0,2023-10-30 15:35:16,Grove St PATH,City Hall
+0,2023-10-30 13:19:40,Grove St PATH,City Hall
+0,2023-10-30 13:14:24,Grove St PATH,City Hall
+0,2023-10-30 15:38:02,Grove St PATH,City Hall
+0,2023-10-30 13:47:08,Grove St PATH,City Hall
+0,2023-10-30 15:10:33,Grove St PATH,City Hall
+0,2023-10-30 13:43:16,Grove St PATH,City Hall
+0,2023-10-30 13:06:57,Grove St PATH,City Hall
+0,2023-10-30 13:35:21,Grove St PATH,City Hall
+0,2023-10-30 12:47:17,Grove St PATH,City Hall
+0,2023-10-30 12:53:12,Grove St PATH,City Hall
+0,2023-10-30 12:56:05,Grove St PATH,City Hall
+0,2023-10-30 15:22:14,Grove St PATH,City Hall
+0,2023-10-30 14:59:12,Grove St PATH,City Hall
+0,2023-10-30 12:40:12,Grove St PATH,City Hall
+0,2023-10-30 15:43:30,Grove St PATH,City Hall
+0,2023-10-30 13:30:07,Grove St PATH,City Hall
+0,2023-10-30 13:40:26,Grove St PATH,City Hall
+0,2023-10-30 15:13:15,Grove St PATH,City Hall
+0,2023-10-30 15:27:47,Grove St PATH,City Hall
+0,2023-10-30 12:59:14,Grove St PATH,City Hall
+0,2023-10-30 13:32:46,Grove St PATH,City Hall
+0,2023-10-30 12:27:26,Grove St PATH,City Hall
+0,2023-10-30 12:34:00,Grove St PATH,City Hall
+0,2023-10-30 15:24:56,Grove St PATH,City Hall
+0,2023-10-30 15:04:51,Grove St PATH,City Hall
+0,2023-10-30 12:22:05,Grove St PATH,City Hall
+0,2023-10-30 13:11:45,Grove St PATH,City Hall
+0,2023-10-30 13:22:16,Grove St PATH,City Hall
+0,2023-10-30 15:15:49,Grove St PATH,City Hall
+0,2023-10-12 21:27:15,Grove St PATH,City Hall
+0,2023-10-12 21:21:21,Grove St PATH,City Hall
+0,2023-10-12 21:17:59,Grove St PATH,City Hall
+0,2023-10-12 21:24:20,Grove St PATH,City Hall
+0,2023-10-27 19:01:52,Grove St PATH,City Hall
+0,2023-10-27 12:16:47,Grove St PATH,City Hall
+0,2023-10-27 19:15:08,Grove St PATH,City Hall
+0,2023-10-27 12:10:12,Grove St PATH,City Hall
+0,2023-10-27 12:20:05,Grove St PATH,City Hall
+0,2023-10-27 12:41:00,Grove St PATH,City Hall
+0,2023-10-27 19:21:01,Grove St PATH,City Hall
+0,2023-10-27 19:24:04,Grove St PATH,City Hall
+0,2023-10-27 19:26:47,Grove St PATH,City Hall
+0,2023-10-27 11:48:33,Grove St PATH,City Hall
+0,2023-10-27 12:26:43,Grove St PATH,City Hall
+0,2023-10-27 12:37:18,Grove St PATH,City Hall
+0,2023-10-27 18:59:23,Grove St PATH,City Hall
+0,2023-10-27 19:06:56,Grove St PATH,City Hall
+0,2023-10-27 12:23:21,Grove St PATH,City Hall
+0,2023-10-27 12:13:37,Grove St PATH,City Hall
+0,2023-10-27 11:57:32,Grove St PATH,City Hall
+0,2023-10-27 12:03:55,Grove St PATH,City Hall
+0,2023-10-27 19:18:11,Grove St PATH,City Hall
+0,2023-10-27 11:51:32,Grove St PATH,City Hall
+0,2023-10-27 12:00:43,Grove St PATH,City Hall
+0,2023-10-27 11:54:30,Grove St PATH,City Hall
+0,2023-10-27 12:30:11,Grove St PATH,City Hall
+0,2023-10-27 12:44:39,Grove St PATH,City Hall
+0,2023-10-27 12:33:59,Grove St PATH,City Hall
+0,2023-10-27 19:04:20,Grove St PATH,City Hall
+0,2023-10-27 12:06:57,Grove St PATH,City Hall
+0,2023-10-27 19:29:44,Grove St PATH,City Hall
+0,2023-10-27 19:12:25,Grove St PATH,City Hall
+0,2023-10-27 23:56:02,Grove St PATH,City Hall
+0,2023-10-23 13:53:28,Grove St PATH,City Hall
+0,2023-10-23 14:07:19,Grove St PATH,City Hall
+0,2023-10-23 13:38:23,Grove St PATH,City Hall
+0,2023-10-23 13:31:34,Grove St PATH,City Hall
+0,2023-10-23 13:56:57,Grove St PATH,City Hall
+0,2023-10-23 13:27:34,Grove St PATH,City Hall
+0,2023-10-23 13:41:34,Grove St PATH,City Hall
+0,2023-10-23 13:50:26,Grove St PATH,City Hall
+0,2023-10-23 14:04:15,Grove St PATH,City Hall
+0,2023-10-23 14:00:43,Grove St PATH,City Hall
+0,2023-10-23 13:44:40,Grove St PATH,City Hall
+0,2023-10-23 14:10:23,Grove St PATH,City Hall
+0,2023-10-23 13:34:56,Grove St PATH,City Hall
+0,2023-10-23 13:47:24,Grove St PATH,City Hall
+0,2023-10-22 17:51:24,Grove St PATH,City Hall
+0,2023-10-22 17:37:33,Grove St PATH,City Hall
+0,2023-10-22 17:34:21,Grove St PATH,City Hall
+0,2023-10-22 17:55:03,Grove St PATH,City Hall
+0,2023-10-22 17:40:25,Grove St PATH,City Hall
+0,2023-10-22 17:24:40,Grove St PATH,City Hall
+0,2023-10-22 18:10:33,Grove St PATH,City Hall
+0,2023-10-22 17:47:51,Grove St PATH,City Hall
+0,2023-10-22 17:58:58,Grove St PATH,City Hall
+0,2023-10-22 17:20:47,Grove St PATH,City Hall
+0,2023-10-22 18:13:56,Grove St PATH,City Hall
+0,2023-10-22 17:11:15,Grove St PATH,City Hall
+0,2023-10-22 18:02:49,Grove St PATH,City Hall
+0,2023-10-22 17:17:37,Grove St PATH,City Hall
+0,2023-10-22 17:28:12,Grove St PATH,City Hall
+0,2023-10-22 17:44:16,Grove St PATH,City Hall
+0,2023-10-22 18:06:55,Grove St PATH,City Hall
+0,2023-10-22 17:14:24,Grove St PATH,City Hall
+0,2023-10-01 18:46:16,Grove St PATH,City Hall
+0,2023-10-12 07:08:00,Grove St PATH,City Hall
+0,2023-10-12 07:03:53,Grove St PATH,City Hall
+0,2023-10-12 07:05:54,Grove St PATH,City Hall
+0,2023-10-12 07:00:46,Marin Light Rail,City Hall
+0,2023-10-12 07:13:01,Grove St PATH,City Hall
+0,2023-10-12 07:10:23,Grove St PATH,City Hall
+0,2023-10-18 15:46:58,Marin Light Rail,City Hall
+0,2023-10-08 20:57:10,Marin Light Rail,City Hall
+0,2023-10-15 16:04:00,Grove St PATH,City Hall
+0,2023-10-31 07:13:03,Grove St PATH,City Hall
+0,2023-10-31 07:10:49,Grove St PATH,City Hall
+1,2023-10-31 07:14:56,Grove St PATH,City Hall
+0,2023-10-18 07:13:44,Grove St PATH,City Hall
+0,2023-10-18 18:02:00,Grove St PATH,City Hall
+0,2023-10-27 12:01:01,Grove St PATH,City Hall
+0,2023-10-04 07:13:03,Grove St PATH,City Hall
+0,2023-10-19 12:32:35,Grove St PATH,City Hall
+0,2023-10-15 16:11:33,Grove St PATH,City Hall
+0,2023-10-11 12:56:05,Marin Light Rail,City Hall
+0,2023-10-04 16:01:29,Marin Light Rail,City Hall
+0,2023-10-25 18:16:11,Grove St PATH,City Hall
+0,2023-10-12 07:03:43,Grove St PATH,City Hall
+0,2023-10-12 06:59:59,Grove St PATH,City Hall
+0,2023-10-12 07:14:27,Grove St PATH,City Hall
+0,2023-10-12 06:57:13,Grove St PATH,City Hall
+0,2023-10-12 07:07:16,Grove St PATH,City Hall
+0,2023-10-12 06:53:56,Grove St PATH,City Hall
+0,2023-10-12 07:09:46,Grove St PATH,City Hall
+0,2023-10-12 06:47:19,Grove St PATH,City Hall
+0,2023-10-12 07:12:12,Grove St PATH,City Hall
+0,2023-10-12 06:50:40,Grove St PATH,City Hall
+0,2023-10-18 06:39:22,Grove St PATH,City Hall
+0,2023-10-18 06:59:41,Grove St PATH,City Hall
+0,2023-10-18 06:50:01,Grove St PATH,City Hall
+0,2023-10-18 06:53:16,Grove St PATH,City Hall
+1,2023-10-18 07:03:19,Grove St PATH,City Hall
+0,2023-10-18 06:43:26,Grove St PATH,City Hall
+0,2023-10-18 07:13:20,Grove St PATH,City Hall
+0,2023-10-18 07:09:58,Grove St PATH,City Hall
+0,2023-10-18 06:46:42,Grove St PATH,City Hall
+1,2023-10-18 06:56:38,Grove St PATH,City Hall
+0,2023-10-18 07:06:42,Grove St PATH,City Hall
+0,2023-10-13 06:46:53,Grove St PATH,City Hall
+0,2023-10-13 06:38:02,Grove St PATH,City Hall
+0,2023-10-13 07:03:36,Grove St PATH,City Hall
+0,2023-10-13 07:11:20,Grove St PATH,City Hall
+0,2023-10-13 07:14:33,Grove St PATH,City Hall
+0,2023-10-13 07:09:16,Grove St PATH,City Hall
+0,2023-10-13 06:40:56,Grove St PATH,City Hall
+0,2023-10-13 06:52:18,Grove St PATH,City Hall
+0,2023-10-13 06:49:40,Grove St PATH,City Hall
+0,2023-10-13 07:06:58,Grove St PATH,City Hall
+0,2023-10-13 06:57:11,Grove St PATH,City Hall
+0,2023-10-13 07:01:08,Grove St PATH,City Hall
+0,2023-10-13 06:55:04,Grove St PATH,City Hall
+0,2023-10-13 06:44:06,Grove St PATH,City Hall
+0,2023-10-04 17:44:25,Grove St PATH,City Hall
+0,2023-10-01 13:28:37,Marin Light Rail,City Hall
+0,2023-10-04 16:31:39,Grove St PATH,City Hall
+1,2023-10-13 12:43:31,Marin Light Rail,City Hall
+0,2023-10-07 21:49:42,Montgomery St,City Hall
+0,2023-10-23 16:24:41,Grove St PATH,City Hall
+0,2023-10-26 22:52:36,Grove St PATH,City Hall
+0,2023-10-29 14:18:31,Grove St PATH,City Hall
+0,2023-10-31 07:37:41,Grove St PATH,City Hall
+0,2023-10-04 10:11:36,Grove St PATH,City Hall
+0,2023-10-04 06:57:40,Grove St PATH,City Hall
+0,2023-10-04 07:00:06,Grove St PATH,City Hall
+0,2023-10-04 06:54:26,Grove St PATH,City Hall
+1,2023-10-04 07:13:37,Grove St PATH,City Hall
+0,2023-10-27 17:58:37,Marin Light Rail,City Hall
+0,2023-10-05 18:36:01,Grove St PATH,City Hall
+0,2023-10-05 18:32:06,Grove St PATH,City Hall
+0,2023-10-05 18:40:57,Grove St PATH,City Hall
+0,2023-10-05 08:59:04,Grove St PATH,City Hall
+1,2023-10-05 07:59:17,Grove St PATH,City Hall
+0,2023-10-05 07:27:39,Grove St PATH,City Hall
+1,2023-10-05 07:20:24,Grove St PATH,City Hall
+0,2023-10-05 07:34:28,Grove St PATH,City Hall
+0,2023-10-24 10:27:15,Grove St PATH,City Hall
+0,2023-10-24 10:23:48,Grove St PATH,City Hall
+0,2023-10-24 10:15:25,Grove St PATH,City Hall
+0,2023-10-24 10:33:24,Grove St PATH,City Hall
+0,2023-10-24 10:20:49,Grove St PATH,City Hall
+0,2023-10-24 09:57:52,Grove St PATH,City Hall
+0,2023-10-24 10:17:27,Grove St PATH,City Hall
+0,2023-10-24 10:13:14,Grove St PATH,City Hall
+1,2023-10-19 06:57:39,Grove St PATH,City Hall
+1,2023-10-11 06:57:03,Grove St PATH,City Hall
+0,2023-10-03 06:40:04,Grove St PATH,City Hall
+0,2023-10-17 15:36:35,Montgomery St,City Hall
+0,2023-10-18 16:52:10,Brunswick & 6th,City Hall
+0,2023-10-13 00:43:42,Grove St PATH,City Hall
+0,2023-10-27 22:39:32,Grove St PATH,City Hall
+0,2023-10-04 16:31:55,Grove St PATH,City Hall
+0,2023-10-04 16:35:18,Grove St PATH,City Hall
+0,2023-10-04 16:39:41,Grove St PATH,City Hall
+0,2023-10-04 16:42:40,Grove St PATH,City Hall
+0,2023-10-27 17:39:42,Marin Light Rail,City Hall
+0,2023-10-05 18:14:29,Grove St PATH,City Hall
+0,2023-10-25 07:10:02,Grove St PATH,City Hall
+0,2023-10-25 07:15:52,Grove St PATH,City Hall
+0,2023-10-25 07:12:19,Grove St PATH,City Hall
+0,2023-10-31 20:56:23,Grove St PATH,City Hall
+0,2023-10-02 13:15:12,Marin Light Rail,City Hall
+0,2023-10-31 06:59:10,Grove St PATH,City Hall
+0,2023-10-31 07:03:23,Grove St PATH,City Hall
+0,2023-10-31 06:43:55,Grove St PATH,City Hall
+0,2023-10-31 07:07:13,Grove St PATH,City Hall
+1,2023-10-31 07:10:38,Grove St PATH,City Hall
+0,2023-10-31 06:47:45,Grove St PATH,City Hall
+0,2023-10-31 06:55:10,Grove St PATH,City Hall
+0,2023-10-31 06:51:12,Grove St PATH,City Hall
+0,2023-10-08 08:50:20,Marin Light Rail,City Hall
+0,2023-10-03 12:35:42,Marin Light Rail,City Hall
+0,2023-10-03 18:50:49,Grove St PATH,City Hall
+0,2023-10-08 16:57:10,Marin Light Rail,City Hall
+0,2023-10-02 09:43:11,Marin Light Rail,City Hall
+0,2023-10-11 12:20:39,Brunswick & 6th,City Hall
+0,2023-10-26 17:33:39,7 St & Monroe St,City Hall
+0,2023-10-05 20:15:40,Grove St PATH,City Hall
+0,2023-10-04 18:33:47,Grove St PATH,City Hall
+0,2023-10-10 13:55:57,Grove St PATH,City Hall
+0,2023-10-10 13:43:07,Grove St PATH,City Hall
+0,2023-10-10 13:37:10,Grove St PATH,City Hall
+0,2023-10-10 13:12:22,Grove St PATH,City Hall
+0,2023-10-10 13:31:50,Grove St PATH,City Hall
+0,2023-10-10 13:40:06,Grove St PATH,City Hall
+0,2023-10-10 13:58:32,Grove St PATH,City Hall
+0,2023-10-10 12:42:57,Grove St PATH,City Hall
+0,2023-10-10 13:08:37,Grove St PATH,City Hall
+0,2023-10-10 13:46:04,Grove St PATH,City Hall
+0,2023-10-10 12:56:54,Grove St PATH,City Hall
+0,2023-10-10 13:15:48,Grove St PATH,City Hall
+0,2023-10-10 13:28:13,Grove St PATH,City Hall
+0,2023-10-10 14:01:34,Grove St PATH,City Hall
+0,2023-10-10 13:34:20,Grove St PATH,City Hall
+0,2023-10-11 19:22:37,Marin Light Rail,City Hall
+0,2023-10-23 18:00:10,Grove St PATH,City Hall
+0,2023-10-02 11:37:14,Marin Light Rail,City Hall
+0,2023-10-18 14:09:19,Grove St PATH,City Hall
+0,2023-10-18 17:27:16,Marin Light Rail,City Hall
+0,2023-10-27 19:09:27,Grove St PATH,City Hall
+0,2023-10-02 07:22:13,Grove St PATH,City Hall
+0,2023-10-02 07:26:33,Grove St PATH,City Hall
+1,2023-10-04 06:57:57,Grove St PATH,City Hall
+0,2023-10-04 06:50:15,Grove St PATH,City Hall
+0,2023-10-04 06:46:23,Grove St PATH,City Hall
+0,2023-10-04 06:54:14,Grove St PATH,City Hall
+0,2023-10-15 18:36:50,Grove St PATH,City Hall
+0,2023-10-15 18:40:49,Grove St PATH,City Hall
+0,2023-10-15 18:43:49,Grove St PATH,City Hall
+0,2023-10-15 18:50:56,Grove St PATH,City Hall
+0,2023-10-09 07:42:20,Grove St PATH,City Hall
+0,2023-10-09 07:38:10,Grove St PATH,City Hall
+0,2023-10-09 07:34:43,Grove St PATH,City Hall
+0,2023-10-05 18:27:06,Grove St PATH,City Hall
+0,2023-10-05 18:23:24,Grove St PATH,City Hall
+0,2023-10-05 18:35:08,Grove St PATH,City Hall
+0,2023-10-05 18:16:08,Grove St PATH,City Hall
+0,2023-10-05 18:30:49,Grove St PATH,City Hall
+0,2023-10-05 18:19:54,Grove St PATH,City Hall
+0,2023-10-05 18:38:47,Grove St PATH,City Hall
+0,2023-10-05 18:43:13,Grove St PATH,City Hall
+0,2023-10-11 06:47:19,Grove St PATH,City Hall
+0,2023-10-11 07:14:36,Grove St PATH,City Hall
+0,2023-10-11 06:59:37,Grove St PATH,City Hall
+0,2023-10-11 06:50:29,Grove St PATH,City Hall
+0,2023-10-11 07:02:48,Grove St PATH,City Hall
+0,2023-10-11 07:12:23,Grove St PATH,City Hall
+0,2023-10-11 07:05:59,Grove St PATH,City Hall
+0,2023-10-11 06:53:51,Grove St PATH,City Hall
+0,2023-10-11 06:57:03,Grove St PATH,City Hall
+0,2023-10-11 07:09:03,Grove St PATH,City Hall
+0,2023-10-10 13:24:32,Marin Light Rail,City Hall
+1,2023-10-13 18:18:13,Marin Light Rail,City Hall
+0,2023-10-12 12:55:55,Grove St PATH,City Hall
+0,2023-10-12 13:21:53,Grove St PATH,City Hall
+0,2023-10-12 13:48:08,Grove St PATH,City Hall
+0,2023-10-12 14:03:24,Grove St PATH,City Hall
+0,2023-10-12 13:10:12,Grove St PATH,City Hall
+0,2023-10-12 14:43:40,Grove St PATH,City Hall
+0,2023-10-12 13:13:31,Grove St PATH,City Hall
+0,2023-10-12 13:34:22,Grove St PATH,City Hall
+0,2023-10-12 13:25:48,Grove St PATH,City Hall
+0,2023-10-12 12:51:54,Grove St PATH,City Hall
+0,2023-10-12 13:38:14,Grove St PATH,City Hall
+0,2023-10-12 12:48:15,Grove St PATH,City Hall
+0,2023-10-12 13:58:59,Grove St PATH,City Hall
+0,2023-10-12 14:39:11,Grove St PATH,City Hall
+0,2023-10-12 13:45:17,Grove St PATH,City Hall
+0,2023-10-12 13:18:07,Grove St PATH,City Hall
+0,2023-10-12 14:46:45,Grove St PATH,City Hall
+0,2023-10-12 13:42:18,Grove St PATH,City Hall
+0,2023-10-12 13:06:44,Grove St PATH,City Hall
+0,2023-10-12 13:51:23,Grove St PATH,City Hall
+0,2023-10-12 14:49:57,Grove St PATH,City Hall
+0,2023-10-12 12:44:49,Grove St PATH,City Hall
+0,2023-10-12 13:54:45,Grove St PATH,City Hall
+0,2023-10-13 07:15:19,Grove St PATH,City Hall
+0,2023-10-13 07:12:49,Grove St PATH,City Hall
+0,2023-10-13 07:05:25,Marin Light Rail,City Hall
+0,2023-10-13 07:10:12,Grove St PATH,City Hall
+0,2023-10-31 16:35:53,Marin Light Rail,City Hall
+0,2023-10-26 15:49:54,Grove St PATH,City Hall
+0,2023-10-12 13:51:54,Marin Light Rail,City Hall
+0,2023-10-19 06:49:10,Grove St PATH,City Hall
+0,2023-10-19 06:42:45,Marin Light Rail,City Hall
+0,2023-10-19 06:51:45,Grove St PATH,City Hall
+0,2023-10-19 06:54:20,Grove St PATH,City Hall
+0,2023-10-19 06:46:39,Grove St PATH,City Hall
+0,2023-10-18 17:29:09,Marin Light Rail,City Hall
+0,2023-10-22 19:35:12,Marin Light Rail,City Hall
+0,2023-10-11 18:59:03,Marin Light Rail,City Hall
+0,2023-10-24 09:15:27,Grove St PATH,City Hall
+1,2023-10-05 17:35:28,Grove St PATH,City Hall
+0,2023-10-31 12:58:24,Marin Light Rail,City Hall
+0,2023-10-13 19:44:31,Grove St PATH,City Hall
+0,2023-10-13 06:54:24,Grove St PATH,City Hall
+0,2023-10-13 06:48:38,Grove St PATH,City Hall
+0,2023-10-13 07:00:38,Grove St PATH,City Hall
+0,2023-10-13 07:06:34,Grove St PATH,City Hall
+0,2023-10-13 07:03:36,Grove St PATH,City Hall
+0,2023-10-13 06:57:39,Grove St PATH,City Hall
+0,2023-10-13 06:51:41,Grove St PATH,City Hall
+0,2023-10-12 20:00:13,Grove St PATH,City Hall
+0,2023-10-11 07:10:52,Grove St PATH,City Hall
+0,2023-10-11 07:13:25,Grove St PATH,City Hall
+0,2023-10-10 12:33:30,Marin Light Rail,City Hall
+0,2023-10-03 18:54:10,Grove St PATH,City Hall
+0,2023-10-06 22:02:23,Grove St PATH,City Hall
+0,2023-10-10 20:08:02,Marin Light Rail,City Hall
+0,2023-10-26 20:20:46,Grove St PATH,City Hall
+0,2023-10-10 21:22:36,Grove St PATH,City Hall
+0,2023-10-17 16:45:25,Dixon Mills,City Hall
+1,2023-10-10 15:17:09,Montgomery St,City Hall
+0,2023-10-05 11:19:29,Brunswick & 6th,City Hall
+0,2023-10-23 12:10:27,Montgomery St,City Hall
+0,2023-10-01 19:07:50,Jackson Square,City Hall
+0,2023-10-28 18:33:06,Montgomery St,City Hall
+1,2023-10-03 18:27:52,8 St & Washington St,City Hall
+0,2023-10-01 10:51:19,Montgomery St,City Hall
+0,2023-10-28 15:16:05,4 St & River St,City Hall
+0,2023-10-10 21:16:54,Brunswick & 6th,City Hall
+0,2023-10-30 15:47:51,Brunswick & 6th,City Hall
+0,2023-10-01 10:29:48,Brunswick & 6th,City Hall
+1,2023-10-01 08:01:46,Brunswick & 6th,City Hall
+0,2023-10-11 17:22:00,Brunswick & 6th,City Hall
+0,2023-10-28 19:16:49,Brunswick & 6th,City Hall
+0,2023-10-10 17:57:16,Hoboken Terminal - Hudson St & Hudson Pl,City Hall
+0,2023-10-08 10:51:04,Hoboken Terminal - Hudson St & Hudson Pl,City Hall
+0,2023-10-12 12:59:19,Hoboken Terminal - Hudson St & Hudson Pl,City Hall
+0,2023-10-08 10:50:58,Hoboken Terminal - Hudson St & Hudson Pl,City Hall
+0,2023-10-08 08:07:58,Baldwin at Montgomery,City Hall
+0,2023-10-28 10:28:21,Baldwin at Montgomery,City Hall
+0,2023-10-28 17:45:51,Baldwin at Montgomery,City Hall
+0,2023-10-26 16:17:47,Baldwin at Montgomery,City Hall
+0,2023-10-03 19:32:05,Baldwin at Montgomery,City Hall
+0,2023-10-08 20:00:20,Baldwin at Montgomery,City Hall
+1,2023-10-23 13:14:30,Baldwin at Montgomery,City Hall
+0,2023-10-03 19:31:37,Baldwin at Montgomery,City Hall
+0,2023-10-01 05:23:34,Baldwin at Montgomery,City Hall
+1,2023-10-28 13:10:02,Baldwin at Montgomery,City Hall
+0,2023-10-29 10:51:06,Baldwin at Montgomery,City Hall
+0,2023-10-26 00:40:26,Baldwin at Montgomery,City Hall
+0,2023-10-01 16:17:04,Baldwin at Montgomery,City Hall
+0,2023-10-01 16:16:35,Baldwin at Montgomery,City Hall
+0,2023-10-01 21:18:21,Baldwin at Montgomery,City Hall
+0,2023-10-03 11:31:08,Mama Johnson Field - 4 St & Jackson St,City Hall
+0,2023-10-01 06:59:55,Mama Johnson Field - 4 St & Jackson St,City Hall
+1,2023-10-08 19:37:57,Christ Hospital,City Hall
+0,2023-10-15 09:26:21,Christ Hospital,City Hall
+0,2023-10-24 18:51:49,Christ Hospital,City Hall
+0,2023-10-27 09:54:37,Christ Hospital,City Hall
+0,2023-10-19 15:23:01,Christ Hospital,City Hall
+0,2023-10-03 15:23:19,Christ Hospital,City Hall
+0,2023-10-27 13:09:34,City Hall - Washington St & 1 St,City Hall
+0,2023-10-27 08:23:47,Exchange Pl,City Hall
+0,2023-10-08 16:40:53,Manila & 1st,City Hall
+0,2023-10-19 16:16:31,Exchange Pl,City Hall
+0,2023-10-04 14:26:32,Exchange Pl,City Hall
+0,2023-10-23 17:56:47,Exchange Pl,City Hall
+0,2023-10-31 16:19:10,Exchange Pl,City Hall
+1,2023-10-11 09:08:20,Manila & 1st,City Hall
+0,2023-10-27 13:36:23,Exchange Pl,City Hall
+0,2023-10-17 18:23:14,Exchange Pl,City Hall
+0,2023-10-05 18:22:57,Exchange Pl,City Hall
+0,2023-10-13 12:30:14,Exchange Pl,City Hall
+0,2023-10-18 14:56:16,Exchange Pl,City Hall
+1,2023-10-07 11:03:39,Exchange Pl,City Hall
+1,2023-10-24 17:05:52,Exchange Pl,City Hall
+0,2023-10-13 14:41:41,Riverview Park,City Hall
+0,2023-10-08 14:26:29,Exchange Pl,City Hall
+0,2023-10-25 14:48:44,Exchange Pl,City Hall
+0,2023-10-24 12:57:07,Exchange Pl,City Hall
+0,2023-10-12 20:30:01,Exchange Pl,City Hall
+0,2023-10-15 22:14:18,Manila & 1st,City Hall
+0,2023-10-27 20:11:50,Manila & 1st,City Hall
+0,2023-10-07 08:02:20,Manila & 1st,City Hall
+0,2023-10-04 10:48:35,Exchange Pl,City Hall
+0,2023-10-04 14:03:37,Manila & 1st,City Hall
+0,2023-10-03 09:54:07,Riverview Park,City Hall
+0,2023-10-06 07:41:49,City Hall - Washington St & 1 St,City Hall
+0,2023-10-26 18:23:10,Manila & 1st,City Hall
+0,2023-10-02 17:12:12,City Hall - Washington St & 1 St,City Hall
+0,2023-10-04 08:34:10,Manila & 1st,City Hall
+0,2023-10-19 11:01:41,Manila & 1st,City Hall
+0,2023-10-12 18:24:03,Exchange Pl,City Hall
+0,2023-10-11 18:47:12,Exchange Pl,City Hall
+0,2023-10-06 18:02:17,Exchange Pl,City Hall
+0,2023-10-25 18:06:59,Exchange Pl,City Hall
+0,2023-10-08 17:13:37,Manila & 1st,City Hall
+0,2023-10-24 17:33:09,Exchange Pl,City Hall
+0,2023-10-31 17:55:40,Exchange Pl,City Hall
+0,2023-10-12 14:24:49,Manila & 1st,City Hall
+0,2023-10-30 18:07:26,Exchange Pl,City Hall
+0,2023-10-05 18:45:33,Exchange Pl,City Hall
+0,2023-10-13 18:22:33,Exchange Pl,City Hall
+0,2023-10-26 12:38:47,Manila & 1st,City Hall
+0,2023-10-09 18:02:21,Exchange Pl,City Hall
+0,2023-10-13 13:44:48,Exchange Pl,City Hall
+0,2023-10-27 08:23:55,Exchange Pl,City Hall
+0,2023-10-19 10:34:34,Exchange Pl,City Hall
+0,2023-10-05 20:09:37,Manila & 1st,City Hall
+0,2023-10-13 08:00:25,City Hall - Washington St & 1 St,City Hall
+0,2023-10-06 13:26:31,Exchange Pl,City Hall
+0,2023-10-13 13:24:45,Exchange Pl,City Hall
+0,2023-10-29 20:27:37,Manila & 1st,City Hall
+0,2023-10-10 17:44:05,Exchange Pl,City Hall
+0,2023-10-30 16:29:27,Exchange Pl,City Hall
+0,2023-10-11 20:17:15,Exchange Pl,City Hall
+0,2023-10-09 13:24:32,Exchange Pl,City Hall
+1,2023-10-25 17:49:32,City Hall - Washington St & 1 St,City Hall
+0,2023-10-25 17:11:01,City Hall - Washington St & 1 St,City Hall
+1,2023-10-25 17:48:44,City Hall - Washington St & 1 St,City Hall
+0,2023-10-03 16:01:37,Exchange Pl,City Hall
+0,2023-10-07 18:38:18,Manila & 1st,City Hall
+0,2023-10-02 17:16:49,Exchange Pl,City Hall
+0,2023-10-12 15:11:37,Exchange Pl,City Hall
+1,2023-10-28 23:51:48,Riverview Park,City Hall
+0,2023-10-28 19:38:40,Exchange Pl,City Hall
+0,2023-10-28 08:17:44,Exchange Pl,City Hall
+0,2023-10-03 15:04:56,City Hall,Jackson Square
+0,2023-10-06 10:42:28,City Hall,Broadway & W 25 St
+0,2023-10-06 10:41:52,City Hall,Broadway & W 25 St
+0,2023-10-03 15:07:27,City Hall,Jackson Square
+0,2023-10-06 19:29:17,City Hall,Jackson Square
+0,2023-10-31 11:45:48,Van Vorst Park,City Hall
+0,2023-10-06 10:59:16,Van Vorst Park,City Hall
+0,2023-10-12 19:19:02,Van Vorst Park,City Hall
+0,2023-10-02 12:25:18,Van Vorst Park,City Hall
+0,2023-10-01 17:58:15,Van Vorst Park,City Hall
+0,2023-10-03 15:02:12,Van Vorst Park,City Hall
+0,2023-10-01 11:56:05,Van Vorst Park,City Hall
+0,2023-10-01 12:01:11,Van Vorst Park,City Hall
+0,2023-10-06 21:52:33,Van Vorst Park,City Hall
+0,2023-10-05 16:38:21,Van Vorst Park,City Hall
+0,2023-10-17 20:26:55,Van Vorst Park,City Hall
+0,2023-10-02 08:06:32,Van Vorst Park,City Hall
+0,2023-10-02 07:16:47,Van Vorst Park,City Hall
+0,2023-10-02 07:50:32,Van Vorst Park,City Hall
+0,2023-10-02 07:33:31,Van Vorst Park,City Hall
+0,2023-10-02 08:13:19,Van Vorst Park,City Hall
+0,2023-10-02 07:59:47,Van Vorst Park,City Hall
+0,2023-10-14 15:14:47,Van Vorst Park,City Hall
+0,2023-10-11 11:23:04,Van Vorst Park,City Hall
+0,2023-10-07 16:50:45,Van Vorst Park,City Hall
+0,2023-10-26 13:16:14,Van Vorst Park,City Hall
+0,2023-10-01 15:55:58,Van Vorst Park,City Hall
+0,2023-10-15 11:13:38,Van Vorst Park,City Hall
+0,2023-10-26 11:55:53,Van Vorst Park,City Hall
+0,2023-10-13 16:11:54,Van Vorst Park,City Hall
+0,2023-10-06 15:42:48,Van Vorst Park,City Hall
+0,2023-10-11 17:18:50,Van Vorst Park,City Hall
+0,2023-10-10 11:13:42,Van Vorst Park,City Hall
+0,2023-10-17 08:01:17,Van Vorst Park,City Hall
+0,2023-10-08 18:39:42,Van Vorst Park,City Hall
+0,2023-10-28 11:41:41,Van Vorst Park,City Hall
+1,2023-10-25 16:35:16,Van Vorst Park,City Hall
+0,2023-10-05 09:17:27,Van Vorst Park,City Hall
+0,2023-10-31 11:21:55,Van Vorst Park,City Hall
+0,2023-10-12 11:26:33,Van Vorst Park,City Hall
+0,2023-10-07 10:59:11,Van Vorst Park,City Hall
+0,2023-10-03 11:21:27,Van Vorst Park,City Hall
+0,2023-10-11 21:47:01,Van Vorst Park,City Hall
+0,2023-10-02 17:33:25,City Hall,Madison St & 10 St
+0,2023-10-24 21:25:17,City Hall,Madison St & 10 St
+0,2023-10-24 21:15:00,Madison St & 10 St,City Hall
+0,2023-10-18 20:55:20,Madison St & 10 St,City Hall
+0,2023-10-30 21:05:21,Madison St & 10 St,City Hall
